@@ -1,3 +1,7 @@
 url: "https://jprogr.github.io/"
 baseurl: ""
-title: "jProgr's stuff"
+title: "jProgr personal site"
+defaults:
+  -
+    values:
+      layout: "default"
