@@ -4,9 +4,9 @@ permalink: /this-is-how-it-feels-by-inspiral-carpets-to-toki-pona
 custom_date: "200605"
 ---
 
-## A translation of the song This Is How It Feels by Inspiral Carpets to Toki Pona
+# A translation of the song This Is How It Feels by Inspiral Carpets to Toki Pona
 
-### ni li nasin tawa pilin pi kulupu Inspiral Carpets
+## ni li nasin tawa pilin pi kulupu Inspiral Carpets
 
 mije li sona ala  
 jan lili li sona ala e ike mama meli  
@@ -41,6 +41,7 @@ a, ni li nasin tawa pilin taso
 ni li nasin tawa pilin lili  
 ni li nasin tawa pilin e ni: toki mi li ala  
 
----
+## Notas
 
 - First published at Medium.com on 171103.
+- English lyrics: Copyright by Universal Music Publishing Group, BMG.
