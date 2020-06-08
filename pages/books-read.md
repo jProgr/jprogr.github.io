@@ -1,0 +1,168 @@
+---
+title: "Books read"
+permalink: "/books-read"
+---
+
+# Books read
+
+These are lists of the books that I have read and enjoyed enough to put in a list.
+
+## English
+
+- Focus - Leo Babauta.
+- Simple guide to a minimalist life - Leo Babauta.
+- The little book of contentment - Leo Babauta.
+- Off to be the wizard - Scott Meyer.
+- Spell or high water - Scott Meyer.
+- An unwelcome quest - Scott Meyer.
+- Raising my rainbow - Lori Duron.
+- NPCs - Drew Hayes.
+- The utterly uninteresting and unadventurous tales of Fred, the vampire accountant - Drew Hayes.
+- Nine motivational essays on photography - Scott Bourne.
+- The ABC of Relativity - Bertrand Russell.
+- The problems of philosophy - Bertrand Russell.
+- The Machine Stops - E. M. Forster.
+- Dad is fat - Jim Gaffigan.
+- Food: A love story - Jim Gaffigan.
+- Concerning the spiritual in art - Wassily Kandinsky.
+- Essays on work and culture - Hamilton Wright Mabie.
+- Toki Pona - Sonja Lang.
+- Toki Pona: The Simplest Language in the World - Robert Warnke.
+- Toki Pona: The language of good. The simple way of life - B. J. Knight.
+- Me talk pretty one day - David Sedaris.
+- I could pee on this - Francesco Marciuliano.
+- A Dog's heart - Mikhail Bulgakov.
+- The 100-year-old man who climbed out the window and disappeared - Jonas Jonasson.
+- The manga guide to Relativity - Hideo Nitta, Masafumi Yamamoto y Keita Takatsu.
+- How to Live on Twenty-Four Hours a Day - Arnold Bennett.
+- Lolita - Vladimir Nabokov.
+- Invitation to a Beheading - Vladimir Nabokov.
+- Beginning iPhone Development with Swift 5 - Wallace Wang.
+- An Introduction to Philosophy - Daniel J. Sullivan.
+- Emperor Mollusk versus The Sinister Brain - Lee Martinez.
+- Chasing the moon - Lee Martinez
+- Divine misfortune - Lee Martinez.
+- The man who mistook his wife for a hat: and other clinical tales - Oliver Sacks.
+- Minimalism: Essential Essays - Ryan Nicodemus y Joshua Fields Millburn.
+- Simplicity: Essays - Joshua Fields Millburn y Ryan Nicodemus.
+- Existentialism is a humanism - Jean-Paul Sartre.
+- Domain-Driven Design - Eric Evans.
+- Meditations on first philosophy - René Descartes.
+- Discourse on the method for conducting one's reason well and for seeking truth in the sciences - René Descartes.
+
+## Español
+
+- N.P. - Banana Yoshimoto.
+- Kitchen - Banana Yoshimoto.
+- Tsugumi - Banana Yoshimoto.
+- Sueño profundo - Banana Yoshimoto.
+- Recuerdos de un callejón sin salida - Banana Yoshimoto.
+- Soy un gato - Natsume Souseki.
+- Lo bello y lo triste - Yasunari Kawabata.
+- ¿Sueñan los androides con ovejas eléctricas? - Philip K. Dick.
+- Máster de fotografía - Michael Busselle y Julien Busselle.
+- Crónicas marcianas - Ray Bradbury.
+- Fahrenheit 451 - Ray Bradbury.
+- Zen en el arte de escribir - Ray Bradbury.
+- Los fantasmas ausentes - Eva Ibbotson.
+- Leonardo Da Vinci: Anatomía de la vida - Luis Raúl Lépori y Walter Köhler.
+- La máquina humana - Luis Lépori y Walter Köhler.
+- La tumba - José Agustín.
+- Mundo anillo - Larry Niven.
+- Packaging - Màrius Sala.
+- Teoría del psicoanálisis - C.G. Jung.
+- ¿Cómo nacen los objetos? - Bruno Munari.
+- La venganza de la Tierra - James Lovelock.
+- 1001 trucos publicitarios - Luc Dupont.
+- Superficiales - Nicholas Carr.
+- La trilogía de Nueva York - Paul Auster.
+- Tombuctú - Paul Auster.
+- La teoría del todo - Stephen Hawking.
+- El universo en una cáscara de nuez - Stephen Hawking.
+- Historia del tiempo - Stephen Hawking.
+- El gran diseño - Stephen Hawking y Leonard Mlodinow.
+- La inteligencia: Su crecimiento y medida - Juan Delval.
+- El principio del placer - José Emilio Pacheco.
+- La mamá de Kepler - Sergio de Régules.
+- El color de la magia - Terry Pratchett.
+- La luz fantástica - Terry Pratchett.
+- Ritos iguales - Terry Pratchett.
+- Desayuno con partículas - Sonia Fernández-Vidal y Francesc Miralles.
+- Confidencias de un superhéroe - Jaime Alfonso Sandoval.
+- Ventajas de viajar en tren - Antonio Orejudo.
+- El curioso incidente del perro a medianoche - Mark Haddon.
+- Yo, robot - Isaac Asimov.
+- Bóvedas de acero - Isaac Asimov.
+- Preludio a la Fundación - Isaac Asimov.
+- Cuentos completos 1 - Isaac Asimov.
+- Cuentos completos 2 - Isaac Asimov.
+- El Sol desnudo - Isaac Asimov.
+- El río viviente - Isaac Asimov.
+- Trilogía de la Fundación - Isaac Asimov.
+- El gran libro del diseño de productos - Catherine McDermott.
+- 2001: Una odisea espacial - Arthur C. Clarke.
+- 2010: Odisea dos - Arthur C. Clarke.
+- 2061: Odisea tres - Arthur C. Clarke.
+- El mejor de los lugares - Henry James.
+- Tokio blues. Norwegian Wood - Haruki Murakami.
+- El fin del mundo y un despiadado país de las maravillas - Haruki Murakami.
+- 1Q84 - Haruki Murakami.
+- Baila, baila, baila - Haruki Murakami.
+- Crónica del pájaro que da cuerda al mundo - Haruki Murakami.
+- After Dark - Haruki Murakami.
+- Los años de peregrinación del chico sin color - Haruki Murakami.
+- Cómo empezar a escribir historias - Alberto Chimal.
+- Que todo sea como nunca fue - Joachim Meyerhoff.
+- Momo - Michael Ende.
+- Doce pistas falsas - Jeffrey Archer.
+- 52 tips para escribir claro y entendible - Eusebio Ruvalcaba.
+- Sin horarios - Cali Ressler y Jody Thompson.
+- Los peores desastres históricos - Chris McNab.
+- Publicidad creativa - Mario Pricken.
+- Nietzsche para principiantes - Marc Sautet y Patrick Boussignac.
+- Filosofía para principiantes - Rius.
+- Un riñón para Amanda - Ken McClure.
+- El libro de los porqués - Irene Lara.
+- Los Mayas, genios de la ciencia y la astrología - George Reston.
+- 50 clásicos de la Psicología - Tom Butler-Bowdon.
+- Cómo hacer buenas fotografías - John Hedgecoe.
+- El arte de la fotografía en color - John Hedgecoe.
+- Los orígenes - Leopoldo Benacchio, Piero Benedetti, Maria Berica Rasotto y Corrado Venturini.
+- La psicología de la mentira - José Martínez Selva.
+- Fundamentos del diseño creativo - Gavin Ambrose y Paul Harris.
+- La gente feliz lee y toma café - Agnès Martin-Lugand.
+- Ciencia y tecnología - Alexander Grimm, Christoph Hahn, Ulrich Hellenbrand, Ute Künkele, Horst Laumanns y Ralf Leinburger.
+- Nada - Janne Teller.
+- Historia de una ballena blanca - Luis Sepúlveda.
+- El clan de los insomnes - Vivian Abenshushan.
+- El libro de la nada - John D. Barrow.
+- Trilogía de las Tierras - Jordi Sierra I Fabra.
+- Escribir - Pilar Alberdi.
+- Tengo ganas de morirme para ver qué cara pongo - Miguel Albandoz.
+- Cazadores de microbios - Paul de Kruif.
+- Enseñanzas básicas de los grandes filósofos - S.E. Frost, Jr.
+- Y colorín colorado este cuento aún no se ha acabado - Odin Dupeyron.
+- El cortador de cañas - Junichiro Tanizaki.
+- Samuráis - Stephen Turnbull.
+- ¡Muuu! - David Safier.
+- 50 cosas que hay que saber sobre historia del mundo - Ian Crofton.
+- El matemático del rey - Juan Carlos Arce.
+- Gestiona mejor tu vida - Alberto Pena.
+- Fotografía nocturna - Alex Larg y Jane Wood.
+- 365 días para ser más culto - David Kidder y Noah Oppenheim.
+- La sombra del viento - Carlos Ruiz Zafón.
+- El poder del cerebro izquierdo - Allen Bragdon y David Gamon.
+- El hombre light - Enrique Rojas.
+- Historia de las matemáticas - Ian Stewart.
+- Teorías de la Personalidad - George Boeree y Rafael Gautier Roques.
+- Un mundo feliz - Aldous Huxley.
+- Delicioso suicidio en grupo - Arto Paasilinna.
+- Tres historias para una taza de café - Tere Días Prats.
+- El pensamiento práctico - Edward de Bono.
+- El lado oscuro de la Tierra - Alfred Bester.
+- El hechicero - Vladimir Nabokov.
+- Gramática de la fantasía - Gianni Rodari.
+- Para escribir una novela - Silvia Adela Kohan.
+- Dar vida al personaje - Silvia Adela Kohan.
+- Una brevísima introducción a la lógica - Graham Priest.
+- La teoría de casi todo - Robert Oerter.
