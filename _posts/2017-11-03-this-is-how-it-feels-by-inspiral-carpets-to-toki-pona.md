@@ -41,7 +41,7 @@ a, ni li nasin tawa pilin taso
 ni li nasin tawa pilin lili  
 ni li nasin tawa pilin e ni: toki mi li ala  
 
-## Notas
+## Notes
 
 - First published at Medium.com on 171103.
 - English lyrics: Copyright by Universal Music Publishing Group, BMG.
