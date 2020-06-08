@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [A translation of the song Institutionalized by Suicidal Tendencies to Toki Pona](/institutionalized-by-suicidal-tendencies-to-toki-pona).
 - [Books read](/books-read).
 - [A translation of the song My Birthday Comes on Christmas by Spike Jones to Toki Pona](/my-birthday-comes-on-christmas-by-spike-jones-to-toki-pona).
 - [Una traducción de la canción Solo mentiras de Lupita D’Alessio al Esperanto](/solo-mentiras-de-lupita-d-alessio-al-esperanto).
