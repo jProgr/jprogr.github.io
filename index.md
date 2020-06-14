@@ -4,10 +4,12 @@ title: "jProgr personal site"
 
 # jProgr personal site
 
-I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawing, painting, languages, philosophy. Email me at 8537691@gmail.com.
+I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawing, painting, languages, philosophy. Content in english, esperanto, español and toki pona. Email me at 8537691@gmail.com.
 
 ## Content
 
+- [A translation of Send in the clowns by Barbra Streisand to Esperanto](/send-in-the-clowns-by-barbra-streisand-to-esperanto).
+- [El gran bocado](/el-gran-bocado).
 - [«No, no quema» - Francisco](/no-no-quema-francisco).
 - [Sube y baja](/sube-y-baja).
 - [Tacto](/tacto).
