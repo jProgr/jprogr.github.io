@@ -8,6 +8,9 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [6921991](/6921991).
+- [kasi kule](/kasi-kule).
+- [Cada estrella](/cada-estrella).
 - [A translation of Send in the clowns by Barbra Streisand to Esperanto](/send-in-the-clowns-by-barbra-streisand-to-esperanto).
 - [El gran bocado](/el-gran-bocado).
 - [«No, no quema» - Francisco](/no-no-quema-francisco).
