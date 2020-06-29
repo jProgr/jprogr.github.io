@@ -8,6 +8,11 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [La repentina conciencia de una estrella de mar](/la-repentina-conciencia-de-una-estrella-de-mar).
+- [Cada intento - Bromelia fasciada](/cada-intento-bromelia-fasciada).
+- [¿Por qué el universo habría de tomarse la molestia de existir?](/universo-existir).
+- [De videojuegos, habilidades, ficción y hacer todo eso](/videojuegos-habilidades).
+- [A veces las cosas bailan](/a-veces-las-cosas-bailan).
 - [6921991](/6921991).
 - [kasi kule](/kasi-kule).
 - [Cada estrella](/cada-estrella).
