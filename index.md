@@ -4,10 +4,11 @@ title: "jProgr personal site"
 
 # jProgr personal site
 
-I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawing, painting, languages, philosophy. Content in english, esperanto, español and toki pona. Email me at 8537691@gmail.com.
+I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawing, painting, languages, philosophy. Content in english, esperanto, español, elefen and toki pona. Email me at 8537691@gmail.com.
 
 ## Content
 
+- [Days of the week in Elefen](/days-week-elefen).
 - [La humanidad y sus nombres](/humanidad-nombres).
 - [82640525](/82640525).
 - [Marbeldin - La tierra de picos no nevados](/marbeldin-la-tierra-de-picos-no-nevados).

@@ -47,6 +47,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Simplicity: Essays - Joshua Fields Millburn y Ryan Nicodemus.
 - Existentialism is a humanism - Jean-Paul Sartre.
 - Domain-Driven Design - Eric Evans.
+- Grammar of Lingua Franca Nova - Cornelis George Boeree?
 - Meditations on first philosophy - René Descartes.
 - Discourse on the method for conducting one's reason well and for seeking truth in the sciences - René Descartes.
 
