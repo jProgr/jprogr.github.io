@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [The numbers in Elefen](/numbers-elefen).
 - [The months in Elefen](/months-elefen).
 - [Days of the week in Elefen](/days-week-elefen).
 - [La humanidad y sus nombres](/humanidad-nombres).
