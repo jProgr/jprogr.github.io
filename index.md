@@ -8,6 +8,9 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [The colors in Elefen](/colors-elefen).
+- [829](/829).
+- [Camarones (gourmet)](/camarones-gourmet).
 - [The numbers in Elefen](/numbers-elefen).
 - [The months in Elefen](/months-elefen).
 - [Days of the week in Elefen](/days-week-elefen).
