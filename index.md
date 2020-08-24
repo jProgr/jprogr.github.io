@@ -8,6 +8,8 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [7352](/7352)
+- [3333360](/3333360)
 - [Perce la universo debe pesti esiste?](/universo-esiste).
 - [The colors in Elefen](/colors-elefen).
 - [829](/829).
