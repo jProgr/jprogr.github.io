@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [Interior](/interior).
 - [Erupción - Bromelia fasciada](/erupcion-bromelia-fasciada).
 - [telo lili en kasi kule](/telo-lili-en-kasi-kule).
 - [7352](/7352).
