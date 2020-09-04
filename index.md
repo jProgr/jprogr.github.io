@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [Lección de baile - Tulipán](/leccion-de-baile-tulipan).
 - [The numbers in Esperanto](/numbers-in-esperanto).
 - [Interior](/interior).
 - [Erupción - Bromelia fasciada](/erupcion-bromelia-fasciada).
