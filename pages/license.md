@@ -5,7 +5,9 @@ permalink: "/license"
 
 # About the license of this site and the content in it
 
-Unless otherwise noted, the content on this site is released into the public domain. I may use other's people work in here, refer to or link to it, I will specify that in a case by case basis, that content preserves the license of its authors, only my contributions are uncopyrighted unless the author of the original work has stated something else. Where software is published, please see the "Unlicense" section; where text, images, and other content is published please see "CC0 1.0 Universal" section.
+Unless otherwise noted, the content on this site is released into the public domain. Feel free to ask me for bigger resolutions of any image on this website.
+
+I may use other's people work in here, refer to or link to it, I will specify that in a case by case basis, that content preserves the license of its authors, only my contributions are uncopyrighted unless the author of the original work has stated something else. Where software is published, please see the "Unlicense" section; where text, images, and other content is published please see "CC0 1.0 Universal" section.
 
 ## CC0 1.0 Universal
 
