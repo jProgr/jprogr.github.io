@@ -8,6 +8,9 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [Sollozo](/sollozo).
+- [Dentro de Caronte](/dentro-de-caronte).
+- [Un regalo y un abrazo](/un-regalo-y-un-abrazo).
 - [We should stop translating languages' and countries' names](/languages-proper-names).
 - [Lección de baile - Tulipán](/leccion-de-baile-tulipan).
 - [The numbers in Esperanto](/numbers-in-esperanto).
