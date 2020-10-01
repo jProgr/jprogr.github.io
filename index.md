@@ -8,6 +8,8 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [El juicio](/el-juicio).
+- [Eclipse](/eclipse-2017).
 - [Sollozo](/sollozo).
 - [Dentro de Caronte](/dentro-de-caronte).
 - [Un regalo y un abrazo](/un-regalo-y-un-abrazo).
