@@ -8,6 +8,8 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [Oyentes](/oyentes).
+- [Sismo](/sismo).
 - [El juicio](/el-juicio).
 - [Eclipse](/eclipse-2017).
 - [Sollozo](/sollozo).
