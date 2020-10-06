@@ -8,6 +8,8 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [El hijo de la nieve](/el-hijo-de-la-nieve).
+- [Las reparaciones en el jardín](/las-reparaciones-en-el-jardin).
 - [Oyentes](/oyentes).
 - [Sismo](/sismo).
 - [El juicio](/el-juicio).
