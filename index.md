@@ -8,6 +8,8 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [Dentro de Europa](/dentro-de-europa).
+- [Oficina](/oficina).
 - [El hijo de la nieve](/el-hijo-de-la-nieve).
 - [Las reparaciones en el jardín](/las-reparaciones-en-el-jardin).
 - [Oyentes](/oyentes).
