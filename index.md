@@ -8,6 +8,8 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [Dentro de ‘Oumuamua](/dentro-de-oumuamua).
+- [Bastet](/bastet).
 - [Rust](/rust).
 - [Sobble](/sobble).
 - [Dentro de Europa](/dentro-de-europa).
