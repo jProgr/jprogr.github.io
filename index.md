@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [A translation of random dril tweets to Toki Pona](/random_dril_tweets_toki_pona).
 - [Dentro de ‘Oumuamua](/dentro-de-oumuamua).
 - [Bastet](/bastet).
 - [Rust](/rust).
