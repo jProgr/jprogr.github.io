@@ -32,7 +32,7 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 - [telo lili en kasi kule](/telo-lili-en-kasi-kule).
 - [7352](/7352).
 - [3333360](/3333360).
-- [Perce la universo debe pesti esiste?](/universo-esiste).
+- [Perce la universo forsa se per esiste?](/universo-esiste).
 - [The colors in Elefen](/colors-elefen).
 - [829](/829).
 - [Camarones (gourmet)](/camarones-gourmet).

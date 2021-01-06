@@ -13,4 +13,4 @@ Aunque, eventualmente tienes que dejar volar a tus humanitos. Esos pequeñines n
 ## Notas
 
 - Inicialmente publicado en Pen.io.
-- También disponible en Elefen: [Perce la universo debe pesti esiste?](/universo-esiste).
+- También disponible en Elefen: [Perce la universo forsa se per esiste?](/universo-esiste).
