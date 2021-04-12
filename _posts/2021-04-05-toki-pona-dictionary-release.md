@@ -16,8 +16,13 @@ The code is open source, if you want to contribute or just take a look, you can 
 
 The project does not follow semantic versioning due to its simplicity, so each new version is just the date of release written as “yymmdd”. The releases from newest to oldest:
 
-### 210217
+### 210412
 This is the current version.
+
+Changed
+- Added new word to the dictionary.
+
+### 210217
 
 Changed:
 - The search algorithm now uses complete words instead of partial ones.
