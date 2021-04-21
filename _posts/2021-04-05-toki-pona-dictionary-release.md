@@ -19,7 +19,7 @@ The project does not follow semantic versioning due to its simplicity, so each n
 ### 210412
 This is the current version.
 
-Changed
+Changed:
 - Added new word to the dictionary.
 
 ### 210217
