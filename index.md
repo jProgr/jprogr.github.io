@@ -8,6 +8,8 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [El pastel que ciertamente sabía a pastel](/el-pastel-que-ciertamente-sabia-a-pastel).
+- [Somos personas completamente distintas](/somos-personas-completamente-distintas).
 - [Fracasar y luego volver a fracasar](/fracasar-y-luego-volver-a-fracasar).
 - [Toki Pona Dictionary: A simple Toki Pona - English dictionary](/toki-pona-dictionary-release).
 - [Entre las copas y el pantano](/entre-las-copas-y-el-pantano).
