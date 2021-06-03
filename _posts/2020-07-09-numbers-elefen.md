@@ -33,9 +33,9 @@ On written form, each digit is separated by a dash (-), except for mil and milio
 - 73.02817: setedes-tre punto zero du oto un sete.
 - -1.1: min un punto un.
 - 1/2: dui, un dui.
-- 3/500: tre sincosentos.
-- 1/78: seti setedes-oto.
-- -7/78: min seti setedes-otos.
+- 3/500: tre sincosentis.
+- 1/78: un setedes-oti.
+- -7/78: min sete setedes-otis.
 
 Fractions just add the suffix -i to the numbers and follow the usual rules for word formation: If the word ends with a vowel and its not the only vowel in the word drop that vowel: sete becomes seti—drop the e in setei—, du becomes dui —ends with vowel but it’s the only one so no droppping here—. For some reason 3 is an exception: tre becomes tri.
 
