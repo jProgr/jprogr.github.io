@@ -33,7 +33,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - I could pee on this - Francesco Marciuliano.
 - A Dog's heart - Mikhail Bulgakov.
 - The 100-year-old man who climbed out the window and disappeared - Jonas Jonasson.
-- The manga guide to Relativity - Hideo Nitta, Masafumi Yamamoto y Keita Takatsu.
+- The manga guide to Relativity - Hideo Nitta, Masafumi Yamamoto, Keita Takatsu.
 - How to Live on Twenty-Four Hours a Day - Arnold Bennett.
 - Lolita - Vladimir Nabokov.
 - Invitation to a Beheading - Vladimir Nabokov.
@@ -43,14 +43,18 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Chasing the moon - Lee Martinez
 - Divine misfortune - Lee Martinez.
 - The man who mistook his wife for a hat: and other clinical tales - Oliver Sacks.
-- Minimalism: Essential Essays - Ryan Nicodemus y Joshua Fields Millburn.
-- Simplicity: Essays - Joshua Fields Millburn y Ryan Nicodemus.
+- Minimalism: Essential Essays - Ryan Nicodemus, Joshua Fields Millburn.
+- Simplicity: Essays - Joshua Fields Millburn, Ryan Nicodemus.
 - Existentialism is a humanism - Jean-Paul Sartre.
 - Domain-Driven Design - Eric Evans.
 - Grammar of Lingua Franca Nova - Cornelis George Boeree?
 - Essential Dutch Grammar - Henry R. Stern.
 - Meditations on first philosophy - René Descartes.
 - Discourse on the method for conducting one's reason well and for seeking truth in the sciences - René Descartes.
+
+## Esperanto
+
+- Tri bengalaj fabeloj - Lakshmiswar Sinha.
 
 ## Español
 
@@ -62,13 +66,13 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Soy un gato - Natsume Souseki.
 - Lo bello y lo triste - Yasunari Kawabata.
 - ¿Sueñan los androides con ovejas eléctricas? - Philip K. Dick.
-- Máster de fotografía - Michael Busselle y Julien Busselle.
+- Máster de fotografía - Michael Busselle, Julien Busselle.
 - Crónicas marcianas - Ray Bradbury.
 - Fahrenheit 451 - Ray Bradbury.
 - Zen en el arte de escribir - Ray Bradbury.
 - Los fantasmas ausentes - Eva Ibbotson.
-- Leonardo Da Vinci: Anatomía de la vida - Luis Raúl Lépori y Walter Köhler.
-- La máquina humana - Luis Lépori y Walter Köhler.
+- Leonardo Da Vinci: Anatomía de la vida - Luis Raúl Lépori, Walter Köhler.
+- La máquina humana - Luis Lépori, Walter Köhler.
 - La tumba - José Agustín.
 - Mundo anillo - Larry Niven.
 - Packaging - Màrius Sala.
@@ -82,14 +86,14 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - La teoría del todo - Stephen Hawking.
 - El universo en una cáscara de nuez - Stephen Hawking.
 - Historia del tiempo - Stephen Hawking.
-- El gran diseño - Stephen Hawking y Leonard Mlodinow.
+- El gran diseño - Stephen Hawking, Leonard Mlodinow.
 - La inteligencia: Su crecimiento y medida - Juan Delval.
 - El principio del placer - José Emilio Pacheco.
 - La mamá de Kepler - Sergio de Régules.
 - El color de la magia - Terry Pratchett.
 - La luz fantástica - Terry Pratchett.
 - Ritos iguales - Terry Pratchett.
-- Desayuno con partículas - Sonia Fernández-Vidal y Francesc Miralles.
+- Desayuno con partículas - Sonia Fernández-Vidal, Francesc Miralles.
 - Confidencias de un superhéroe - Jaime Alfonso Sandoval.
 - Ventajas de viajar en tren - Antonio Orejudo.
 - El curioso incidente del perro a medianoche - Mark Haddon.
@@ -118,10 +122,10 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Momo - Michael Ende.
 - Doce pistas falsas - Jeffrey Archer.
 - 52 tips para escribir claro y entendible - Eusebio Ruvalcaba.
-- Sin horarios - Cali Ressler y Jody Thompson.
+- Sin horarios - Cali Ressler, Jody Thompson.
 - Los peores desastres históricos - Chris McNab.
 - Publicidad creativa - Mario Pricken.
-- Nietzsche para principiantes - Marc Sautet y Patrick Boussignac.
+- Nietzsche para principiantes - Marc Sautet, Patrick Boussignac.
 - Filosofía para principiantes - Rius.
 - Un riñón para Amanda - Ken McClure.
 - El libro de los porqués - Irene Lara.
@@ -129,11 +133,11 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - 50 clásicos de la Psicología - Tom Butler-Bowdon.
 - Cómo hacer buenas fotografías - John Hedgecoe.
 - El arte de la fotografía en color - John Hedgecoe.
-- Los orígenes - Leopoldo Benacchio, Piero Benedetti, Maria Berica Rasotto y Corrado Venturini.
+- Los orígenes - Leopoldo Benacchio, Piero Benedetti, Maria Berica Rasotto, Corrado Venturini.
 - La psicología de la mentira - José Martínez Selva.
-- Fundamentos del diseño creativo - Gavin Ambrose y Paul Harris.
+- Fundamentos del diseño creativo - Gavin Ambrose, Paul Harris.
 - La gente feliz lee y toma café - Agnès Martin-Lugand.
-- Ciencia y tecnología - Alexander Grimm, Christoph Hahn, Ulrich Hellenbrand, Ute Künkele, Horst Laumanns y Ralf Leinburger.
+- Ciencia y tecnología - Alexander Grimm, Christoph Hahn, Ulrich Hellenbrand, Ute Künkele, Horst Laumanns, Ralf Leinburger.
 - Nada - Janne Teller.
 - Historia de una ballena blanca - Luis Sepúlveda.
 - El clan de los insomnes - Vivian Abenshushan.
@@ -150,13 +154,13 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - 50 cosas que hay que saber sobre historia del mundo - Ian Crofton.
 - El matemático del rey - Juan Carlos Arce.
 - Gestiona mejor tu vida - Alberto Pena.
-- Fotografía nocturna - Alex Larg y Jane Wood.
-- 365 días para ser más culto - David Kidder y Noah Oppenheim.
+- Fotografía nocturna - Alex Larg, Jane Wood.
+- 365 días para ser más culto - David Kidder, Noah Oppenheim.
 - La sombra del viento - Carlos Ruiz Zafón.
-- El poder del cerebro izquierdo - Allen Bragdon y David Gamon.
+- El poder del cerebro izquierdo - Allen Bragdon, David Gamon.
 - El hombre light - Enrique Rojas.
 - Historia de las matemáticas - Ian Stewart.
-- Teorías de la Personalidad - George Boeree y Rafael Gautier Roques.
+- Teorías de la Personalidad - George Boeree, Rafael Gautier Roques.
 - Un mundo feliz - Aldous Huxley.
 - Delicioso suicidio en grupo - Arto Paasilinna.
 - Tres historias para una taza de café - Tere Días Prats.
