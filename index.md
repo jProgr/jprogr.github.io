@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [Algunas personas guardan cosas y algunas otras no](/guardar-personas).
 - [Yo no soy yo todo el tiempo](/yo-no-soy-yo-todo-el-tiempo).
 - [Elefen pronunciation](/elefen-pronunciation).
 - [Let's just use a universal time](/use-utc).
