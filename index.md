@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawin
 
 ## Content
 
+- [Leer es como ver la televisión](/leer-television).
 - [Sobre la resolución de integrales](/integrales).
 - [Algunas personas guardan cosas y algunas otras no](/guardar-personas).
 - [Yo no soy yo todo el tiempo](/yo-no-soy-yo-todo-el-tiempo).
