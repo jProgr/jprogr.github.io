@@ -23,4 +23,4 @@ Disponible para leer en:
 
 ## Notas
 
-- Originalmente publicado en 141025.
+- Originalmente publicado en 140209.
