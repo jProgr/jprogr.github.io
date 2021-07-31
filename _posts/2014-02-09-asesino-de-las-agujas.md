@@ -13,7 +13,6 @@ Un cuento sobre como un hombre tímido tiene un extraño pasatiempo: Disfruta de
 Disponible para leer en: 
 
 - [ePub](/assets/bin/asesino_de_las_agujas.epub).
-- [Kindle](/assets/bin/asesino_de_las_agujas.mobi).
 - [PDF](/assets/bin/asesino_de_las_agujas.pdf).
 - [txt](/assets/bin/asesino_de_las_agujas.txt).
 
