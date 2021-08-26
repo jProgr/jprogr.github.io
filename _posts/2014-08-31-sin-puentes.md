@@ -13,7 +13,6 @@ Un investigador privado trabaja en un mundo donde no existen las grandes empresa
 Disponible para leer en: 
 
 - [ePub](/assets/bin/sin_puentes.epub).
-- [Kindle](/assets/bin/sin_puentes.mobi).
 - [PDF](/assets/bin/sin_puentes.pdf).
 - [txt](/assets/bin/sin_puentes.txt).
 
