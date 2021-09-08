@@ -26,6 +26,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Food: A love story - Jim Gaffigan.
 - Concerning the spiritual in art - Wassily Kandinsky.
 - Essays on work and culture - Hamilton Wright Mabie.
+- On the nature of totalitarianism - Hannah Arendt.
 - Toki Pona - Sonja Lang.
 - Toki Pona: The Simplest Language in the World - Robert Warnke.
 - Toki Pona: The language of good. The simple way of life - B. J. Knight.
