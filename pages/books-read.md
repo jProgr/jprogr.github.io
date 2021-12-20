@@ -50,6 +50,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Domain-Driven Design - Eric Evans.
 - Grammar of Lingua Franca Nova - George Boeree, Simon Davies.
 - Essential Dutch Grammar - Henry R. Stern.
+- The ultimate book of everyday knots - Geoffrey Budworth.
 - Meditations on first philosophy - René Descartes.
 - Discourse on the method for conducting one's reason well and for seeking truth in the sciences - René Descartes.
 
@@ -57,6 +58,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 
 - Tri bengalaj fabeloj - Lakshmiswar Sinha.
 - La neĝa blovado - Alexander Pushkin.
+- En la tombo - Nikolaj Afrikanoviĉ Borovko.
 
 ## Español
 
