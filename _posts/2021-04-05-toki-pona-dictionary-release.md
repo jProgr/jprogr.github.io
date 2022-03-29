@@ -6,7 +6,11 @@ custom_date: "210405"
 
 # Toki Pona Dictionary: A simple Toki Pona - English dictionary
 
-This is an online dictionary that I built for any person interested in the language Toki Pona. You can find it at: [https://jprogr.github.io/TokiPonaDictionary/](https://jprogr.github.io/TokiPonaDictionary/).
+**The dictionary is no longer online, I've decided to stop development of it. Feel free to fork, publish or modify it how you see fit, it is uncopyrighted**.
+
+---
+
+This is an online dictionary that I built for any person interested in the language Toki Pona. It used to be located at https://jprogr.github.io/TokiPonaDictionary/.
 
 The dictionary includes all the words in a simple page, and a tool to search words and meanings at the same time and some notes of usage at the bottom. It strives to cover all the words as used by Toki Pona speakers without forgetting about the official dictionary. So it includes some unofficial words and meanings but they are always marked with an asterisk.
 
@@ -17,7 +21,6 @@ The code is open source, if you want to contribute or just take a look, you can 
 The project does not follow semantic versioning due to its simplicity, so each new version is just the date of release written as “yymmdd”. The releases from newest to oldest:
 
 ### 210412
-This is the current version.
 
 Changed:
 - Added new word to the dictionary.
