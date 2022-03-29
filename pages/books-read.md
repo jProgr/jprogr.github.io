@@ -43,6 +43,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Emperor Mollusk versus The Sinister Brain - Lee Martinez.
 - Chasing the moon - Lee Martinez
 - Divine misfortune - Lee Martinez.
+- Sapiens - Yuval Noah Harari.
 - The man who mistook his wife for a hat: and other clinical tales - Oliver Sacks.
 - Minimalism: Essential Essays - Ryan Nicodemus, Joshua Fields Millburn.
 - Simplicity: Essays - Joshua Fields Millburn, Ryan Nicodemus.
