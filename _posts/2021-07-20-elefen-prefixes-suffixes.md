@@ -2,13 +2,14 @@
 title: "Word formation, prefixes and suffixes in Elefen"
 permalink: /elefen-prefixes-suffixes
 custom_date: "210720"
+updated_date: "221214"
 ---
 
 # Word formation, prefixes and suffixes in Elefen
 
 New words can be formed in Elefen by adding a suffix, prefix or joining two existing words. Some of these cannot be found in the dictionary.
 
-## Prefixess
+## Prefixes
 
 - anti. To indicate opossition of the word that is attached to. Eroe, antieroe - hero, antihero.
 - auto. To indicate reflection or automatic actions. Aida, autoaida - help, self-help; coreta, autocoreti - correct, to autocorrect.
