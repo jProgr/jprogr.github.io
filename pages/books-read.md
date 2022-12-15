@@ -1,6 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
+updated_date: "221214"
 ---
 
 # Books read
@@ -76,6 +77,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Fahrenheit 451 - Ray Bradbury.
 - Zen en el arte de escribir - Ray Bradbury.
 - Los fantasmas ausentes - Eva Ibbotson.
+- Las de endenantes - Bruno Newman.
 - Leonardo Da Vinci: Anatomía de la vida - Luis Raúl Lépori, Walter Köhler.
 - La máquina humana - Luis Lépori, Walter Köhler.
 - La tumba - José Agustín.
