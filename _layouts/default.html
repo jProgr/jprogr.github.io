@@ -13,12 +13,22 @@
     <body>
         {{ content }}
         <br>
-        <small>{{ page.custom_date }}</small>
+        {% if page.custom_date %}
+            <small>Published: {{ page.custom_date }}</small>
+        {% endif %}
+        {% if page.updated_date %}
+            <small>Updated: {{ page.updated_date }}</small>
+        {% endif %}
         <footer>
             <a href="/">Home</a>,
             <a href="/license">Uncopyrighted</a>,
+            <a rel="noopener" href="/feed.xml">RSS</a>,
+            Discord: jProgr#2357,
+            Email: 8537691@gmail.com,
+            Telegram: @jProgr0,
             <a rel="noopener" href="https://mas.to/@jprogr">Mastodon</a>,
             <a rel="noopener" href="https://twitter.com/jProgr">Twitter</a>,
+            <a rel="noopener" href="https://www.tumblr.com/jprogr">Tumblr</a>,
             <a rel="noopener" href="https://github.com/jProgr">GitHub</a>.
         </footer>
     </body>

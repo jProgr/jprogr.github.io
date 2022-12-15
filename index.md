@@ -4,7 +4,7 @@ title: "jProgr personal site"
 
 # jProgr personal site
 
-I'm Cristóbal Meléndez and I like programming, writing, reading, maths, drawing, painting, languages, philosophy. Content in english, esperanto, español, elefen, toki pona. Email me at 8537691@gmail.com.
+I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, chess, go, LEGO, languages: english, español, mini, esperanto, nederlands, elefen, russian, bahasa indonesia.
 
 ## Content
 
