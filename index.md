@@ -8,7 +8,8 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
-- [List of Mini proper nouns](mini-proper-nouns).
+- [Separating LEGO bricks with a piece of thread](/separating-stubborn-lego-bricks).
+- [List of Mini proper nouns](/mini-proper-nouns).
 - [Word formation, prefixes and suffixes in Elefen](/elefen-prefixes-suffixes).
 - [Sin puentes](/sin-puentes).
 - [Asesino de las agujas](/asesino-de-las-agujas).
