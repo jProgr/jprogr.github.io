@@ -2,7 +2,7 @@
 title: "List of Mini proper nouns"
 permalink: /mini-proper-nouns
 custom_date: "221220"
-updated_date: "221220"
+updated_date: "221226"
 ---
 
 # List of Mini proper nouns
@@ -82,6 +82,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Nepal: Nepal, नेपाल, Nepāl.
 - Nipon: Japan, Nippon, Nihon, 日本, 日本国.
 - Oseania: Oceania.
+- Pisa: pizza, Pisa (Italy).
 - Polska: Poland, Polska.
 - Portugal: Portugal.
 - Rioha: La Rioja.
