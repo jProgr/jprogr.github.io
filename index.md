@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [A translation of The tortoise and the hare by Aesop to Mini](/toti-an-kuneli).
 - [Overmorrow and ereyesterday](/overmorrow-ereyesterday).
 - [Separating LEGO bricks with a piece of thread](/separating-stubborn-lego-bricks).
 - [List of Mini proper nouns](/mini-proper-nouns).

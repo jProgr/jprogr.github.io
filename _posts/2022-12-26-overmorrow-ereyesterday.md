@@ -2,7 +2,7 @@
 title: "Overmorrow and ereyesterday"
 permalink: /overmorrow-ereyesterday
 custom_date: "221226"
-custom_date: "221226"
+updated_date: "221226"
 ---
 
 # Overmorrow and ereyesterday

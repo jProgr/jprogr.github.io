@@ -2,7 +2,7 @@
 title: "List of Mini proper nouns"
 permalink: /mini-proper-nouns
 custom_date: "221220"
-updated_date: "221226"
+updated_date: "221228"
 ---
 
 # List of Mini proper nouns
@@ -16,6 +16,7 @@ The Mini language[^1] has around 1000 words so it lacks words for proper nouns (
 This is a list I have put together from a source spreadsheet[^3] by the author of the language, articles, wikis, and words that I have needed when translating stuff into Mini:
 
 - Afrika: Africa.
+- Aisopo: Aesop (greek fabulist).
 - Amerika: America.
 - Andalusia: Andalucía.
 - Antartika: Antarctica.
