@@ -8,6 +8,8 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [Mini translations](/mini-translations).
+- [A translation of Belling the cat by Aesop to Mini](/en-i-siren-a-gato).
 - [A translation of A raven and a swan by Aesop to Mini](/kali-tori-an-pato).
 - [A translation of The tortoise and the hare by Aesop to Mini](/toti-an-kuneli).
 - [Overmorrow and ereyesterday](/overmorrow-ereyesterday).
