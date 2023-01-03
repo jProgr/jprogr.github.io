@@ -2,6 +2,7 @@
 title: "A translation of Belling the cat by Aesop to Mini"
 permalink: /en-i-siren-a-gato
 custom_date: "230102"
+updated_date: "230102"
 ---
 
 # A translation of Belling the cat by Aesop to Mini
@@ -32,8 +33,9 @@ All the Mice were much surprised that they had not thought of such a plan before
 
 "I will say that the plan of the young Mouse is very good. But let me ask one question: Who will bell the Cat?"
 
-It is one thing to say that something should be done, but quite a different matter to do it
+It is one thing to say that something should be done, but quite a different matter to do it.
 
 ## Notes
 
 - English version from [https://americanliterature.com/author/aesop/short-story/belling-the-cat](https://americanliterature.com/author/aesop/short-story/belling-the-cat).
+- [Mini translations](/mini-translations).
