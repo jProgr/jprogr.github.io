@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [Knots](/knots)
 - [A translation of Hercules and the wagoner by Aesop to Mini](/hercules-an-vagen-man).
 - [Mini translations](/mini-translations).
 - [A translation of Belling the cat by Aesop to Mini](/en-i-siren-a-gato).
