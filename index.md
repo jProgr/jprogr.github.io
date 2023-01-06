@@ -8,6 +8,8 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [Evolución, seres humanos y porque buscamos el dolor](/evolucion-seres-humanos-dolor)
+- [La ciencia es cada día más complicada](/ciencia-complicada)
 - [Knots](/knots)
 - [A translation of Hercules and the wagoner by Aesop to Mini](/hercules-an-vagen-man).
 - [Mini translations](/mini-translations).
