@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [¿A qué se debe que la sangre azul se relacione con la nobleza?](/sangre-azul)
 - [Evolución, seres humanos y porque buscamos el dolor](/evolucion-seres-humanos-dolor)
 - [La ciencia es cada día más complicada](/ciencia-complicada)
 - [Knots](/knots)
