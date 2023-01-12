@@ -8,11 +8,11 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
-- [Go library for the observer abstraction: events](/events-release)
-- [¿A qué se debe que la sangre azul se relacione con la nobleza?](/sangre-azul)
-- [Evolución, seres humanos y porque buscamos el dolor](/evolucion-seres-humanos-dolor)
-- [La ciencia es cada día más complicada](/ciencia-complicada)
-- [Knots](/knots)
+- [Go library for the observer abstraction: events](/events-release).
+- [¿A qué se debe que la sangre azul se relacione con la nobleza?](/sangre-azul).
+- [Evolución, seres humanos y porque buscamos el dolor](/evolucion-seres-humanos-dolor).
+- [La ciencia es cada día más complicada](/ciencia-complicada).
+- [Knots](/knots).
 - [A translation of Hercules and the wagoner by Aesop to Mini](/hercules-an-vagen-man).
 - [Mini translations](/mini-translations).
 - [A translation of Belling the cat by Aesop to Mini](/en-i-siren-a-gato).
