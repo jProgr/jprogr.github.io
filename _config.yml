@@ -1,7 +1,7 @@
 url: "https://jprogr.github.io/"
 baseurl: ""
 title: "jProgr personal site"
-description: "I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, chess, go, LEGO, languages: english, español, mini, esperanto, nederlands, elefen, russian, bahasa indonesia."
+description: "I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, chess, go, LEGO, languages."
 defaults:
   -
     values:
