@@ -2,7 +2,7 @@
 title: "List of Mini proper nouns"
 permalink: /mini-proper-nouns
 custom_date: "221220"
-updated_date: "221228"
+updated_date: "230112"
 ---
 
 # List of Mini proper nouns
@@ -58,6 +58,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Jesu-nati: christmas.
 - Jesu-veni: easter.
 - Jesu: Jesus (from christianity).
+- Jupiter: Jupiter, Iuppiter, Iūpiter.
 - Kanada: Canada.
 - Kantabria: Cantabria.
 - Kasastan: Kazakhstan, Qazaqstan.
