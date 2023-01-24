@@ -1,7 +1,8 @@
 ---
-title: "List of Mini proper nouns"
+title: "Armadillo framework for software development"
 permalink: /armadillo-framework
 custom_date: "230114"
+updated_date: "230124"
 ---
 
 # Armadillo framework for software development
