@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [A translation of Mercury and the woodman by Aesop to Mini](/merkurius-an-kata-igi-man).
 - [Armadillo framework for software development](/armadillo-framework).
 - [A translation of Jupiter and the monkey by Aesop to Mini](/jupiter-an-monki).
 - [Go library for the observer abstraction: events](/events-release).
