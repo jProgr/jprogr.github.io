@@ -2,7 +2,7 @@
 title: "Armadillo framework for software development"
 permalink: /armadillo-framework
 custom_date: "230114"
-updated_date: "230124"
+updated_date: "230202"
 ---
 
 # Armadillo framework for software development
@@ -61,7 +61,7 @@ The Armadillo framework is to be applied per discipline. For example, devs have 
 
 "People are not working on the things I need to": You are using the columns Out and In wrong. If you throw everything into the column In then you reduce the likelihood that a developer will work on the card you want. Remember, the order of cards in a column is irrelevant. Developers can grab any card from those first columns following the criteria. The only priority is set by column presence of Out and In. If there is only a card in the column In, then that one will be worked on next.
 
-"Common, at least give me a daily status meeting": If you need to know what people are working on take a look at the column Dev.
+"Come on, at least give me a daily status meeting": If you need to know what people are working on take a look at the column Dev.
 
 "I don't like the names for the columns": Feel free to rename anything.
 
