@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [A translation of The animals and the plague by Aesop to Mini](/animale-an-lati-maladi).
 - [A translation of Mercury and the woodman by Aesop to Mini](/merkurius-an-kata-igi-man).
 - [Armadillo framework for software development](/armadillo-framework).
 - [A translation of Jupiter and the monkey by Aesop to Mini](/jupiter-an-monki).
