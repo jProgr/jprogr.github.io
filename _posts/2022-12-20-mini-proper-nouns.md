@@ -2,7 +2,7 @@
 title: "List of Mini proper nouns"
 permalink: /mini-proper-nouns
 custom_date: "221220"
-updated_date: "230113"
+updated_date: "230203"
 ---
 
 # List of Mini proper nouns
@@ -68,6 +68,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Katalan: Catalonia, Catalunya, Catalonha, Cataluña, Catalan (language), Català, Valencià, Valencian.
 - Kipro: Cyprus, Κυπριακή Δημοκρατία, Kıbrıs Cumhuriyeti.
 - Kongo: Congo, Congo-Kinshasa, DR Congo, The DRC, The DROC, La RDC.
+- Lan de-i uno de amerika: United States of America, USA.
 - Lanka: Sri Lanka, ශ්‍රී ලංකා, Śrī Laṅkā, இலங்கை, Ilaṅkai.
 - Luksemburg: Luxembourg, Lëtzebuerg, Luxemburg.
 - Madrid: Madrid.
