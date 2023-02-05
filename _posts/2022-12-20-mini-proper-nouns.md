@@ -2,7 +2,7 @@
 title: "List of Mini proper nouns"
 permalink: /mini-proper-nouns
 custom_date: "221220"
-updated_date: "230203"
+updated_date: "230205"
 ---
 
 # List of Mini proper nouns
@@ -24,10 +24,13 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Armenia: Armenia.
 - Asia: Asia.
 - Asturias: Asturias.
+- Atlas-mare: Atlantic Ocean.
 - Australia: Australia.
 - Azeri: Azerbaijan, Azərbaycan.
 - Barselona: Barcelona.
 - Bask-lan: Basque Country, Euskadi, País Vasco, Basque Autonomous Community.
+- Belin-muro: Berlin Wall.
+- Belin: Berlin (Germany).
 - Brasil: Brazil.
 - Britan: Britain, UK, United Kingdom.
 - Danmak: Denmark, Danmark.
@@ -45,8 +48,10 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Galisia: Galicia, Galiza.
 - Germania: Germany, Deutschland.
 - Gris: Greece, Hellenic Republic, Ελλάδα.
+- Ifel-tore: Eiffel Tower.
 - Ila Balea: Balearic Islands, Baleares, Illes Balears.
 - Ila Kanario: Canary Islands, Canarias.
+- Imalea: Himalaya, Himalayas, Himālaya, Himavan, हिमालय.
 - India: India, भारत, Bhārat, Bharat.
 - Indonesia: Indonesia.
 - Irak: Iraq, العراق, al-ʿIrāq.
@@ -59,7 +64,9 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Jesu-veni: easter.
 - Jesu: Jesus (from christianity).
 - Jupiter: Jupiter, Iuppiter, Iūpiter.
+- Kalifornia: California.
 - Kanada: Canada.
+- Kanon: Canon (music, place, surname, religion).
 - Kantabria: Cantabria.
 - Kasastan: Kazakhstan, Qazaqstan.
 - Kastila an Leon: Castile and Leon, Castilla y León, Castiella y Llión, Castela e León.
@@ -85,6 +92,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Navara: Navarre, Navarra, Nafarroa.
 - Nepal: Nepal, नेपाल, Nepāl.
 - Nipon: Japan, Nippon, Nihon, 日本, 日本国.
+- Nu york: New York.
 - Oseania: Oceania.
 - Pisa: pizza, Pisa (Italy).
 - Polska: Poland, Polska.
