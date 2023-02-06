@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [Quick Mini overview](/mini).
 - [A translation of The ant and the dove by Aesop to Mini](/muravi-an-pase-tori).
 - [A translation of The animals and the plague by Aesop to Mini](/animale-an-lati-maladi).
 - [A translation of Mercury and the woodman by Aesop to Mini](/merkurius-an-kata-igi-man).
