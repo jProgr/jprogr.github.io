@@ -2,6 +2,7 @@
 title: "Resources for the Mini language"
 permalink: /mini-resources
 custom_date: "230205"
+updated_date: "230206"
 ---
 
 # Resources for the Mini language
@@ -17,3 +18,5 @@ This a list of resources to learn or related to the Mini language. Some are auth
 - Fandom Wiki with lots of translated articles [https://minilang.fandom.com/wiki/Mini_Wiki](https://minilang.fandom.com/wiki/Mini_Wiki).
 - Unofficial Mini Duolingo Stories [https://duostories.org/mini-en](https://duostories.org/mini-en).
 - List of Mini proper nouns [https://jprogr.github.io/mini-proper-nouns](/mini-proper-nouns).
+- Flashcards as Anki deck [https://ankiweb.net/shared/info/681496372](https://ankiweb.net/shared/info/681496372).
+- Flashcards as Memrise course [https://app.memrise.com/course/6350771/mini-language-1000-words](https://app.memrise.com/course/6350771/mini-language-1000-words).
