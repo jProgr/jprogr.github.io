@@ -2,7 +2,7 @@
 title: "Mini translations"
 permalink: /mini-translations
 custom_date: "230102"
-updated_date: "230206"
+updated_date: "230207"
 ---
 
 # Mini translations
@@ -18,3 +18,7 @@ This a list of material translated by me to Mini.
 - [The ant and the dove by Aesop](/muravi-an-pase-tori).
 - [The ants and the grasshopper by Aesop](/muravi-an-kirikiti).
 - [The tortoise and the hare by Aesop](/toti-an-kuneli).
+
+## Notes
+
+- [Mini resources](/mini-resources).

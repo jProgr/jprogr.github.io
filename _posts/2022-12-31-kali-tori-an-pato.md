@@ -2,7 +2,7 @@
 title: "A translation of A raven and a swan by Aesop to Mini"
 permalink: /kali-tori-an-pato
 custom_date: "221231"
-updated_date: "230102"
+updated_date: "230207"
 ---
 
 # A translation of A raven and a swan by Aesop to Mini
@@ -27,3 +27,4 @@ A change of habits will not alter nature.
 
 - English version from [https://americanliterature.com/author/aesop/short-story/a-raven-and-a-swan](https://americanliterature.com/author/aesop/short-story/a-raven-and-a-swan).
 - [Mini translations](/mini-translations).
+- [Mini resources](/mini-resources).

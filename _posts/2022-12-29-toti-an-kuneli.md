@@ -2,7 +2,7 @@
 title: "A translation of The tortoise and the hare by Aesop to Mini"
 permalink: /toti-an-kuneli
 custom_date: "221229"
-updated_date: "230102"
+updated_date: "230207"
 ---
 
 # A translation of The tortoise and the hare by Aesop to Mini
@@ -43,3 +43,4 @@ Slow and steady wins the race.
 
 - English version from [https://americanliterature.com/author/aesop/short-story/the-tortoise-and-the-hare](https://americanliterature.com/author/aesop/short-story/the-tortoise-and-the-hare).
 - [Mini translations](/mini-translations).
+- [Mini resources](/mini-resources).

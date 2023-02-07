@@ -2,6 +2,7 @@
 title: "A translation of Jupiter and the monkey by Aesop to Mini"
 permalink: /jupiter-an-monki
 custom_date: "230112"
+updated_date: "230207"
 ---
 
 # A translation of Jupiter and the monkey by Aesop to Mini
@@ -30,3 +31,4 @@ Mother love is blind.
 
 - English version from [https://americanliterature.com/author/aesop/short-story/jupiter-and-the-monkey](https://americanliterature.com/author/aesop/short-story/jupiter-and-the-monkey).
 - [Mini translations](/mini-translations).
+- [Mini resources](/mini-resources).

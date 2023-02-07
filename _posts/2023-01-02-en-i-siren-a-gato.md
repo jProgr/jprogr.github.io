@@ -2,7 +2,7 @@
 title: "A translation of Belling the cat by Aesop to Mini"
 permalink: /en-i-siren-a-gato
 custom_date: "230102"
-updated_date: "230102"
+updated_date: "230207"
 ---
 
 # A translation of Belling the cat by Aesop to Mini
@@ -39,3 +39,4 @@ It is one thing to say that something should be done, but quite a different matt
 
 - English version from [https://americanliterature.com/author/aesop/short-story/belling-the-cat](https://americanliterature.com/author/aesop/short-story/belling-the-cat).
 - [Mini translations](/mini-translations).
+- [Mini resources](/mini-resources).

@@ -2,6 +2,7 @@
 title: "A translation of Hercules and the wagoner by Aesop to Mini"
 permalink: /hercules-an-vagen-man
 custom_date: "230104"
+updated_date: "230207"
 ---
 
 # A translation of Hercules and the wagoner by Aesop to Mini
@@ -38,3 +39,4 @@ Heaven helps those who help themselves.
 
 - English version from [https://americanliterature.com/author/aesop/short-story/hercules-and-the-wagoner](https://americanliterature.com/author/aesop/short-story/hercules-and-the-wagoner).
 - [Mini translations](/mini-translations).
+- [Mini resources](/mini-resources).

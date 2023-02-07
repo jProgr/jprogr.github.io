@@ -2,6 +2,7 @@
 title: "A translation of Mercury and the woodman by Aesop to Mini"
 permalink: /merkurius-an-kata-igi-man
 custom_date: "230202"
+updated_date: "230207"
 ---
 
 # A translation of Mercury and the woodman by Aesop to Mini
@@ -58,3 +59,4 @@ Honesty is the best policy.
 
 - English version from [https://americanliterature.com/author/aesop/short-story/mercury-and-the-woodman](https://americanliterature.com/author/aesop/short-story/mercury-and-the-woodman).
 - [Mini translations](/mini-translations).
+- [Mini resources](/mini-resources).

@@ -2,6 +2,7 @@
 title: "A translation of The ant and the dove by Aesop to Mini"
 permalink: /muravi-an-pase-tori
 custom_date: "230204"
+updated_date: "230207"
 ---
 
 # A translation of The ant and the dove by Aesop to Mini
@@ -26,3 +27,4 @@ A kindness is never wasted.
 
 - English version from [https://americanliterature.com/author/aesop/short-story/the-ant-and-the-dove](https://americanliterature.com/author/aesop/short-story/the-ant-and-the-dove).
 - [Mini translations](/mini-translations).
+- [Mini resources](/mini-resources).

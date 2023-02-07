@@ -2,6 +2,7 @@
 title: "A translation of The animals and the plague by Aesop to Mini"
 permalink: /animale-an-lati-maladi
 custom_date: "230203"
+updated_date: "230207"
 ---
 
 # A translation of The animals and the plague by Aesop to Mini
@@ -66,3 +67,4 @@ The weak are made to suffer for the misdeeds of the powerful.
 
 - English version from [https://americanliterature.com/author/aesop/short-story/the-animals-and-the-plague](https://americanliterature.com/author/aesop/short-story/the-animals-and-the-plague).
 - [Mini translations](/mini-translations).
+- [Mini resources](/mini-resources).

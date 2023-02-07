@@ -2,7 +2,7 @@
 title: "List of Mini proper nouns"
 permalink: /mini-proper-nouns
 custom_date: "221220"
-updated_date: "230205"
+updated_date: "230207"
 ---
 
 # List of Mini proper nouns
@@ -129,6 +129,10 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Uimbeldon: Wimbledon (place, sports).
 - Valensia: Valencia, València.
 - Vatikan: The Vatican, Vatican City, Città del Vaticano.
+
+## Notes
+
+- [Mini resources](/mini-resources).
 
 [^1]: The Mini language [https://minilanguage.com/](https://minilanguage.com/)
 [^2]: Guide to Minification [https://minilanguage.medium.com/guide-to-minification-c021f81f9ccf](https://minilanguage.medium.com/guide-to-minification-c021f81f9ccf)
