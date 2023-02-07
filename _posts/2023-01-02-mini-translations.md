@@ -17,6 +17,7 @@ This a list of material translated by me to Mini.
 - [The animals and the plague by Aesop](/animale-an-lati-maladi).
 - [The ant and the dove by Aesop](/muravi-an-pase-tori).
 - [The ants and the grasshopper by Aesop](/muravi-an-kirikiti).
+- [The ass and his driver by Aesop](/tupe-kavalo-an-si-viro-senjore).
 - [The tortoise and the hare by Aesop](/toti-an-kuneli).
 
 ## Notes

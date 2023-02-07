@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [A translation of The ass and his driver by Aesop to Mini](/tupe-kavalo-an-si-viro-senjore).
 - [A translation of The ants and the grasshopper by Aesop to Mini](/muravi-an-kirikiti).
 - [Resources for the Mini language](/mini-resources).
 - [Quick Mini overview](/mini).
