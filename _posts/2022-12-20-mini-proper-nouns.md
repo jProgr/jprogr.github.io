@@ -49,6 +49,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Dolar: dollar, dollars.
 - Eire: Ireland, Éire, Airlann.
 - Elas: Greece, Hellenic Republic, Ελλάδα.
+- Elefen: Elefen, Lingua Franca Nova.
 - Enak: ʿAnāq (not to be confused with "Anak").
 - Eng-lan: England.
 - Engli: English (language, nationality).
@@ -89,6 +90,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Josunmau: Korean (language), 한국어, 조선말 (see "Angugo").
 - Juda-relijon: Judaism, יַהֲדוּת‎‎.
 - Jupiter: Jupiter, Iuppiter, Iūpiter.
+- Kabeile: Kabylia, Kabyle (language, people, place).
 - Kalifornia: California.
 - Kanada: Canada.
 - Kanon: Canon (music, place, surname, religion).

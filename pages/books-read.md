@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "221214"
+updated_date: "230211"
 ---
 
 # Books read
@@ -37,6 +37,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - The 100-year-old man who climbed out the window and disappeared - Jonas Jonasson.
 - The manga guide to Relativity - Hideo Nitta, Masafumi Yamamoto, Keita Takatsu.
 - How to Live on Twenty-Four Hours a Day - Arnold Bennett.
+- 100 Go mistakes and how to avoid them - Teiva Harsanyi.
 - Lolita - Vladimir Nabokov.
 - Invitation to a Beheading - Vladimir Nabokov.
 - Beginning iPhone Development with Swift 5 - Wallace Wang.
