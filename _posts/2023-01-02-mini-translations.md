@@ -11,6 +11,7 @@ This a list of material translated by me to Mini.
 
 - [A raven and a swan by Aesop](/kali-tori-an-pato).
 - [Belling the cat by Aesop](/en-i-siren-a-gato).
+- [Example Mini sentences](/mini-sentences).
 - [Hercules and the wagoner by Aesop](/hercules-an-vagen-man).
 - [Jupiter and the monkey by Aesop](/jupiter-an-monki).
 - [Mercury and the woodman by Aesop](/merkurius-an-kata-igi-man).

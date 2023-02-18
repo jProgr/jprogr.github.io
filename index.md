@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [Example Mini sentences](/mini-sentences).
 - [A translation of The ass and his purchaser by Aesop to Mini](/tupe-kavalo-an-si-viro-kopen-man).
 - [A translation of The ass and his driver by Aesop to Mini](/tupe-kavalo-an-si-viro-senjore).
 - [A translation of The ants and the grasshopper by Aesop to Mini](/muravi-an-kirikiti).
