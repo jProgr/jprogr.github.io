@@ -16,3 +16,13 @@
     left: 0;
     content: "^";
 }
+
+h1 {
+    font-size: 2.3rem;
+}
+
+@media print {
+    footer {
+        display: none;
+    }
+}
