@@ -2,7 +2,7 @@
 title: "List of Mini proper nouns"
 permalink: /mini-proper-nouns
 custom_date: "221220"
-updated_date: "230208"
+updated_date: "230220"
 ---
 
 # List of Mini proper nouns
@@ -149,6 +149,8 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Popula republika de kongo: People's Republic of the Congo, République populaire du Congo (not to be confused with "Popula-regula-gove republika de kongo", "Kongo")
 - Popula-regula-gove republika de kongo: Democratic Republic of the Congo, DRC, République démocratique du Congo, RDC, Repubilika ya Kôngo ya Dimokalasi (not to be confused with "Kongo", "Popula republika de kongo").
 - Portugal: Portugal.
+- Posol: Pozol (drink).
+- Posole: Pozole (food).
 - Rioha: La Rioja.
 - Roka-raka: Rockledge (place).
 - Rusia: Russia, Россия.
