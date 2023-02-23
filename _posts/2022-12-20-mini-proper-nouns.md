@@ -2,7 +2,7 @@
 title: "List of Mini proper nouns"
 permalink: /mini-proper-nouns
 custom_date: "221220"
-updated_date: "230220"
+updated_date: "230222"
 ---
 
 # List of Mini proper nouns
@@ -46,6 +46,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Britan: Britain, UK, United Kingdom.
 - Danmak: Denmark, Danmark.
 - Deanmingu: South Korea, Republic of Korea, ROK, south koreans, 대한민국, Daehan Minguk.
+- Delauer: Delaware.
 - Dolar: dollar, dollars.
 - Eire: Ireland, Éire, Airlann.
 - Elas: Greece, Hellenic Republic, Ελλάδα.
@@ -157,11 +158,13 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Saara: Sahara, الصحراء الكبرى.
 - Santi-feme-paren-monte: Holy Mother (Mount Everest).
 - Saudi-arabia: Saudi Arabia, Kingdom of Saudi Arabia, KSA, Al-Mamlakah al-ʿArabīyah as-Saʿūdīyah, المملكة العربية السعودية,
+- Sbaria: Sweden, Sverige.
 - Seuta: Ceuta.
 - Sidni: Sydney, Sidney (surname).
 - Sina: China, Zhōngguó, 中国, 中國.
 - Sudan: Sudan, السودان.
 - Sude afrika: South Africa (country), Republic of South Africa, Republiek van Suid-Afrika, Repabliki ya Afrika-Borwa, iRiphabliki yeSewula Afrika, Rephaboliki ya Afrika Borwa, iRiphabhulikhi yeNingizimu Afrika, Riphabliki ra Afrika Dzonga, Rephaboliki ya Aforika Borwa, Riphabuḽiki ya Afurika Tshipembe, iRiphabliki yomZantsi Afrika, iRiphabhuliki yaseNingizimu Afrika.
+- Sumatra: Sumatra.
 - Suomi: Finland, Suomi.
 - Tai: Thailand, ราชอาณาจักรไทย, Thai (language), ภาษาไทย, Phasa Thai, Tai (language family).
 - Tansania: Tanzania (place, spider), United Republic of Tanzania, Jamhuri ya Muungano wa Tanzania.
