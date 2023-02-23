@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [Diccionario Mini-Español](/diccionario-mini-espanol).
 - [Example Mini sentences](/mini-sentences).
 - [A translation of The ass and his purchaser by Aesop to Mini](/tupe-kavalo-an-si-viro-kopen-man).
 - [A translation of The ass and his driver by Aesop to Mini](/tupe-kavalo-an-si-viro-senjore).
