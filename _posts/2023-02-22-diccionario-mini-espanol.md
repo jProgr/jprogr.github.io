@@ -2,6 +2,7 @@
 title: "Diccionario Mini-Español"
 permalink: /diccionario-mini-espanol
 custom_date: "230222"
+updated_date: "230224"
 ---
 
 # Diccionario Mini-Español
@@ -1008,6 +1009,6 @@ custom_date: "230222"
 
 - Diccionario en [PDF](/assets/bin/diccionario_mini_espanol.pdf).
 - Diccionario en [CSV](/assets/bin/diccionario_mini_espanol.csv).
-- Diccionario en inglés [https://jprogr.github.io/buku-name](/buku-name).
 - Material original en inglés licenciado independientemente, más información en [https://minilanguage.com](https://minilanguage.com).
-- [Materiales y recursos del idioma Mini](/mini-resources).
+- Mini - English dictionary [https://jprogr.github.io/buku-name](/buku-name).
+- [Materiales para el idioma Mini](/mini-materiales).

@@ -2,7 +2,7 @@
 title: "Resources for the Mini language"
 permalink: /mini-resources
 custom_date: "230205"
-updated_date: "230222"
+updated_date: "230224"
 ---
 
 # Resources for the Mini language
@@ -12,7 +12,6 @@ This a list of resources to learn or related to the Mini language. Some are auth
 - Main page by the creator of the language with more resources [https://minilanguage.com](https://minilanguage.com/).
 - Quick Mini overview [https://jprogr.github.io/mini](/mini).
 - Mini - English dictionary [https://jprogr.github.io/buku-name](/buku-name).
-- Diccionario Mini-Español [https://jprogr.github.io/diccionario-mini-espanol](/diccionario-mini-espanol).
 - Learn Mini in 20 minutes [https://minilanguage.medium.com/learn-mini-in-20-minutes-8c4fa8093f8f](https://minilanguage.medium.com/learn-mini-in-20-minutes-8c4fa8093f8f).
 - Advanced Mini [https://minilanguage.medium.com/learn-mini-ii-advanced-mini-2c537da2678a](https://minilanguage.medium.com/learn-mini-ii-advanced-mini-2c537da2678a).
 - Translated texts [https://jprogr.github.io/mini-translations](/mini-translations).
@@ -21,3 +20,7 @@ This a list of resources to learn or related to the Mini language. Some are auth
 - List of Mini proper nouns [https://jprogr.github.io/mini-proper-nouns](/mini-proper-nouns).
 - Flashcards as Anki deck [https://ankiweb.net/shared/info/681496372](https://ankiweb.net/shared/info/681496372).
 - Flashcards as Memrise course [https://app.memrise.com/course/6350771/mini-language-1000-words](https://app.memrise.com/course/6350771/mini-language-1000-words).
+
+## Notes
+
+- [Materiales en español](/mini-materiales).
