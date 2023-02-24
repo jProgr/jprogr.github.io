@@ -2,7 +2,7 @@
 title: "List of Mini proper nouns"
 permalink: /mini-proper-nouns
 custom_date: "221220"
-updated_date: "230222"
+updated_date: "230224"
 ---
 
 # List of Mini proper nouns
@@ -20,6 +20,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Afganistan: Afghanistan, Afghānistān.
 - Afrika: Africa.
 - Aisopo: Aesop (greek fabulist).
+- Alarbia: Arabic (language), اَلْعَرَبِيَّةُ‎.
 - Aljeri: Algeria, People's Democratic Republic of Algeria, الجزائر, al-Jazāʾir, الدزاير, al-dzāyīr.
 - Amerika: America.
 - Anak: Anak (place, hebrew bible, person), עֲנָק‎, הענק (not to be confused with "Enak").
@@ -35,6 +36,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Atlas-mare: Atlantic Ocean.
 - Australia: Australia.
 - Azeri: Azerbaijan, Azərbaycan.
+- Bangla: Bengali, Bangla, বাংলা.
 - Banglades: Bangladesh, বাংলাদেশ.
 - Barbari: Berber (languages, people), Tamazight, Amazigh (languages, people), Imazighen.
 - Barselona: Barcelona.
@@ -55,9 +57,11 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Eng-lan: England.
 - Engli: English (language, nationality).
 - Espania: España, Spain.
+- Espaniol: Spanish (language), Español.
 - Europa: Europe.
 - Euskara: Basque (language), Euskara (language), Basque Country, Euskadi, País Vasco, Basque Autonomous Community.
 - Everest: Everest, Mount Everest (see "Jomoglanma").
+- Fanse: French (language), Français.
 - Feme-dia: Woman's day, International Women's Day.
 - Filipin: Philippines.
 - Filipinas: Philippines, Pilipinas, Las Islas Filipinas.
@@ -66,13 +70,15 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Galisia: Galicia, Galiza.
 - Gana-imperi: Ghana Empire, Wagadou, Awkar, غانا (not to be confused with "Gana").
 - Gana: Ghana (not to be confused with "Gana-imperi").
-- Gera-en-pase: War and Peace (book).
+- Gera-an-pase: War and Peace (book).
 - Germania: Germany, Deutschland.
 - Gris: Greece, Hellenic Republic, Ελλάδα.
+- Guanga: Mandarin Chinese, 官话.
 - Ifel-tore: Eiffel Tower.
 - Ila Balea: Balearic Islands, Baleares, Illes Balears.
 - Ila Kanario: Canary Islands, Canarias.
 - Imalea: Himalaya, Himalayas, Himālaya, Himavan, हिमालय.
+- Indi: Hindi (language), हिन्दी.
 - India-mare: Indian Ocean.
 - India: India, भारत, Bhārat, Bharat.
 - Indonesia: Indonesia.
@@ -150,10 +156,12 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Popula republika de kongo: People's Republic of the Congo, République populaire du Congo (not to be confused with "Popula-regula-gove republika de kongo", "Kongo")
 - Popula-regula-gove republika de kongo: Democratic Republic of the Congo, DRC, République démocratique du Congo, RDC, Repubilika ya Kôngo ya Dimokalasi (not to be confused with "Kongo", "Popula republika de kongo").
 - Portugal: Portugal.
+- Portukale: Portuguese (language), português, língua portuguesa.
 - Posol: Pozol (drink).
 - Posole: Pozole (food).
 - Rioha: La Rioja.
 - Roka-raka: Rockledge (place).
+- Rusia-linga: Russian (language), русский язык.
 - Rusia: Russia, Россия.
 - Saara: Sahara, الصحراء الكبرى.
 - Santi-feme-paren-monte: Holy Mother (Mount Everest).
@@ -175,6 +183,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Uganda: Uganda.
 - Uimbeldon: Wimbledon (place, sports).
 - Ukraina: Ukraine, Україна, Ukraïna.
+- Urdu: Urdu, اردو.
 - Usbekistan: Uzbekistan, Oʻzbekiston.
 - Valensia: Valencia, València.
 - Vatikan: The Vatican, Vatican City, Città del Vaticano.
