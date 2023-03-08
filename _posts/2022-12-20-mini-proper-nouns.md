@@ -2,7 +2,7 @@
 title: "List of Mini proper nouns"
 permalink: /mini-proper-nouns
 custom_date: "221220"
-updated_date: "230224"
+updated_date: "230307"
 ---
 
 # List of Mini proper nouns
@@ -33,7 +33,9 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Armenia: Armenia.
 - Asia: Asia.
 - Asturias: Asturias.
+- Atlas-luna-pisi: Selene setapinnis, Atlantic moonfish.
 - Atlas-mare: Atlantic Ocean.
+- Ausa: Hausa (people, language), مُوْتَانَنْ هَوْسَ, هَرْشَن هَوْسَ.
 - Australia: Australia.
 - Azeri: Azerbaijan, Azərbaycan.
 - Bangla: Bengali, Bangla, বাংলা.
@@ -44,12 +46,14 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Belin-muro: Berlin Wall.
 - Belin: Berlin (Germany).
 - Bianka-kasa: White House (place).
+- Boston: Boston.
 - Brasil: Brazil.
 - Britan: Britain, UK, United Kingdom.
 - Danmak: Denmark, Danmark.
 - Deanmingu: South Korea, Republic of Korea, ROK, south koreans, 대한민국, Daehan Minguk.
 - Delauer: Delaware.
 - Dolar: dollar, dollars.
+- Duo-rama-atlas-luna-pisi: Selene vomer.
 - Eire: Ireland, Éire, Airlann.
 - Elas: Greece, Hellenic Republic, Ελλάδα.
 - Elefen: Elefen, Lingua Franca Nova.
@@ -62,15 +66,17 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Euskara: Basque (language), Euskara (language), Basque Country, Euskadi, País Vasco, Basque Autonomous Community.
 - Everest: Everest, Mount Everest (see "Jomoglanma").
 - Fanse: French (language), Français.
+- Faser: Fajr (prayer, place), فجر, Фаджр.
 - Feme-dia: Woman's day, International Women's Day.
-- Filipin: Philippines.
 - Filipinas: Philippines, Pilipinas, Las Islas Filipinas.
+- Filipino: Filipino, Wikang Filipino.
 - Fin-lan: Finland, Suomi.
 - Frans: France, Francia.
 - Galisia: Galicia, Galiza.
 - Gana-imperi: Ghana Empire, Wagadou, Awkar, غانا (not to be confused with "Gana").
 - Gana: Ghana (not to be confused with "Gana-imperi").
 - Gera-an-pase: War and Peace (book).
+- Germania-linga: German (language), Deutsch.
 - Germania: Germany, Deutschland.
 - Gris: Greece, Hellenic Republic, Ελλάδα.
 - Guanga: Mandarin Chinese, 官话.
@@ -81,11 +87,13 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Indi: Hindi (language), हिन्दी.
 - India-mare: Indian Ocean.
 - India: India, भारत, Bhārat, Bharat.
+- Indonesia-linga: Indonesian, Bahasa indonesia.
 - Indonesia: Indonesia.
 - Irak: Iraq, العراق, al-ʿIrāq.
 - Iran: Iran, Persia.
 - Ire-lan: Ireland, Éire, Airlann.
 - Ise-lan: Iceland, Ísland.
+- Italia-linga: Italian (language), italiano, lingua italiana.
 - Italia: Italy, Italia.
 - Japan: Japan, Nippon, Nihon, 日本, 日本国.
 - Jemen: Yemen, ٱلْيَمَن.
@@ -95,6 +103,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Jomoglanma: Qomolangma, ཇོ་མོ་གླང་མ, Chomolungma (Mount Everest).
 - Josun: North Korea, Democratic People's Republic of Korea, DPRK, 조선민주주의인민공화국, Chosŏn Minjujuŭi Inmin Konghwaguk.
 - Josunmau: Korean (language), 한국어, 조선말 (see "Angugo").
+- Jouo: Javanese (language), basa Jawa, ꦧꦱꦗꦮ.
 - Juda-relijon: Judaism, יַהֲדוּת‎‎.
 - Jupiter: Jupiter, Iuppiter, Iūpiter.
 - Kabeile: Kabylia, Kabyle (language, people, place).
@@ -113,10 +122,12 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Kolombia: Colombia.
 - Kongo: Congo (people, place, kingdom, language), Kikongo, Republic of the Congo, République du Congo, Republíki ya Kongó, Congo-Brazzaville (not to be confused with "Popula-regula-gove republika de kongo", "Popula republika de kongo").
 - Kristo-relijon: Christianity (religion).
+- Kuontonuua: Cantonese, 廣東話, 广东话.
 - Lan de-i uno de amerika: United States of America, USA.
 - Lanka: Sri Lanka, ශ්‍රී ලංකා, Śrī Laṅkā, இலங்கை, Ilaṅkai.
 - Litora-de-denta-materi: Ivory Coast, Côte d'Ivoire, République de Côte d'Ivoire.
 - London: London.
+- Losban: Lojban, la .lojban., lo jbobau.
 - Luksemburg: Luxembourg, Lëtzebuerg, Luxemburg.
 - Madrid: Madrid.
 - Maja: Maya (civilizations, language, religion, place).
@@ -124,6 +135,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Maleisia: Malaysia (country) (not to be confused with "Malesia").
 - Malesia: Malesia (place, moth) (not to be confused with "Maleisia").
 - Malta: Malta.
+- Marati: Marathi, मराठी.
 - Marok: Morocco.
 - Mega Britan: Great Britain.
 - Mehiko: México (prefer "Meksiko").
@@ -138,10 +150,11 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Mozambik: Mozambique, Moçambique.
 - Mursia: Murcia.
 - Naijiria: Nigeria.
+- Naja: Nigerian Pidgin, Naijá, Naija.
 - Navara: Navarre, Navarra, Nafarroa.
-- Nepal: Nepal, Nepāl, नेपाल.
 - Nepal: Nepal, नेपाल, Nepāl.
 - Nipon: Japan, Nippon, Nihon, 日本, 日本国.
+- Nipongo: Japanese (language), 日本語.
 - Nu York: New York (prefer "Nu-york").
 - Okapi: Okapia johnstoni, okapi, zebra giraffe, forest giraffe.
 - Oksford: Oxford.
@@ -153,6 +166,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Peru: Perú.
 - Pisa: pizza, Pisa (Italy).
 - Polska: Poland, Polska.
+- Polski: Polish (language), polski.
 - Popula republika de kongo: People's Republic of the Congo, République populaire du Congo (not to be confused with "Popula-regula-gove republika de kongo", "Kongo")
 - Popula-regula-gove republika de kongo: Democratic Republic of the Congo, DRC, République démocratique du Congo, RDC, Repubilika ya Kôngo ya Dimokalasi (not to be confused with "Kongo", "Popula republika de kongo").
 - Portugal: Portugal.
@@ -161,6 +175,7 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Posole: Pozole (food).
 - Rioha: La Rioja.
 - Roka-raka: Rockledge (place).
+- Rontgen-radi: X-ray.
 - Rusia-linga: Russian (language), русский язык.
 - Rusia: Russia, Россия.
 - Saara: Sahara, الصحراء الكبرى.
@@ -169,24 +184,33 @@ This is a list I have put together from a source spreadsheet[^3] by the author o
 - Sbaria: Sweden, Sverige.
 - Seuta: Ceuta.
 - Sidni: Sydney, Sidney (surname).
+- Sikilia-lupo: Sicilian wolf, Canis lupus cristaldii.
+- Sikilia: Sicily, Sicilia.
 - Sina: China, Zhōngguó, 中国, 中國.
 - Sudan: Sudan, السودان.
 - Sude afrika: South Africa (country), Republic of South Africa, Republiek van Suid-Afrika, Repabliki ya Afrika-Borwa, iRiphabliki yeSewula Afrika, Rephaboliki ya Afrika Borwa, iRiphabhulikhi yeNingizimu Afrika, Riphabliki ra Afrika Dzonga, Rephaboliki ya Aforika Borwa, Riphabuḽiki ya Afurika Tshipembe, iRiphabliki yomZantsi Afrika, iRiphabhuliki yaseNingizimu Afrika.
 - Sumatra: Sumatra.
 - Suomi: Finland, Suomi.
+- Tagalog: Tagalog, Wikang Tagalog, ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔.
 - Tai: Thailand, ราชอาณาจักรไทย, Thai (language), ภาษาไทย, Phasa Thai, Tai (language family).
+- Tamiru: Tamil, Tamiḻ, தமிழ்.
 - Tansania: Tanzania (place, spider), United Republic of Tanzania, Jamhuri ya Muungano wa Tanzania.
 - Tasmania: Tasmania.
+- Telugu: Telugu, తెలుగు.
 - Titanik: RMS Titanic.
 - Tokio: Tokyo.
 - Turki: Turkey, Türkiye.
+- Turse: Turkish (language), Türkçe, Türk dili.
 - Uganda: Uganda.
 - Uimbeldon: Wimbledon (place, sports).
 - Ukraina: Ukraine, Україна, Ukraïna.
 - Urdu: Urdu, اردو.
 - Usbekistan: Uzbekistan, Oʻzbekiston.
+- Uu-linga: Wu Chinese (languages), 吳語, 吴语.
+- Uu: Wu (region), 吳, 吴.
 - Valensia: Valencia, València.
 - Vatikan: The Vatican, Vatican City, Città del Vaticano.
+- Viet-linga: Vietnamese (language), tiếng Việt.
 - Vietnam: Vietnam, Viet Nam, Việt Nam.
 
 ## Notes
