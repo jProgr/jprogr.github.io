@@ -2,7 +2,7 @@
 title: "Mini translations"
 permalink: /mini-translations
 custom_date: "230102"
-updated_date: "230313"
+updated_date: "230314"
 ---
 
 # Mini translations
@@ -21,6 +21,7 @@ This a list of material translated by me to Mini.
 - [The ass and his driver by Aesop](/tupe-kavalo-an-si-viro-senjore).
 - [The ass and his purchaser by Aesop](/tupe-kavalo-an-si-viro-kopen-man).
 - [The ass and its shadow by Aesop](/tupe-kavalo-an-si-osura).
+- [The ass and the grasshoppers by Aesop](/tupe-kavalo-an-kirikiti).
 - [The tortoise and the hare by Aesop](/toti-an-kuneli).
 
 ## Notes

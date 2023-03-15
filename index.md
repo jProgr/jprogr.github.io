@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [A translation of The ass and the grasshoppers by Aesop to Mini](/tupe-kavalo-an-kirikiti).
 - [A translation of The ass and its shadow by Aesop to Mini](/tupe-kavalo-an-si-osura).
 - [Materiales para el idioma Mini](/mini-materiales).
 - [Diccionario Mini-Español](/diccionario-mini-espanol).
