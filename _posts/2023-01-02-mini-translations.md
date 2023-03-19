@@ -2,7 +2,7 @@
 title: "Mini translations"
 permalink: /mini-translations
 custom_date: "230102"
-updated_date: "230317"
+updated_date: "230318"
 ---
 
 # Mini translations
@@ -10,20 +10,24 @@ updated_date: "230317"
 This a list of material translated by me to Mini.
 
 - [1988 australian newspaper ad about gun laws](/i-pensa-a-si-nun).
-- [A raven and a swan by Aesop](/kali-tori-an-pato).
-- [Belling the cat by Aesop](/en-i-siren-a-gato).
 - [Example Mini sentences](/mini-sentences).
-- [Hercules and the wagoner by Aesop](/hercules-an-vagen-man).
-- [Jupiter and the monkey by Aesop](/jupiter-an-monki).
-- [Mercury and the woodman by Aesop](/merkurius-an-kata-igi-man).
-- [The animals and the plague by Aesop](/animale-an-lati-maladi).
-- [The ant and the dove by Aesop](/muravi-an-pase-tori).
-- [The ants and the grasshopper by Aesop](/muravi-an-kirikiti).
-- [The ass and his driver by Aesop](/tupe-kavalo-an-si-viro-senjore).
-- [The ass and his purchaser by Aesop](/tupe-kavalo-an-si-viro-kopen-man).
-- [The ass and its shadow by Aesop](/tupe-kavalo-an-si-osura).
-- [The ass and the grasshoppers by Aesop](/tupe-kavalo-an-kirikiti).
-- [The tortoise and the hare by Aesop](/toti-an-kuneli).
+
+Aesop fables:
+
+- [A raven and a swan](/kali-tori-an-pato).
+- [Belling the cat](/en-i-siren-a-gato).
+- [Hercules and the wagoner](/hercules-an-vagen-man).
+- [Jupiter and the monkey](/jupiter-an-monki).
+- [Mercury and the woodman](/merkurius-an-kata-igi-man).
+- [The animals and the plague](/animale-an-lati-maladi).
+- [The ant and the dove](/muravi-an-pase-tori).
+- [The ants and the grasshopper](/muravi-an-kirikiti).
+- [The ass and his driver](/tupe-kavalo-an-si-viro-senjore).
+- [The ass and his purchaser](/tupe-kavalo-an-si-viro-kopen-man).
+- [The ass and its shadow](/tupe-kavalo-an-si-osura).
+- [The ass and the grasshoppers](/tupe-kavalo-an-kirikiti).
+- [The ass and the lap dog](/tupe-kavalo-an-topi-noga-dogi).
+- [The tortoise and the hare](/toti-an-kuneli).
 
 ## Notes
 
