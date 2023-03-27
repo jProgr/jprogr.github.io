@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [A translation of the article 15-minute city to Mini](/15-minute-siti).
 - [A translation of The ass and the lap dog by Aesop to Mini](/tupe-kavalo-an-topi-noga-dogi).
 - [A translation of a 1988 australian newspaper ad about gun laws to Mini](/i-pensa-a-si-nun).
 - [A translation of The ass and the grasshoppers by Aesop to Mini](/tupe-kavalo-an-kirikiti).
