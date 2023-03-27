@@ -2,78 +2,317 @@
 title: "Example Mini sentences"
 permalink: /mini-sentences
 custom_date: "230217"
+updated_date: "230327"
 ---
 
 # Example Mini sentences
 
-This is a list of translated sentences to Mini to see words used in context. The sentences come from tatoeba.org but are not directly translated there because currently the language cannot be added to the site (maybe in the future). The work is being done in a [Google sheet](https://docs.google.com/spreadsheets/d/1Uais6lcfFMH8g7_D5p73NxbXR1StJq1brJNnCzsswmY/edit?usp=sharing), if you would like to contribute feel free to contact me.
+This is a list of translated sentences to Mini to see words used in context. The sentences come from multiple sources, mainly tatoeba.org but are not directly translated there because currently the language cannot be added to the site (maybe in the future). The work is being done in a [Google sheet](https://docs.google.com/spreadsheets/d/1Uais6lcfFMH8g7_D5p73NxbXR1StJq1brJNnCzsswmY/edit?usp=sharing), if you would like to contribute feel free to contact me.
 
-- mi i vole savi ke Tom de-i pasa a ke - I want to know what happened to Tom.
-- via penta ano de duka o kansera terapi, si-viro i de fini-make kipa a dereka fase - Throughout the five years of painful cancer treatments, he managed to keep a stiff upper lip.
-- di a mentira diamante - This is a fake diamond.
-- i favo - Please.
-- Mary i de mentira-make no savi ke Tom i de tenta dire a si-feme - Mary pretended not to understand what Tom was trying to tell her.
-- si-viro viro-paren i de aseta a mi ajenda anti si-viro vole - His father consented to my plan against his will.
-- Tom de-i no resi-figura - Tom wasn't lying down.
+- mi i vole savi a ke i pasa go Tom. - I want to know what happened to Tom.
+- via penta ano de duka o kansera terapi, si-viro i de fini-make kipa a dereka fase. - Throughout the five years of painful cancer treatments, he managed to keep a stiff upper lip.
+- di a mentira diamante. - This is a fake diamond.
+- Mary i de mentira-make no savi ke Tom i de tenta dire a si-feme. - Mary pretended not to understand what Tom was trying to tell her.
+- si-viro viro-paren i de aseta a mi ajenda anti si-viro vole. - His father consented to my plan against his will.
+- Tom de-i no resi-figura. - Tom wasn't lying down.
 - da viro-kinde e mui lasi! - How lazy those boys are!
-- rio El Harrach i labora sama open tubo-laji - The El Harrach River functions like an open sewer.
-- Tom i de aseta o solo a semi liabili - Tom only accepted partial responsibility.
-- si-ale i dire ke i de vole make o ni a da - They say they never wanted to do that.
-- Tom i dire o rapi - Tom talks fast.
-- mi e fule en-savi de tu nulo-vina - I'm clearly convinced of your innocence.
-- mi i de no invite a tu - I didn't ask you out.
+- rio El Harrach i labora sama open tubo-laji. - The El Harrach River functions like an open sewer.
+- Tom i de aseta o solo a semi liabili. - Tom only accepted partial responsibility.
+- si-ale i dire ke i de vole make o ni a da. - They say they never wanted to do that.
+- Tom i dire o rapi. - Tom talks fast.
+- mi e fule en-savi de tu nulo-vina. - I'm clearly convinced of your innocence.
+- mi i de no invite a tu. - I didn't ask you out.
 - adio! ven tu i ave a ma tempo, i veni an ludi! - Goodbye! When you have more time, come back and play!
-- mi-ale i no vole a nulo-kipa-tenden-neso en Aljeri - We don't want instability in Algeria.
-- Tom i go lida-make a da - Tom is going to take care of that for us.
-- mi i pensa ke tu i no keredo o an a Tom - I take it you don't believe Tom either.
+- mi-ale i no vole a nulo-kipa-tenden-neso en Aljeri. - We don't want instability in Algeria.
+- Tom i go lida-make a da. - Tom is going to take care of that for us.
+- mi i pensa ke tu i no keredo o an a Tom. - I take it you don't believe Tom either.
 - tu i vole go a eki kon fami, di-dia? - How about going on a family outing to the woods today?
-- mi i no pensa ke da a reaki - I don't think that's the answer.
+- mi i no pensa ke da a reaki. - I don't think that's the answer.
 - tu i favo a ego-ereki? - Are you in favor of independence?
 - tu i go ade go mi ke tu i move a di ofisi? - Will you help me move this desk?
-- si-feme vila e en kolina - Her villa sits on the hill.
-- si-viro i de en-savi a mi ke viva i ke, an mori i sinifi a ke, an rason ke amo e ma poten sama si-duo - He made me see what Life is, and what Death signifies, and why Love is stronger than both.
-- nun, Tom e sama ota man - Tom is like a different person now.
-- Brasil e mui rika; si rika e mui mega; kafe e uno de si o da ma mega rika - Brazil is very rich; its richness is immense; coffee is one of its greatest riches.
-- Mary e bon en si labora - Mary is good at her job.
-- i lase a mi ke mi i dire go tu ke mi i senti o vere e ke - Let me tell you how I really feel.
+- si-feme vila e en kolina. - Her villa sits on the hill.
+- si-viro i de en-savi a mi ke viva i ke, an mori i sinifi a ke, an rason ke amo e ma poten sama si-duo. - He made me see what Life is, and what Death signifies, and why Love is stronger than both.
+- nun, Tom e sama ota man. - Tom is like a different person now.
+- Brasil e mui rika; si rika e mui mega; kafe e uno de si o da ma mega rika. - Brazil is very rich; its richness is immense; coffee is one of its greatest riches.
+- Mary e bon en si labora. - Mary is good at her job.
+- i lase a mi ke mi i dire go tu ke mi i senti o vere e ke. - Let me tell you how I really feel.
 - tu i da sujesi a ke go Tom? - What would you recommend to Tom?
 - si-viro i de kipa e longo tempo? - Did he stay long?
-- pasa tempo ke mi i de go a litora, mi de-i mui sole-fogo - The last time I went to the beach, I got badly sunburned.
-- si-viro i de note a buku ke i dona-mala-name a Aljeri - He wrote a book criticizing Algeria.
-- si-viro i de baka-go a Danmak - He went back to Denmark.
-- Tom i ave a vile-tempo de dipa-melankoli de-i sige de lin de dipa-enejia ato - Tom has periods of debilitating depression followed by bursts of manic activity.
-- mi i go mira a fobo kino - I'm going to see a horror film.
-- an si-viro i de dona-mala-name a Abimelech ka fonte, ke si-viro dulo de-i ave robare o poten - And he reproved Abimelech for a well of water, which his servants had taken away by force.
-- Tom i de baka-dona a si note-pape en si teta poke - Tom put his pad back into his breast pocket.
-- Tom an Mary e bon - Tom and Mary are good.
-- en-i etudi a Barbari de-i ave e vere joli go mi - Studying Berber has been a real joy for me.
+- pasa tempo ke mi i de go a litora, mi de-i mui sole-fogo. - The last time I went to the beach, I got badly sunburned.
+- si-viro i de note a buku ke i dona-mala-name a Aljeri. - He wrote a book criticizing Algeria.
+- si-viro i de baka-go a Danmak. - He went back to Denmark.
+- Tom i ave a vile-tempo de dipa-melankoli de-i sige de lin de dipa-enejia ato. - Tom has periods of debilitating depression followed by bursts of manic activity.
+- mi i go mira a fobo kino. - I'm going to see a horror film.
+- an si-viro i de dona-mala-name a Abimelech ka fonte, ke si-viro dulo de-i ave robare o poten. - And he reproved Abimelech for a well of water, which his servants had taken away by force.
+- Tom i de baka-dona a si note-pape en si teta poke. - Tom put his pad back into his breast pocket.
+- Tom an Mary e bon. - Tom and Mary are good.
+- en-i etudi a Barbari de-i ave e vere joli go mi. - Studying Berber has been a real joy for me.
 - tu i go kan savi o sure e ke se tu i de roga o ni? - How could you know for certain if you never asked?
-- i favo pota a semi botelo de vino go mi - Please bring me a half-bottle of wine.
-- divi-man a en-fini junta en Kabeile - The separatists are a marginal group in Kabylie.
-- Sami i de kamina o rapi - Sami was walking fast.
-- tu e sufi matura ke tu i kan ade a tu-ego - You are old enough to take care of yourself.
+- i favo pota a semi botelo de vino go mi. - Please bring me a half-bottle of wine.
+- divi-man a en-fini junta en Kabeile. - The separatists are a marginal group in Kabylie.
+- Sami i de kamina o rapi. - Sami was walking fast.
+- tu e sufi matura ke tu i kan ade a tu-ego. - You are old enough to take care of yourself.
 - tu a feme-kinde u viro-kinde? - Are you a girl or a boy?
-- mega silen i sede en bete kasa ve so mui de viro an feme i de more enkonte en ota dia - An impressive silence broods over the monstrous structure where such multitudes of men and women were wont to assemble in other days.
-- Tom i de pensa ke Mary i de mentira go si-viro - Tom thought that Mary was lying to him.
-- se mi i kan go, mi i da go - If I could go, I would.
-- Tom i eleti a si natura-eleti - Tom goes with his gut.
-- mi i no viva e nea di - I don't live around here.
-- guru i de anunsi a si vina - The teacher pled guilty.
-- si-viro i de gen a si - He repeated it again.
-- mi i dua a tu. mi i ave a mari-feme an kinde - I beg you. I have a wife and children.
-- da e sama si i debe veni - That's how it has to be.
-- mi i de roga go Mary se si-feme i de vole mira a kino kon mi - I asked Mary if she wanted to go to a movie with me.
-- Ziri i de kuri go baka mun - Ziri ran to the back door.
-- si-ale i veni de mui paisa - They come from many countries.
-- di karo de-i regula de komputa - This car is controlled by a computer.
-- nu mundo semi-aje vile-tempo i en veni - A new worldwide medieval era is coming on.
+- mega silen i sede en bete kasa ve so mui de viro an feme i de more enkonte en ota dia. - An impressive silence broods over the monstrous structure where such multitudes of men and women were wont to assemble in other days.
+- Tom i de pensa ke Mary i de mentira go si-viro. - Tom thought that Mary was lying to him.
+- se mi i kan go, mi i da go. - If I could go, I would.
+- Tom i eleti a si natura-eleti. - Tom goes with his gut.
+- mi i no viva e nea di. - I don't live around here.
+- guru i de anunsi a si vina. - The teacher pled guilty.
+- si-viro i de gen a si. - He repeated it again.
+- mi i dua a tu. mi i ave a mari-feme an kinde. - I beg you. I have a wife and children.
+- da e sama si i debe veni. - That's how it has to be.
+- mi i de roga go Mary se si-feme i de vole mira a kino kon mi. - I asked Mary if she wanted to go to a movie with me.
+- Ziri i de kuri go baka mun. - Ziri ran to the back door.
+- si-ale i veni de mui paisa. - They come from many countries.
+- di karo de-i regula de komputa. - This car is controlled by a computer.
+- nu mundo semi-aje vile-tempo i en veni. - A new worldwide medieval era is coming on.
 - tu i de veni e mui furi ka si-viro ero go ke rason? - Why did you get so angry at his mistake?
 - mi e no feo? - I’m not ugly?
+- viro-kinde i de sede inta feme-kinde. - The boy sat among the girls.
+- si-feme i de no nese make a da labora. - She didn't need to do that work.
+- dia seven, Tom i leje o solo a buku. - Tom does nothing but read books on Sundays.
+- Aljeri i debe kata a relate kon Saudi-arabia? - Should Algeria cut its ties with Saudi Arabia?
+- nu aero e ke mi-ale i nese. - Fresh air is what we need.
+- Ziri e de no inja. - Ziri wasn't wounded.
+- i lase a mi ke mi i make a di e mi jalan. - Let me do this my way.
+- mi-ale i no kan lase mori a di fiore. i favo dusa a si. - We can't let these flowers die. Please water them.
+- Jordan Peterson e raro seketa-man ke i base a si idea en mentira mentira-siensa de Carl Jung. - Jordan Peterson is a weird mystic who bases his ideas on the discredited pseudoscience of Carl Jung.
+- de nun, tu i go veni e tu ego. - From here on out, you'll be on your own.
+- joli-man i de labora o duro en en-i esita a junta ante ludi-man i de apara en patio go fini ludi de karera de mano-balo de Delauer tingi-sekola. - The cheerleaders worked hard to fire up the crowd before the players took the court for the final game of the Delaware high school basketball playoffs.
+- Tom i de puse a gun-boton, pero gun i de no gun. - Tom squeezed the trigger, but the gun didn't fire.
+- viro-paren de Sami i de dire-abuso o mui a si. - Sami's father put him down a lot.
+- vere duro e ke tu i no savi o ankora ke mi-ale i ave a duro. - The real problem is you don't even know we have a problem.
+- mi-ale i jeti a oso en base. - We throw the bones onto the floor.
+- mui desini-evento de-i kan veni dona. - Numerous examples can be given.
+- Tom i viva e fara - Tom lives a long way from here.
+- medi, vino de kaja e no mui bon. - Boxed wine isn't usually very good.
+- tu i vole etudi o mui a si? - Do you want to study it further?
+- nun, Tom e da ma joli man en mundo. - Tom is the happiest person in the world right now.
+- mebi, Tom i go no gana o ni. - Tom probably won't ever win.
+- mi-ale i go enkonte e sige-dia? - Are we meeting tomorrow?
+- kada uno i leje a uno sentense. - Read one sentence each.
+- mi i no savi a ale ke tu i make. - I don't know everything you do.
+- Sami e de dereka an nulo-sori de si-viro keredo. - Sami was direct and unapologetic about his opinions.
+- Yanni i de voka o momen a polisa. - Yanni called the police immediately.
+- de begin de lati-maladi, mi-ale i ave make a deside de-i base en siensa, info an dalili de guru de sano. - Since the onset of the pandemic, we have made decisions based on science, data and evidence from health experts.
+- en-i open o mui lenta o ade a ventana, si-ale i de arapan-kipa tila kali nube i de ave osura o semi a eve, an den uno de uno i de kamina go mini gaden. - Opening the window very slowly and carefully, they waited until a dark cloud had somewhat obscured the night, and then one by one passed through into the little garden.
+- tu i ave voka o deja a sano-karo? - Have you already called an ambulance?
+- Tom de-i dona a da labora. - Tom was assigned that task.
+- mi i de make a some-kosa seketa. - I did something mysterious.
+- Sumatra e ila. - Sumatra is an island.
+- mi i viva en Nipon. - I live in Japan.
+- mi e duka. - I am hurt.
+- i mori, inseto! - Die, insect!
+- tu e tupe. - You're morons.
+- gato i favo a fiba. - Cats like yarn.
+- i para mala-name. - Stop cursing.
+- si-feme i de go en si-feme moto-bike. - She took off on her motorcycle.
+- mi i vole sesi a tu. - I want to make love with you.
+- i lase tenta! - Let's try!
+- bon-veni - Welcome
+- salu - Hello (General greeting)
+- salu - Hello (on phone)
+- tu e ke? - How are you?
+- bon - Fine, thanks! (Reply to 'How are you?')
+- mi-duo i no ave mira a mi-duo e mui tempo  - Long time no see
+- tu name a ke? - What's your name?
+- mi name a… - My name is…
+- tu i veni e de ke? - Where are you from?
+- mi i veni de… - I'm from…
+- mi e joli ke mi i de enkonte a  tu - Pleased to meet you
+- bon maten - Good morning (Morning greeting)
+- bon afa-semi-dia - Good afternoon (Afternoon greeting)
+- bon eve - Good evening (Evening greeting)
+- bon eve - Good night
+- adio - Goodbye (Parting phrases)
+- bon luki! - Good luck!
+- bon! - Cheers! Good Health! (Toasts used when drinking)
+- i ave a bon dia - Have a nice day
+- i joli a manja - Bon appetit / Have a nice meal
+- adio - Bon voyage / Have a good journey
+- ja - Yes
+- no - No
+- mebi - Maybe
+- mi i no savi - I don't know
+- tu i savi? - Do you understand?
+- mi i savi - I understand
+- mi i no savi - I don't understand
+- favo, i pale e ma lenta - Please speak more slowly
+- favo, i dire o gen a da - Please say that again
+- favo, i note a si - Please write it down
+- tu i savi a Engli? - Do you speak English?
+- tu i savi a…? - Do you speak [Language]?
+- ja, mini - Yes, a little (reply to 'Do you speak ...?')
+- tu i savi a linga ke e ota de…? - Do you speak a language other than [Language]?
+- i pale go mi en… - Speak to me in [Language]
+- tu i dire a … e ke en …? - How do you say ... in [Language]?
+- sori - Excuse me
+- di e ke mui? - How much is this?
+- sori - Sorry
+- i favo - Please
+- danke - Thank you
+- sama-sama - Reply to thank you
+- toilete e en ke? - Where's the toilet / bathroom?
+- di viro i go paga a ale - This gentleman will pay for everything
+- di feme i go paga a ale - This lady will pay for everything
+- tu i vole dansa kon mi? - Would you like to dance with me?
+- tu i veni o mui e di? - Do you come here often?
+- mi i vole mira a tu - I miss you
+- mi i amo a tu - I love you
+- i veni o sun e bon - Get well soon
+- i go! - Go away!
+- i lase a mi e solo! - Leave me alone!
+- ade! - Help!
+- fogo! - Fire!
+- para! - Stop!
+- i voka a polisa! - Call the police!
+- bon Jesu-nati - (Christmas greetings)
+- bon nu ano - (New Year greetings)
+- bon Jesu-veni - (Easter greetings)
+- bon nati-dia - (Birthday greetings)
+- bon! - Congratulations!
+- uno linga e ni sufi - One language is never enough
+- mi buo-navi e fule de longo-pisi - My hovercraft is full of eels
+- di kosa e en pasa. - These things belong to the past.
+- mi i savi ke Tom e bajo. - I know Tom is short.
+- si-viro i de pone a si-viro bibe. - He put down his drink.
+- mi i go ade a tu, pero mi i go no ade a Tom. - I will help you, but I won't help Tom.
+- mi i de supose ke Tom i de savi a ke mi-ale i de en pale. - I assumed that Tom understood what we were talking about.
+- mi i de dimenti redi a siren go sekola. - I forgot to set the alarm for school.
+- Mennad e so nulo-sekura, ankora. - Mennad is still so insecure.
+- mi i go no lase ke ani i make a da. - I won't let anybody do that.
+- mi i ave supose ke solo moda mi i kan make a di e ke Tom i ade a mi. - I've figured out that the only way I can do this is to get Tom to help me.
+- sole-luse i make ke mala-eleki-peso en sela i move an enejia e make. - The sunlight makes the electrons in the cells move and energy is produced.
+- da jaketa i de debe kote a rama an noga go tu. - That jacket must've cost you an arm and a leg.
+- Tom an mi e de no solo man ke i de via-viva. - Tom and I weren't the only ones who survived.
+- e no nese go-i dire ke si-feme e besonde piano-man. - It is not necessary to say that she is an excellent pianist.
+- Tom e de mui o ma rapi sama Mary en en-i make a da. - Tom was much quicker at doing that than Mary was.
+- i dire a si-feme ke man-ale e di. - Tell her that everyone is here.
+- Tom e bon kon si. - Tom is OK with it.
+- go-i ia ke tu i dire a da i make ke mi i senti e ma bon. - It makes me feel better to hear you say that.
+- Tom i da veni e bon go di labora. - Tom would be perfect for this job.
+- da ke veta i de go make e de no apara. - It wasn't obvious what the weather was going to do.
+- si-uno i no nese dire ke vere-fule-neso e da ma bon ajenda. - It goes without saying that honesty is the best policy.
+- eki i en veni e mui kalori. - It's really getting warm outside.
+- tu i kite a Boston? - Are you leaving Boston?
+- Pove e kia duro en Marok. - Poverty is a key issue in Morocco.
+- Tom de-i denta de naga. - Tom was bitten by a snake.
+- Ziri i de joli kosina a da piato. - Ziri enjoyed cooking that dish.
+- Sami i de move a si go Mosr go some tempo. - Sami ended up moving to Egypt for a while.
+- Tom an Mary i de dire go mi-ale ke si-ale i de pensa ke si-ale i da gana. - Tom and Mary told us they thought they'd win.
+- fete e en dia seven. - The party's on Sunday.
+- ke i para a tu? - What's stopping you?
+- di kosa i veni de Aljeri. - This product comes from Algeria.
+- Tomi i no kan fini a di labora en uno dia. - Tom can't finish this job in a day.
+- mi-ale i no pensa a da moda. - That's not how we think.
+- si-viro i go make o ni a si? - Will he ever do it?
+- mi i de dire a Tom ke mi i de ave a ajenda. - I told Tom I had plans.
+- si-feme e en safari, no? - She's away on a trip, isn't she?
+- di eve, si-viro e en eve labora. - He is on night duty tonight.
+- Tom i debe kipa kon Mary. - Tom should stay with Mary.
+- si-uno i no kan fide a si-feme. - She cannot be trusted.
+- veji i develo en gaden, sama foli-veji, rondo-foli-vejii, onion, alio, melon, bianka-kera-veji, bianka-rondo-radika-veji, ruja-rondo-radika-veji, kavalo-rondo-radika-veji, roka-antika-gadi, longo-midori-melon an oranje-melon. - Greens and vegetables grow in gardens, such as lettuce, cabbage, onions, garlic, gourd, parsnip, turnip, radish, horse radish, parsley, cucumbers and pumpkin.
+- si-viro i no ave dire go mi a ke man i de ade a si-feme. - He hasn't told me who helped her.
+- nun, ke kosa e en vende? - What products are currently on sale?
+- mi e dipa-enejia. - I'm frantic.
+- Yanni i de note a mui lakoni-note de niku-en-feruta en Facebook. - Yanni wrote many articles about figs on Facebook.
+- ante tu i dona-mala-name a some, tu i debe kamina a uno-punto-sita-kilo-mita en si sapato. - Before you criticize someone, you should walk a mile in their shoes.
+- universa-viva-siensa a etudi de orijen de viva en tera an mebi de viva en universa. - Astrobiology is the study of life’s origins on Earth and the potential for life in Universe.
+- ota eki-pota kon jin, liki-metali, atomo-92, natura aero, an, en some ano, eleki. - Other exports include gold, mercury, uranium, natural gas, and - in some years - electricity.
+- si i kite a no mui go-e vole. - It leaves nothing much to be desired.
+- i jage a sino de fungi-veni. - Look for signs of decomposition.
+- tu i debe dona a open-make go Tom i make a da. - You should give Tom a chance to do that.
+- si-viro i de veka a si-viro fili go Faser dua. - He woke his son up for the fajr prayer.
+- tu i da paga a ke mui go mi-ale go-i make a da? - How much would you pay us to do that?
+- mi i pensa ke tu i debe lase ke Tom an mi i make o mi-ale-ego a da. - I think you should let Tom and me do that by ourselves.
+- mi i dia a si sama 1730. - I date it as 1730.
+- kalori-ke-mui e unda nulo, di-dia. - The temperature is below zero today.
+- i mira a tingi bela feme ke i en ereki e da. - Look at the tall pretty girl standing there.
+- mi i ave janji a Tom ke mi i da go a Australia kon si-viro. - I've promised Tom I'd go to Australia with him.
+- si-feme i favo a si-viro. - She has a big crush on him.
+- Ziri de-i apara e mui joli. - Ziri seemed really happy.
+- mi i pensa ke Engli-man i mebi veni pasa o ma a etudi-man de linga sama man en ota paisa. - I think that English people might be more used to language learners than people in other countries.
+- Tom i de dire go mi ke si-viro i de en senti e mini fatiga. - Tom told me he was feeling a bit tired.
+- si-viro i de tenta no pensa o no ma a si-feme. - He made an effort not to think about her any more.
+- mi e mui vori de di tema. - I'm very concerned about these matters.
+- Tom e no impotan. - Tom isn't indispensable.
+- Tom an Mary i dire ke si-ale i da veni e di. - Tom and Mary said they would be here.
+- si-feme e sufi bela. - She's beautiful enough.
+- tu i da favo amo-enkonte e some tempo? - Would you like to go out sometime?
+- mi i pensa ke si-feme i favo a si-viro. - I think she likes him.
+- ale demon i de apara e sama tempo go-i kapa a si-ale mudi-make. - The demons came out all at once to capture their prey.
+- fini, mi-ale e libera. - We are finally free.
+- i no ruina a mi sitema. - Don't mess up my system.
+- mi i en arapan-kipa o solo a amigo. - I'm just waiting for a friend.
+- mega ave i no kan esi no kon nulo-jura-neso; mui name i no kan esi no kon mentira. - Great possessions cannot exist without injustice; a multitude of words cannot exist without a lie.
+- mi i no kan arapan-kipa ke dia-5 i veni. - I can't wait for Friday to come.
+- mi e de melankoli-arapan. - Boy, was I disappointed.
+- Tom i de no reaki o ni. - Tom never wrote me back.
+- mi-ale i go pale kon Tom. - We'll have to have a talk with Tom.
+- Tom i de kipa e silen vile da-ma-impotan-manja. - Tom remained silent during dinner.
+- Mary i de dire ke si-feme i da no make o mebi a da. - Mary said she probably wouldn't do that.
+- si e de apara ke si-viro i de vole beso a mi. - It was obvious that he wanted to kiss me.
+- tu i keredo en UFO? - Do you believe in UFOs?
+- Tom i dire ke si-viro i ave dire o ni a mentira. - Tom claims that he's never told a lie.
+- Großer Tiergarten u Tiergarten e mega komun gaden de-i loke en semi de Belin. - The Großer Tiergarten or Tiergarten is a large public park located in the middle of Berlin.
+- mi nu Alfa Romeo open-karo e luse ruja. - My new Alfa Romeo convertible is light red.
+- Sami i de ave a si diji en si labi an i de roga go Layla ke si i no debe make a sono. - Sami had his finger on his lips and asked Layla not to make a sound.
+- tu e no joli-arapan? - Aren't you pleased?
+- si-viro i go veni sano e mui sun? - He will get well very soon.
+- mebi da e no sufi. - Maybe that's not enough.
+- Tom i de roga a mui roga go Mary. - Tom asked Mary a lot of questions.
+- Julius i punjo o furi a sadi viro-kinde. - Julius angrily beats the rude boy.
+- mi e no furi go tu, no ma. - I'm not mad at you anymore.
+- en da ma meno, i mentira-make ke tu e joli ke tu e di. - At least pretend you're happy to be here.
+- Mennad i de lagima ka si-viro e de dire-abuso. - Mennad was crying because he was embarrassed.
+- Tom i de bibe a si kafe. - Tom sipped his coffee.
+- mi i no pensa ke Tom i savi a rason ke Mary e fobo. - I don't think Tom knows why Mary is afraid.
+- mi i arapan ke tu i go ave a bon afa-semi-dia. - I hope you have a good afternoon.
+- mi i no go an i kula-lubi sama mui sama mi i pasa make. - I don't go skiing as much as I used to.
+- Tom i de kuri e fule rapi. - Tom ran at full speed.
+- ke man i kopen a di tipo de seni? - Who buys this type of art?
+- Tom i jeritan o tuju go mi. - Tom always yells at me.
+- mi i de no arapan a some-kosa sama da. - I did not expect something like that.
+- Tom i de veni en dia-1 an i de baka-go e uno dia afa. - Tom came on Monday and went back the day after.
+- mi i no vole a ma ronko-dire. - I don't want any more complaining.
+- Vera i de odi a Sergey ka si-viro i de nulo-fide go si-viro mari-feme. - Vera looked down on Sergey because he was cheating on his wife.
+- Tom e en ma bon fisika figura sama mi. - Tom is in better physical shape than I am.
+- si-feme i de go e da an i pale go si-viro. - She went there to talk to him.
+- si-feme de-i make go di. - She was made for this.
+- tu e da ma nulo-senti man ke mi i ave enkonte o ni. - You're the most inconsiderate person I've ever met.
+- mi-ale i amo a dogi. - We love dogs.
+- i defende de rontgen-radi. - Protect from x-ray.
+- mi i go lida-make a si. - I'll take care of it.
+- mi i no favo a feme sama da. - I don't like women like that.
+- tu i de pone a si-feme imaje e en ke? - Where did you put her picture?
+- Mary i de muta o fini a si-feme menta. - Mary eventually changed her mind.
+- en tempo de McCarthy, "juda-relijon-man" de-i de mira o lati sama sama-sinifi de "sosia-regula-gove-man", an "kristo-relijon-man" sama-sinifi de "mone-regula". - In the McCarthy era, "Jewish" was widely considered synonymous with "socialist," and "Christian" with "capitalist."
+- si i en pasa. - It's happening.
+- Tom e su antika ke si i no kan make a da. - Tom is already too old to do that.
+- mi i go veni e di sige-dia, mi i pensa. - I'll be here tomorrow, I think.
+- Tom i de kan viva a ma u meno media viva afa medika-metodo. - Tom was able to live a more or less normal life after the operation.
+- mi i ave duka sama mui sama tu. - I've suffered as much as you have.
+- Mary i de no savi a rason ke Tom i de odi a si-feme. - Mary didn't know why Tom hated her.
+- junta i de ave begin ludi o jusa ven regen i de begin. - The teams had just started to play when it began to rain.
+- mi e pove. - I'm flat broke.
+- se tu i dire go Tom ke si-viro i debe make a ke, mi e sure ke si-viro i go make a si. - If you tell Tom what to do, I'm sure he'll do it.
+- mi i pensa ke mi i kan deteki a tu domo. - I think I can find your house.
+- mi i pale a Eire-linga e kada dia. - I speak Irish every day.
+- Nancy i apara e mui fatiga. - Nancy looks very tired.
+- Tom e en ke? "si-viro i en ludi a neto-baton-ludi kon Mary". - Where's Tom? "He's playing tennis with Mary."
+- Tom i da no favo a Australia. - Tom wouldn't like Australia.
+- Tom i de ave a natura-eleti ke Mary i da no lagima. - Tom had a hunch that Mary wouldn't cry.
+- Mary i de dire ke si-feme i de senti a mare-maladi. - Mary said that she felt seasick.
+- Ziri i de unda-go a lada e mui ade. - Ziri very carefully descended the stairs.
+- tu kinde e no di go ke rason? - Why aren't your children here?
+- i lase kopen a uno go Tom. - Let's buy Tom one.
+- tu i pensa a ke ke Tom i go gana? - What makes you think Tom will win?
+- si e no ke ke si-viro i de dire, pero moda ke si-viro i de dire. - It's not what he said, but the way he said it.
 
 ## Notes
 
 - Google sheet with all the sentences [https://docs.google.com/spreadsheets/d/1Uais6lcfFMH8g7_D5p73NxbXR1StJq1brJNnCzsswmY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Uais6lcfFMH8g7_D5p73NxbXR1StJq1brJNnCzsswmY/edit?usp=sharing).
-- Tatoeba.org list [https://tatoeba.org/en/sentences_lists/show/171183](https://tatoeba.org/en/sentences_lists/show/171183).
-- [English sentences are under CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/).
+- For copyright information of English sentences see the Google sheet. In general, the ones from tatoeba.org are under [CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/).
 - [Mini translations](/mini-translations).
 - [Mini resources](/mini-resources).
