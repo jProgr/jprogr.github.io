@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "230211"
+updated_date: "230319"
 ---
 
 # Books read
@@ -19,6 +19,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Raising my rainbow - Lori Duron.
 - NPCs - Drew Hayes.
 - The utterly uninteresting and unadventurous tales of Fred, the vampire accountant - Drew Hayes.
+- Effective Java - Joshua Bloch.
 - Nine motivational essays on photography - Scott Bourne.
 - The ABC of Relativity - Bertrand Russell.
 - The problems of philosophy - Bertrand Russell.
