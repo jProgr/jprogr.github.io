@@ -2,7 +2,7 @@
 title: "Mini translations"
 permalink: /mini-translations
 custom_date: "230102"
-updated_date: "230331"
+updated_date: "230412"
 ---
 
 # Mini translations
@@ -11,6 +11,7 @@ This a list of material translated by me to Mini.
 
 - [1988 australian newspaper ad about gun laws](/i-pensa-a-si-nun).
 - [Article: 15-minute city](/15-minute-siti).
+- [Article: Smallpox demon](/ruja-lati-maladi-demon).
 - [Article: Sure-footedness](/sure-pedi-neso).
 - [Example Mini sentences](/mini-sentences).
 
