@@ -2,6 +2,7 @@
 title: "A translation of the article Smallpox demon to Mini"
 permalink: /ruja-lati-maladi-demon
 custom_date: "230412"
+updated_date: "230412"
 ---
 
 # A translation of the article Smallpox demon to Mini
@@ -12,7 +13,7 @@ Ruja-lati-maladi demon (Nipon-linga: 疱瘡神, Hōsōshin) a demon ke e de kere
 
 ### Tari
 
-En Nipongo, name hōsōshin u hōsōgami (疱瘡神 (ほうそうしん, ほうそうがみ）) i via-linga o litera go "ruja-lati-maladi deo". De Shoku Nihongi, ruja-lati-maladi de-i en-pota en Nipon en 735 en gove-lida-make Fukuoka de Korea. En da dia, ruja-lati-maladi de-i mira sama efeto de onryō, ke si a de tari-saga anima de nipon saga ke i kan baka-go go fisika mundo go-i vendeta. Deo de-i relate go ruja-lati-maladi i kon Sumiyoshi Sanjin. En buku de-i pubili en Kansei ano (1789-1801), a de line ke i de note ke go-i sano de ruja-lati-maladi, ruja-lati-maladi demon e de relijon-mesa en fami kon ruja-lati-maladi.
+En Nipon-linga, name hōsōshin u hōsōgami (疱瘡神 (ほうそうしん, ほうそうがみ）) i via-linga o litera go "ruja-lati-maladi deo". De Shoku Nihongi, ruja-lati-maladi de-i en-pota en Nipon en 735 en gove-lida-make Fukuoka de Korea. En da dia, ruja-lati-maladi de-i mira sama efeto de onryō, ke si a de tari-saga anima de nipon saga ke i kan baka-go go fisika mundo go-i vendeta. Deo de-i relate go ruja-lati-maladi i kon Sumiyoshi Sanjin. En buku de-i pubili en Kansei ano (1789-1801), a de line ke i de note ke go-i sano de ruja-lati-maladi, ruja-lati-maladi demon e de relijon-mesa en fami kon ruja-lati-maladi.
 
 Man i de dire ke ruja-lati-maladi demon e de fobo de ruja kosa an dogi; den man i de demo a vari o ruja pupe. En Okinaua, man i de tenta puja an konfi a demon kon sanshin, okinaua musika viola, an leon dansa en fore de ruja ropa maladi-man. Si-ale i de ofera a fiore an i de fogo a masala go-i pase-veni a ruja-lati-maladi demon. En Okinaua, a de ruja-lati-maladi poesi en Ryuka; mudi de poesi en linga Ryukyu a fama de ruja-lati-maladi demon, u repare de mori maladi de ruja-lati-maladi. A koleki de ruja-lati-maladi poesi ke i kon 105 poesi de-i pubili en 1805. More o ruja-lati-maladi dansa i ave en mira o ankora en nun-dia Nipon, en-i kon a gove-lida-make Ibaraki an Kagoshima, go-i evita a ruja-lati-maladi demon.
 
