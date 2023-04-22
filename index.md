@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [A translation of the article Shi Pei Pu to Mini](/shi-pei-pu).
 - [A translation of the article Smallpox demon to Mini](/ruja-lati-maladi-demon).
 - [A translation of the article Sure-footedness to Mini](/sure-pedi-neso).
 - [A translation of the article 15-minute city to Mini](/15-minute-siti).
