@@ -2,7 +2,7 @@
 title: "Mini translations"
 permalink: /mini-translations
 custom_date: "230102"
-updated_date: "230421"
+updated_date: "230427"
 ---
 
 # Mini translations
@@ -32,6 +32,10 @@ Aesop fables:
 - [The ass and the grasshoppers](/tupe-kavalo-an-kirikiti).
 - [The ass and the lap dog](/tupe-kavalo-an-topi-noga-dogi).
 - [The tortoise and the hare](/toti-an-kuneli).
+
+Pepper and Carrot comic:
+
+- [Episode 1](/pepper-an-carrot-1).
 
 ## Notes
 
