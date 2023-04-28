@@ -2,6 +2,7 @@
 title: "A translation of episode 1 of Pepper and Carrot to Mini"
 permalink: /pepper-an-carrot-1
 custom_date: "230427"
+updated_date: "230428"
 ---
 
 # A translation of episode 1 of Pepper and Carrot to Mini
@@ -14,5 +15,6 @@ custom_date: "230427"
 ## Notes
 
 - [Original english version](https://www.peppercarrot.com/en/webcomic/ep01_Potion-of-Flight.html) under [Creative Commons by David Revoy](https://creativecommons.org/licenses/by/4.0/).
+- [Next episode](/pepper-an-carrot-2).
 - [Mini translations](/mini-translations).
 - [Mini resources](/mini-resources).

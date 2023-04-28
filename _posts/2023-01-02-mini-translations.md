@@ -2,7 +2,7 @@
 title: "Mini translations"
 permalink: /mini-translations
 custom_date: "230102"
-updated_date: "230427"
+updated_date: "230428"
 ---
 
 # Mini translations
@@ -36,6 +36,7 @@ Aesop fables:
 Pepper and Carrot comic:
 
 - [Episode 1](/pepper-an-carrot-1).
+- [Episode 2](/pepper-an-carrot-2).
 
 ## Notes
 
