@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [A translation of the article Formication to Mini](/muravi-senti).
 - [A translation of episode 2 of Pepper and Carrot to Mini](/pepper-an-carrot-2).
 - [A translation of episode 1 of Pepper and Carrot to Mini](/pepper-an-carrot-1).
 - [A translation of the article Shi Pei Pu to Mini](/shi-pei-pu).

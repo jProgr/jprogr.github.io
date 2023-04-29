@@ -11,6 +11,7 @@ This a list of material translated by me to Mini.
 
 - [1988 australian newspaper ad about gun laws](/i-pensa-a-si-nun).
 - [Article: 15-minute city](/15-minute-siti).
+- [Article: Formication](/muravi-senti).
 - [Article: Shi Pei Pu](/shi-pei-pu).
 - [Article: Smallpox demon](/ruja-lati-maladi-demon).
 - [Article: Sure-footedness](/sure-pedi-neso).
