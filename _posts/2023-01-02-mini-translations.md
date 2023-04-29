@@ -2,7 +2,7 @@
 title: "Mini translations"
 permalink: /mini-translations
 custom_date: "230102"
-updated_date: "230428"
+updated_date: "230429"
 ---
 
 # Mini translations
@@ -38,6 +38,7 @@ Pepper and Carrot comic:
 
 - [Episode 1](/pepper-an-carrot-1).
 - [Episode 2](/pepper-an-carrot-2).
+- [Episode 3](/pepper-an-carrot-3).
 
 ## Notes
 
