@@ -2,6 +2,7 @@
 title: "A translation of episode 3 of Pepper and Carrot to Mini"
 permalink: /pepper-an-carrot-3
 custom_date: "230429"
+updated_date: "230430"
 ---
 
 # A translation of episode 3 of Pepper and Carrot to Mini
@@ -18,5 +19,6 @@ custom_date: "230429"
 ## Notes
 
 - [Original english version](https://www.peppercarrot.com/en/webcomic/ep03_The-secret-ingredients.html) under [Creative Commons by David Revoy](https://creativecommons.org/licenses/by/4.0/).
+- [Next episode](/pepper-an-carrot-4).
 - [Mini translations](/mini-translations).
 - [Mini resources](/mini-resources).
