@@ -2,6 +2,7 @@
 title: "A translation of episode 4 of Pepper and Carrot to Mini"
 permalink: /pepper-an-carrot-4
 custom_date: "230430"
+updated_date: "230430"
 ---
 
 # A translation of episode 4 of Pepper and Carrot to Mini
@@ -17,5 +18,6 @@ custom_date: "230430"
 ## Notes
 
 - [Original english version](https://www.peppercarrot.com/en/webcomic/ep04_Stroke-of-genius.html) under [Creative Commons by David Revoy](https://creativecommons.org/licenses/by/4.0/).
+- [Next episode](/pepper-an-carrot-5).
 - [Mini translations](/mini-translations).
 - [Mini resources](/mini-resources).
