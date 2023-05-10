@@ -43,6 +43,7 @@ Pepper and Carrot comic:
 - [Episode 5](/pepper-an-carrot-5).
 - [Episode 6](/pepper-an-carrot-6).
 - [Episode 7](/pepper-an-carrot-7).
+- [Episode 8](/pepper-an-carrot-8).
 
 ## Notes
 
