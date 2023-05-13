@@ -2,7 +2,7 @@
 title: "Resources for the Mini language"
 permalink: /mini-resources
 custom_date: "230205"
-updated_date: "230322"
+updated_date: "230512"
 ---
 
 # Resources for the Mini language
@@ -14,6 +14,7 @@ This a list of resources to learn or related to the Mini language. Some are auth
 - Mini - English dictionary [https://jprogr.github.io/buku-name](/buku-name).
 - Learn Mini in 20 minutes [https://minilanguage.medium.com/learn-mini-in-20-minutes-8c4fa8093f8f](https://minilanguage.medium.com/learn-mini-in-20-minutes-8c4fa8093f8f).
 - Advanced Mini [https://minilanguage.medium.com/learn-mini-ii-advanced-mini-2c537da2678a](https://minilanguage.medium.com/learn-mini-ii-advanced-mini-2c537da2678a).
+- Discord server [https://discord.gg/ajA6Z4VrkJ](https://discord.gg/ajA6Z4VrkJ).
 - Translated texts [https://jprogr.github.io/mini-translations](/mini-translations).
 - Fandom Wiki with lots of translated articles [https://minilang.fandom.com/wiki/Mini_Wiki](https://minilang.fandom.com/wiki/Mini_Wiki).
 - Useful phrases at Omniglot [https://www.omniglot.com/language/phrases/mini.htm](https://www.omniglot.com/language/phrases/mini.htm).
