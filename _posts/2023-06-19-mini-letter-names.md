@@ -2,6 +2,7 @@
 title: "Spelling and letter names in Mini"
 permalink: /mini-letter-names
 custom_date: "230619"
+updated_date: "230619"
 ---
 
 # Spelling and letter names in Mini
@@ -45,7 +46,7 @@ For the names of common symbols, check the [dictionary](/buku-name). Here are so
 - &: an-sino.
 - .: punto.
 - #: numa-sino.
-- <>: meno-sino, ma-sino.
+- <>: meno-sama-sino, ma-sama-sino.
 - \*: najima.
 - /: rampa-sino.
 - \\: baka-rampa-sino.
