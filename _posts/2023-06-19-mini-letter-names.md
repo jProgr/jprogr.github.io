@@ -2,7 +2,7 @@
 title: "Spelling and letter names in Mini"
 permalink: /mini-letter-names
 custom_date: "230619"
-updated_date: "230619"
+updated_date: "230624"
 ---
 
 # Spelling and letter names in Mini
@@ -42,6 +42,7 @@ If you need to spell a name or word that uses letters not found in Mini, use the
 For the names of common symbols, check the [dictionary](/buku-name). Here are some commonly used:
 
 - -: meno.
+- \_: unda-meno.
 - @: elika.
 - &: an-sino.
 - .: punto.
@@ -51,6 +52,7 @@ For the names of common symbols, check the [dictionary](/buku-name). Here are so
 - /: rampa-sino.
 - \\: baka-rampa-sino.
 - ~: nami-sino.
+- ()\[\]{}: kaja-sino.
 
 ## Notes
 
