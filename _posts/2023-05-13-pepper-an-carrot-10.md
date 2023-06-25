@@ -2,6 +2,7 @@
 title: "A translation of episode 10 of Pepper and Carrot to Mini"
 permalink: /pepper-an-carrot-10
 custom_date: "230513"
+updated_date: "230624"
 ---
 
 # A translation of episode 10 of Pepper and Carrot to Mini
@@ -16,5 +17,6 @@ custom_date: "230513"
 ## Notes
 
 - [Original english version](https://www.peppercarrot.com/en/webcomic/ep10_Summer-Special.html) under [Creative Commons by David Revoy](https://creativecommons.org/licenses/by/4.0/).
+- [Next episode](/pepper-an-carrot-11).
 - [Mini translations](/mini-translations).
 - [Mini resources](/mini-resources).
