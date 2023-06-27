@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [Mini course: Grammar](/mini-course-grammar).
 - [A translation of episode 11 of Pepper and Carrot to Mini](/pepper-an-carrot-11).
 - [Spelling and letter names in Mini](/mini-letter-names).
 - [A translation of episode 10 of Pepper and Carrot to Mini](/pepper-an-carrot-10).
