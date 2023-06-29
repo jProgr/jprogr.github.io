@@ -2,6 +2,7 @@
 title: "Mini course: Grammar"
 permalink: /mini-course-grammar
 custom_date: "230627"
+updated_date: "230628"
 ---
 
 # Mini course: Grammar
@@ -15,6 +16,7 @@ Contents:
 - [Pronouns](#pronouns).
 - [Negation](#negation).
 - [Verbs and tense](#verbs-and-tense).
+    - [Chaining](#chaining).
 - [Adjectives and adverbs](#adjectives-and-adverbs).
     - [Order](#order).
 - [Possessives](#possessives).
@@ -220,7 +222,7 @@ Other examples:
 - go-i manja a oranje - To eat an orange.
 - mi i debe manja a oranje - I should eat an orange.
 - en-i manja a oranje e bon - Eating oranges is good.
-- Di oranje e de-i manja de mi - This is orange is eaten by me.
+- Di oranje e de-i manja de mi - This orange is eaten by me.
 - mini viro i go veni a mega viro - The small man will be a big man.
 - mega viro i go e bon - The big man will be good.
 - go-i ero, e man, go-i padon, e deo - To err is human, to forgive is divine.
@@ -230,6 +232,12 @@ Other examples:
 - mi i debe mebi ave begin etudi a mini - I should perhaps have started studying Mini.
 - mini a pale de-i make - Mini is a constructed language.
 - mi i ja kosina bon! - I do cook well!
+
+### Chaining
+
+Notice that you can just chain verbs after the "i":
+
+- mi i kipa en vole manja a oranje - I keep wanting to eat oranges.
 
 ## Adjectives and adverbs
 
