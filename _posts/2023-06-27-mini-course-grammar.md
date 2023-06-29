@@ -2,7 +2,7 @@
 title: "Mini course: Grammar"
 permalink: /mini-course-grammar
 custom_date: "230627"
-updated_date: "230628"
+updated_date: "230629"
 ---
 
 # Mini course: Grammar
@@ -232,6 +232,8 @@ Other examples:
 - mi i debe mebi ave begin etudi a mini - I should perhaps have started studying Mini.
 - mini a pale de-i make - Mini is a constructed language.
 - mi i ja kosina bon! - I do cook well!
+- Mario i de kan ave go a ani tingi-tingi-sekola ke si-viro i de vole, pero si-viro i de eleti UConn ka si viro-paren i de go a da - Mario could have gone to any college he wanted, but he chose UConn because that’s where his dad went.
+- mi i kan open a da mun go tu - I can open that door for you.
 
 ### Chaining
 
