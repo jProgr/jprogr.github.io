@@ -2,7 +2,7 @@
 title: "Resources for the Mini language"
 permalink: /mini-resources
 custom_date: "230205"
-updated_date: "230627"
+updated_date: "230629"
 ---
 
 # Resources for the Mini language
@@ -22,7 +22,7 @@ This a list of resources to learn or related to the Mini language. Some are auth
 - Useful phrases at Omniglot [https://www.omniglot.com/language/phrases/mini.htm](https://www.omniglot.com/language/phrases/mini.htm).
 - Unofficial Mini Duolingo Stories [https://duostories.org/mini-en](https://duostories.org/mini-en).
 - List of Mini proper nouns [https://jprogr.github.io/mini-proper-nouns](/mini-proper-nouns).
-- Flashcards as Anki deck [https://ankiweb.net/shared/info/681496372](https://ankiweb.net/shared/info/681496372).
+- Flashcards as Anki deck with audio and ordered as per the Natural semantic metalanguage theory: [web](https://ankiweb.net/shared/info/2034803154), [file](/assets/bin/mini_with_audio_nsm.apkg).
 - Flashcards as Memrise course [https://app.memrise.com/course/6350771/mini-language-1000-words](https://app.memrise.com/course/6350771/mini-language-1000-words).
 - Wordle in Mini [https://main--name-supose.netlify.app](https://main--name-supose.netlify.app).
 
