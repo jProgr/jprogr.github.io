@@ -2,7 +2,7 @@
 title: "Mini course: Grammar"
 permalink: /mini-course-grammar
 custom_date: "230627"
-updated_date: "230629"
+updated_date: "230701"
 ---
 
 # Mini course: Grammar
@@ -35,7 +35,8 @@ Contents:
     - [Singular and plural](#singular-and-plural).
     - [Days and months](#days-and-months).
     - [Foreign and non-mini words](#foreign-and-non-mini-words).
-    - [Mini simplicity](#mini-simplicity).
+    - [Capitalization](#capitalization).
+- [Mini simplicity](#mini-simplicity).
 
 ## Letters
 
@@ -222,7 +223,7 @@ Other examples:
 - go-i manja a oranje - To eat an orange.
 - mi i debe manja a oranje - I should eat an orange.
 - en-i manja a oranje e bon - Eating oranges is good.
-- Di oranje e de-i manja de mi - This orange is eaten by me.
+- di oranje e de-i manja de mi - This orange is eaten by me.
 - mini viro i go veni a mega viro - The small man will be a big man.
 - mega viro i go e bon - The big man will be good.
 - go-i ero, e man, go-i padon, e deo - To err is human, to forgive is divine.
@@ -501,7 +502,16 @@ Then we can write:
 
 Pronunciation is free in this case. You can say it like in its original language or follow Mini rules (stress in the second to last syllable).
 
-### Mini simplicity
+### Capitalization
+
+On the uppercase and lowercase side, Mini can be written in two ways:
+
+1. Maintain it simple and use lowercase everywhere. If you want to use uppercase for the first letter of a proper noun or when writting non-mini words, feel free to do it.
+2. Follow the way of English and many languages: Use uppercase when starting a sentence and with proper nouns.
+
+Both are valid Mini.
+
+## Mini simplicity
 
 Mini is about simplicity. You can choose to not use tenses, particles or minify words. If just saying "mi favo vere oranje" is enough to understand that you used to really like oranges, then that's valid Mini.
 
