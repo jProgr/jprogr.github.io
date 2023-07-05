@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [The human body in Mini](/mini-body-parts).
 - [Curso de Mini: Gramática](/curso-mini-gramatica).
 - [Mini course: Grammar](/mini-course-grammar).
 - [A translation of episode 11 of Pepper and Carrot to Mini](/pepper-an-carrot-11).
