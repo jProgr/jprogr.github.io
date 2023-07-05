@@ -2,7 +2,7 @@
 title: "Mini course: Grammar"
 permalink: /mini-course-grammar
 custom_date: "230627"
-updated_date: "230701"
+updated_date: "230705"
 ---
 
 # Mini course: Grammar
@@ -201,6 +201,7 @@ Future perfect progressive:
 Imperative:
 - i manja a oranje! - Eat an orange!
 - i lase tenta! - Let's try!
+- i veni e ubuntu - Be kind.
 
 Conditional:
 - mi i da manja a oranje pero mi i no kan - I would eat an orange but I can't.
