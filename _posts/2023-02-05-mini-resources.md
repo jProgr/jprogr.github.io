@@ -2,7 +2,7 @@
 title: "Resources for the Mini language"
 permalink: /mini-resources
 custom_date: "230205"
-updated_date: "230705"
+updated_date: "230707"
 ---
 
 # Resources for the Mini language
@@ -14,7 +14,8 @@ This a list of resources to learn or related to the Mini language. Some are auth
 - Mini - English dictionary [https://jprogr.github.io/buku-name](/buku-name).
 - Translated texts [https://jprogr.github.io/mini-translations](/mini-translations).
 - Spelling and letter names [https://jprogr.github.io/mini-letter-names](/mini-letter-names).
-- The human body [https://jprogr.github.io//mini-body-parts](/mini-body-parts).
+- The human body [https://jprogr.github.io/mini-body-parts](/mini-body-parts).
+- Landforms [https://jprogr.github.io/mini-landforms](/mini-landforms).
 - Learn Mini in 20 minutes [https://minilanguage.medium.com/learn-mini-in-20-minutes-8c4fa8093f8f](https://minilanguage.medium.com/learn-mini-in-20-minutes-8c4fa8093f8f).
 - Advanced Mini [https://minilanguage.medium.com/learn-mini-ii-advanced-mini-2c537da2678a](https://minilanguage.medium.com/learn-mini-ii-advanced-mini-2c537da2678a).
 - Main page by the creator of the language with more resources [https://minilanguage.com](https://minilanguage.com/).
