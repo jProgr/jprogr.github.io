@@ -2,7 +2,7 @@
 title: "Mini course: Grammar"
 permalink: /mini-course-grammar
 custom_date: "230627"
-updated_date: "230705"
+updated_date: "230715"
 ---
 
 # Mini course: Grammar
@@ -519,6 +519,7 @@ Mini is about simplicity. You can choose to not use tenses, particles or minify 
 ## Notes
 
 - Mini-English dictionary: [buku-name](/buku-name).
+- This article condensed into one page: [PDF](/assets/bin/mini_one_page.pdf), [image](/assets/images/mini_one_page.png).
 - [Mini resources](/mini-resources).
 - [Hundreds of translated sentences](https://docs.google.com/spreadsheets/d/1Uais6lcfFMH8g7_D5p73NxbXR1StJq1brJNnCzsswmY/edit?usp=sharing).
 - [Discord community](https://discord.gg/ajA6Z4VrkJ).
