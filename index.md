@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [Learn Mini through quizzes](/mini-lessons).
 - [Landforms in Mini](/mini-landforms).
 - [The human body in Mini](/mini-body-parts).
 - [Curso de Mini: Gramática](/curso-mini-gramatica).
