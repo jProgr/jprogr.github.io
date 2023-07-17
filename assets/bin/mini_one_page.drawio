@@ -1,53 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T04:06:54.778Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="MlAtHaHrgjUF1mjfH_Iw" version="21.3.8" type="device">
+<mxfile host="app.diagrams.net" modified="2023-07-17T18:00:06.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="dPP6UBM93Jp6LpCpOpQP" version="21.6.2">
   <diagram name="Page-1" id="oDFFyRkzZkPwoNNC3BJK">
-    <mxGraphModel dx="1064" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="532" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-1" value="Consonants as in English. Stress of a word is in the second to last syllable.&lt;ul&gt;&lt;li&gt;“a” as in map.&lt;/li&gt;&lt;li&gt;“e” as in level.&lt;/li&gt;&lt;li&gt;“i” as in meet.&lt;/li&gt;&lt;li&gt;“o” as in more.&lt;/li&gt;&lt;li&gt;“u” as in balloon.&lt;/li&gt;&lt;li&gt;“g” as gift.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-1" value="Consonants as in English. Stress of a word is in the second to last syllable.&lt;ul&gt;&lt;li&gt;“a” as in map.&lt;/li&gt;&lt;li&gt;“e” as in level.&lt;/li&gt;&lt;li&gt;“i” as in meet.&lt;/li&gt;&lt;li&gt;“o” as in more.&lt;/li&gt;&lt;li&gt;“u” as in balloon.&lt;/li&gt;&lt;li&gt;“g” as gift.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="10" y="60" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-2" target="On5UjnBoXKvAq1PpS9VR-1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-2" target="On5UjnBoXKvAq1PpS9VR-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-2" target="On5UjnBoXKvAq1PpS9VR-9">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-2" target="On5UjnBoXKvAq1PpS9VR-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-2" value="&lt;h1&gt;Mini Language&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-2" value="&lt;h1&gt;Mini Language&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="319" y="10" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-7" value="Pronunciation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-7" value="Pronunciation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-9" target="On5UjnBoXKvAq1PpS9VR-11">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-9" target="On5UjnBoXKvAq1PpS9VR-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-9" value="&lt;div&gt;Any word works as any type: noun, verb, object, etc., so use particles:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;i: introduces the verb.&lt;/li&gt;&lt;li&gt;a: introduces direct object and noun complement.&lt;/li&gt;&lt;li&gt;e: introduces adjective complement.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-9" value="&lt;div&gt;Any word works as any type: noun, verb, object, etc., so use particles:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;i: introduces the verb.&lt;/li&gt;&lt;li&gt;a: introduces direct object and noun complement.&lt;/li&gt;&lt;li&gt;e: introduces adjective complement.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="284" y="70" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-15">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-16">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-17">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-13">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-32">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-38">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-11" target="On5UjnBoXKvAq1PpS9VR-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="310" as="sourcePoint" />
             <mxPoint x="622" y="620" as="targetPoint" />
@@ -58,173 +58,178 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-11" value="&lt;ul&gt;&lt;li&gt;mi i manja a manja - I eat food.&lt;/li&gt;&lt;li&gt;si a viro - He is a man.&lt;/li&gt;&lt;li&gt;si e viro - He is manly.&lt;/li&gt;&lt;li&gt;di a kosina - This is a kitchen.&lt;/li&gt;&lt;li&gt;tu i kosina e bon - You cook well.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-11" value="&lt;ul&gt;&lt;li&gt;mi i manja a manja - I eat food.&lt;/li&gt;&lt;li&gt;si a viro - He is a man.&lt;/li&gt;&lt;li&gt;si e viro - He is manly.&lt;/li&gt;&lt;li&gt;di a kosina - This is a kitchen.&lt;/li&gt;&lt;li&gt;tu i kosina e bon - You cook well.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="294" y="230" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-13" target="On5UjnBoXKvAq1PpS9VR-33">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-13" target="On5UjnBoXKvAq1PpS9VR-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-13" value="&lt;ul&gt;&lt;li&gt;mi - I, me.&lt;/li&gt;&lt;li&gt;tu - You.&lt;/li&gt;&lt;li&gt;si - He, she, it.&lt;/li&gt;&lt;li&gt;si-ale - They.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-13" value="&lt;ul&gt;&lt;li&gt;mi - I, me.&lt;/li&gt;&lt;li&gt;tu - You.&lt;/li&gt;&lt;li&gt;si - He, she, it.&lt;/li&gt;&lt;li&gt;si-ale - They.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="623" y="60" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-15" target="On5UjnBoXKvAq1PpS9VR-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-15" target="On5UjnBoXKvAq1PpS9VR-20">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-15" target="On5UjnBoXKvAq1PpS9VR-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="414" y="490" />
+              <mxPoint x="402" y="490" />
               <mxPoint x="544" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-15" target="On5UjnBoXKvAq1PpS9VR-18">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-15" target="On5UjnBoXKvAq1PpS9VR-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="414" y="490" />
+              <mxPoint x="402" y="490" />
               <mxPoint x="264" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-15" value="&lt;div&gt;Present:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i manja a oranje.&lt;/div&gt;&lt;div&gt;I eat an orange.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="354" y="402" width="120" height="70" as="geometry" />
+        <mxCell id="fAdyLUbi6iumFWiEqQ5R-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-15" target="On5UjnBoXKvAq1PpS9VR-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="402" y="510" />
+              <mxPoint x="402" y="510" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-16" value="Past, de:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i de manja a oranje.&lt;/div&gt;&lt;div&gt;I ate an orange.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="204" y="402" width="140" height="70" as="geometry" />
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-15" value="&lt;div&gt;Present:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i manja a oranje.&lt;/div&gt;&lt;div&gt;I eat an orange.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="344" y="402" width="116" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-17" value="Future, go:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i manja a oranje.&lt;/div&gt;&lt;div&gt;I eat an orange.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="483" y="402" width="120" height="70" as="geometry" />
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-16" value="Past, de:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i de manja a oranje.&lt;/div&gt;&lt;div&gt;I ate an orange.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="201" y="402" width="136" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-18" target="On5UjnBoXKvAq1PpS9VR-28">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-17" value="Future, go:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i go manja a oranje.&lt;/div&gt;&lt;div&gt;I will eat an orange.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="467" y="402" width="133" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-18" target="On5UjnBoXKvAq1PpS9VR-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-18" value="&lt;div&gt;Progressive, en:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i en manja a oranje.&lt;/div&gt;&lt;div&gt;I am eating an orange.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-18" value="&lt;div&gt;Progressive, en:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i en manja a oranje.&lt;/div&gt;&lt;div&gt;I am eating an orange.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="194" y="515" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-19" target="On5UjnBoXKvAq1PpS9VR-28">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-19" target="On5UjnBoXKvAq1PpS9VR-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-19" value="Perfect, ave:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i ave manja a oranje.&lt;/div&gt;&lt;div&gt;I have eaten an orange&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-19" value="Perfect, ave:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i ave manja a oranje.&lt;/div&gt;&lt;div&gt;I have eaten an orange&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="344" y="515" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-20" target="On5UjnBoXKvAq1PpS9VR-28">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-20" target="On5UjnBoXKvAq1PpS9VR-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-20" value="&lt;div&gt;Imperative:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i manja a oranje!&lt;/div&gt;&lt;div&gt;Eat an orange!&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-20" value="&lt;div&gt;Imperative:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i manja a oranje!&lt;/div&gt;&lt;div&gt;Eat an orange!&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="494" y="515" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-21" value="Verbs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-21" value="Verbs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="344" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-28" value="Mix and match for the rest:&lt;div&gt;&lt;ul&gt;&lt;li&gt;mi i de en manja a oranje - I was eating an orange.&lt;/li&gt;&lt;li&gt;mi i de ave en manja a oranje - I had been eating an orange.&lt;/li&gt;&lt;li&gt;se mi i kan go, mi i da go - If I could go, I would.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-28" value="Mix and match for the rest:&lt;div&gt;&lt;ul&gt;&lt;li&gt;mi i de en manja a oranje - I was eating an orange.&lt;/li&gt;&lt;li&gt;mi i de ave en manja a oranje - I had been eating an orange.&lt;/li&gt;&lt;li&gt;se mi i kan go, mi i da go - If I could go, I would.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="274" y="630" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-32" value="Adjectives go before the noun. Adverbs follow the verb with o:&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i manja o rapi a oranje poma.&lt;/div&gt;&lt;div&gt;I eat quickly an orange apple (the apple has the colour orange).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-32" value="Adjectives go before the noun. Adverbs follow the verb with o:&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i manja o rapi a oranje poma.&lt;/div&gt;&lt;div&gt;I eat quickly an orange apple (the apple has the colour orange).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="610" y="430" width="206" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-33" target="On5UjnBoXKvAq1PpS9VR-36">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-33" target="On5UjnBoXKvAq1PpS9VR-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-33" value="&lt;p&gt;Personal pronouns before nouns are possessives:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;tu i manja a mi poma - You eat my apple.&lt;/li&gt;&lt;li&gt;tu kaja - Your box.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-33" value="&lt;p&gt;Personal pronouns before nouns are possessives:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;tu i manja a mi poma - You eat my apple.&lt;/li&gt;&lt;li&gt;tu kaja - Your box.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="590" y="185" width="216" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-36" value="You can also use “de”:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;poma de Tom.&lt;/div&gt;&lt;div&gt;The apple of Tom.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-36" value="You can also use “de”:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;poma de Tom.&lt;/div&gt;&lt;div&gt;The apple of Tom.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="633" y="315" width="130" height="75.5" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-38" target="On5UjnBoXKvAq1PpS9VR-39">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-38" target="On5UjnBoXKvAq1PpS9VR-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-38" value="&lt;ul&gt;&lt;li&gt;de - from, of, about, out of, made of.&lt;/li&gt;&lt;li&gt;en - in, at, on.&lt;/li&gt;&lt;li&gt;go - to, for, towards.&lt;/li&gt;&lt;li&gt;kon - with.&lt;/li&gt;&lt;li&gt;sama - like, as, than, same.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-38" value="&lt;ul&gt;&lt;li&gt;de - from, of, about, out of, made of.&lt;/li&gt;&lt;li&gt;en - in, at, on.&lt;/li&gt;&lt;li&gt;go - to, for, towards.&lt;/li&gt;&lt;li&gt;kon - with.&lt;/li&gt;&lt;li&gt;sama - like, as, than, same.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="10" y="290" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-39" target="On5UjnBoXKvAq1PpS9VR-53">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-39" target="On5UjnBoXKvAq1PpS9VR-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-39" value="&lt;ul&gt;&lt;li&gt;Tim e kon Tom - Tim is with Tom.&lt;/li&gt;&lt;li&gt;mi e de México - I’m from México.&lt;/li&gt;&lt;li&gt;Tom i labora en akonto-siensa - Tom works in accounting.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-39" value="&lt;ul&gt;&lt;li&gt;Tim e kon Tom - Tim is with Tom.&lt;/li&gt;&lt;li&gt;mi e de México - I’m from México.&lt;/li&gt;&lt;li&gt;Tom i labora en akonto-siensa - Tom works in accounting.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="10" y="430" width="180" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-40" value="Basics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-40" value="Basics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="340" y="201" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-41" value="Pronouns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-41" value="Pronouns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="668" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-43" value="Modifiers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-43" value="Modifiers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="680" y="402" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-47" value="Prepositions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-47" value="Prepositions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="110" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-48" target="On5UjnBoXKvAq1PpS9VR-51">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-48" target="On5UjnBoXKvAq1PpS9VR-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-48" value="&lt;div&gt;For simple questions just add ?:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;tu i manja a oranje?&lt;/div&gt;&lt;div&gt;Do you eat oranges?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-48" value="&lt;div&gt;For simple questions just add ?:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;tu i manja a oranje?&lt;/div&gt;&lt;div&gt;Do you eat oranges?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="626" y="580" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-50" value="Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-50" value="Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="683" y="553" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-51" value="&lt;div&gt;For the rest use ke:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;tu i manja a ke? - What do you eat?&lt;/li&gt;&lt;li&gt;ke man i manja a oranje - Who eats oranges?&lt;/li&gt;&lt;li&gt;tu i manja e ke loke? - Where are you eating?&lt;/li&gt;&lt;li&gt;si i manja en ke tempo? - When is he eating?&lt;/li&gt;&lt;li&gt;tu i manja e ke rason? - Why do you eat?&lt;/li&gt;&lt;li&gt;mi i debe manja a ke mui? - How much should I eat?&lt;/li&gt;&lt;li&gt;si i manja e ke moda? - How does she eat?&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-51" value="&lt;div&gt;For the rest use ke:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;tu i manja a ke? - What do you eat?&lt;/li&gt;&lt;li&gt;ke man i manja a oranje - Who eats oranges?&lt;/li&gt;&lt;li&gt;tu i manja e ke loke? - Where are you eating?&lt;/li&gt;&lt;li&gt;si i manja en ke tempo? - When is he eating?&lt;/li&gt;&lt;li&gt;tu i manja e ke rason? - Why do you eat?&lt;/li&gt;&lt;li&gt;mi i debe manja a ke mui? - How much should I eat?&lt;/li&gt;&lt;li&gt;si i manja e ke moda? - How does she eat?&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="573" y="690" width="243" height="265" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-53" target="On5UjnBoXKvAq1PpS9VR-57">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-53" target="On5UjnBoXKvAq1PpS9VR-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-53" value="&lt;ul&gt;&lt;li&gt;nulo - 0.&lt;/li&gt;&lt;li&gt;uno - 1.&lt;/li&gt;&lt;li&gt;duo - 2.&lt;/li&gt;&lt;li&gt;san - 3.&lt;/li&gt;&lt;li&gt;fo - 4.&lt;/li&gt;&lt;li&gt;penta - 5.&lt;/li&gt;&lt;li&gt;sita - 6&lt;/li&gt;&lt;li&gt;seven - 7.&lt;/li&gt;&lt;li&gt;ba - 8.&lt;/li&gt;&lt;li&gt;nin - 9.&lt;/li&gt;&lt;li&gt;ten - 10.&lt;/li&gt;&lt;li&gt;ten nin poma - 19 apples.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-53" value="&lt;ul&gt;&lt;li&gt;nulo - 0.&lt;/li&gt;&lt;li&gt;uno - 1.&lt;/li&gt;&lt;li&gt;duo - 2.&lt;/li&gt;&lt;li&gt;san - 3.&lt;/li&gt;&lt;li&gt;fo - 4.&lt;/li&gt;&lt;li&gt;penta - 5.&lt;/li&gt;&lt;li&gt;sita - 6&lt;/li&gt;&lt;li&gt;seven - 7.&lt;/li&gt;&lt;li&gt;ba - 8.&lt;/li&gt;&lt;li&gt;nin - 9.&lt;/li&gt;&lt;li&gt;ten - 10.&lt;/li&gt;&lt;li&gt;ten nin poma - 19 apples.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="16.75" y="597.5" width="166.5" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-54" value="Numbers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-54" value="Numbers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="30" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-57" target="On5UjnBoXKvAq1PpS9VR-58">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-57" target="On5UjnBoXKvAq1PpS9VR-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-57" target="On5UjnBoXKvAq1PpS9VR-62">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-57" target="On5UjnBoXKvAq1PpS9VR-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-57" value="&lt;ul&gt;&lt;li&gt;an - and.&lt;/li&gt;&lt;li&gt;pero - but.&lt;/li&gt;&lt;li&gt;u - or, either.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-57" value="&lt;ul&gt;&lt;li&gt;an - and.&lt;/li&gt;&lt;li&gt;pero - but.&lt;/li&gt;&lt;li&gt;u - or, either.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="37" y="840" width="126" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-58" value="&lt;div&gt;mi i manja a poma an oranje.&lt;/div&gt;&lt;div&gt;I eat an apple and an orange.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-58" value="&lt;div&gt;mi i manja a poma an oranje.&lt;/div&gt;&lt;div&gt;I eat an apple and an orange.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="230" y="880" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-59" value="Conjunctions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-59" value="Conjunctions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="129" y="810" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-62" target="On5UjnBoXKvAq1PpS9VR-65">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-62" target="On5UjnBoXKvAq1PpS9VR-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.42;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-62" target="On5UjnBoXKvAq1PpS9VR-67">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.42;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="On5UjnBoXKvAq1PpS9VR-62" target="On5UjnBoXKvAq1PpS9VR-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-62" value="&lt;ul&gt;&lt;li&gt;ka - because.&lt;/li&gt;&lt;li&gt;se - if.&lt;/li&gt;&lt;li&gt;tamen - although.&lt;/li&gt;&lt;li&gt;vile - while.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-62" value="&lt;ul&gt;&lt;li&gt;ka - because.&lt;/li&gt;&lt;li&gt;se - if.&lt;/li&gt;&lt;li&gt;tamen - although.&lt;/li&gt;&lt;li&gt;vile - while.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="23.5" y="955" width="153" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-64" value="&lt;div&gt;Subordinating&lt;/div&gt;&lt;div&gt;conjunctions&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-64" value="&lt;div&gt;Subordinating&lt;/div&gt;&lt;div&gt;conjunctions&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="134" y="920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-65" value="&lt;div&gt;vaku-man i kan mira a najima ka si ventana i en punto eki de tera.&lt;/div&gt;&lt;div&gt;The spaceman can see the star because his window is pointing away from Earth.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-65" value="&lt;div&gt;vaku-man i kan mira a najima ka si ventana i en punto eki de tera.&lt;/div&gt;&lt;div&gt;The spaceman can see the star because his window is pointing away from Earth.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="204" y="965" width="446" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="On5UjnBoXKvAq1PpS9VR-67" target="On5UjnBoXKvAq1PpS9VR-70">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="On5UjnBoXKvAq1PpS9VR-67" target="On5UjnBoXKvAq1PpS9VR-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-67" value="&lt;div&gt;Join clauses with ke:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i no savi a ale ke tu i make.&lt;/div&gt;&lt;div&gt;I don’t know everything you do.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-67" value="&lt;div&gt;Join clauses with ke:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mi i no savi a ale ke tu i make.&lt;/div&gt;&lt;div&gt;I don’t know everything you do.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="21.5" y="1068" width="186.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-69" value="Dependent clauses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-69" value="Dependent clauses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="123.25" y="1033" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-70" value="&lt;div&gt;Need more words? Create compounds by joining words with a dash (-):&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;di-dia - today.&lt;/li&gt;&lt;li&gt;dimenti-neso - forgiveness.&lt;/li&gt;&lt;li&gt;duo-ranko-go-fini - Second to last.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;These words behave the same as any other word in Mini.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-70" value="&lt;div&gt;Need more words? Create compounds by joining words with a dash (-):&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;di-dia - today.&lt;/li&gt;&lt;li&gt;dimenti-neso - forgiveness.&lt;/li&gt;&lt;li&gt;duo-ranko-go-fini - Second to last.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;These words behave the same as any other word in Mini.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="312" y="1025" width="356" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-72" value="Compounds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-72" value="Compounds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="231" y="1062" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-77" value="&lt;div&gt;More info&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;minilanguage.com&lt;/div&gt;&lt;div&gt;jprogr.github.io/mini-resources&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;align=right;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-77" value="&lt;div&gt;More info&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;minilanguage.com&lt;/div&gt;&lt;div&gt;jprogr.github.io/mini-resources&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;align=right;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="319" y="791" width="180" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="On5UjnBoXKvAq1PpS9VR-78" value="yeah, it&#39;s that easy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=14;fontFamily=Pacifico;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPacifico;rotation=-15;" vertex="1" parent="1">
+        <mxCell id="On5UjnBoXKvAq1PpS9VR-78" value="yeah, it&#39;s that easy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=14;fontFamily=Pacifico;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPacifico;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="457" y="25" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
