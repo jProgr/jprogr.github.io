@@ -2,6 +2,7 @@
 title: "Learn Mini through quizzes"
 permalink: /mini-lessons
 custom_date: "230717"
+updated_date: "230717"
 ---
 
 # Learn Mini through quizzes
@@ -13,6 +14,8 @@ The following are lessons for learning Mini through reading conversations and an
 - [Lesson 1 - Basics](https://forms.gle/2R5iWHBZ4VWDUE4v5).
 - [Lesson 2 - Asking questions](https://forms.gle/Ggb4y3ZmtqrQrgmD7).
 - [Lesson 3 - Speaking of the past and the future](https://forms.gle/GB1GMNTKGBHUJWZz5).
+- [Lesson 4 - Animals](https://forms.gle/JyBDnQLc2ViqDXPd7).
+- [Lesson 5 - About work](https://forms.gle/E4NHyHYxQujjQh3S8).
 
 ## Notes
 
