@@ -2,7 +2,7 @@
 title: "Learn Mini through quizzes"
 permalink: /mini-lessons
 custom_date: "230717"
-updated_date: "230718"
+updated_date: "230720"
 ---
 
 # Learn Mini through quizzes
@@ -18,6 +18,7 @@ The following are lessons for learning Mini through reading conversations and an
 - [Lesson 5 - About work](https://forms.gle/E4NHyHYxQujjQh3S8).
 - [Lesson 6 - Movies](https://forms.gle/CcWYdfP6gMfRh9f87).
 - [Lesson 7 - Books](https://forms.gle/c1mky5KFGpTmUGgw7).
+- [Lesson 8 - On coffee](https://forms.gle/itxMCdqdKkTdtNXw8).
 
 ## Notes
 
