@@ -2,7 +2,7 @@
 title: "Resources for the Mini language"
 permalink: /mini-resources
 custom_date: "230205"
-updated_date: "230720"
+updated_date: "230725"
 ---
 
 # Resources for the Mini language
@@ -29,6 +29,7 @@ Mini is a language that is designed to be easy to learn and easy to use. It's so
 - Spelling and letter names [https://jprogr.github.io/mini-letter-names](/mini-letter-names).
 - The human body [https://jprogr.github.io/mini-body-parts](/mini-body-parts).
 - Landforms [https://jprogr.github.io/mini-landforms](/mini-landforms).
+- Cardinal directions [https://jprogr.github.io/mini-cardinal-directions](/mini-cardinal-directions).
 - Discord server [https://discord.gg/ajA6Z4VrkJ](https://discord.gg/ajA6Z4VrkJ).
 - Fandom Wiki with lots of translated articles [https://minilang.fandom.com/wiki/Mini_Wiki](https://minilang.fandom.com/wiki/Mini_Wiki).
 - Useful phrases at Omniglot [https://www.omniglot.com/language/phrases/mini.htm](https://www.omniglot.com/language/phrases/mini.htm).
