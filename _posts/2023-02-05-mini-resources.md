@@ -2,7 +2,7 @@
 title: "Resources for the Mini language"
 permalink: /mini-resources
 custom_date: "230205"
-updated_date: "230725"
+updated_date: "230729"
 ---
 
 # Resources for the Mini language
@@ -22,6 +22,7 @@ Mini is a language that is designed to be easy to learn and easy to use. It's so
 - Advanced Mini [https://minilanguage.medium.com/learn-mini-ii-advanced-mini-2c537da2678a](https://minilanguage.medium.com/learn-mini-ii-advanced-mini-2c537da2678a).
 - Flashcards as Anki deck with audio and ordered as per the Natural semantic metalanguage theory: [web](https://ankiweb.net/shared/info/2034803154), [file](/assets/bin/mini_with_audio_nsm.apkg).
 - Flashcards as Memrise course [https://app.memrise.com/course/6350771/mini-language-1000-words](https://app.memrise.com/course/6350771/mini-language-1000-words).
+- Introductory course on Memrise with basic words and phrases [https://app.memrise.com/course/6454426/simply-mini-the-minimal-language](https://app.memrise.com/course/6454426/simply-mini-the-minimal-language).
 
 ## Texts, community and other resources
 
