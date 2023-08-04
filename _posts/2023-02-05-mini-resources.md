@@ -35,6 +35,7 @@ Mini is a language that is designed to be easy to learn and easy to use. It's so
 - Fandom Wiki with lots of translated articles [https://minilang.fandom.com/wiki/Mini_Wiki](https://minilang.fandom.com/wiki/Mini_Wiki).
 - Useful phrases at Omniglot [https://www.omniglot.com/language/phrases/mini.htm](https://www.omniglot.com/language/phrases/mini.htm).
 - Wordle in Mini [https://main--name-supose.netlify.app](https://main--name-supose.netlify.app).
+- Flag, assets, and imagery [https://jprogr.github.io/mini-images](/mini-images).
 - Main page by the creator of the language with more resources [https://minilanguage.com](https://minilanguage.com/).
 
 ## Notes

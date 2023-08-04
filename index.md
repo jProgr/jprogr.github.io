@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [Mini flag and imagery](/mini-images).
 - [Cardinal directions in Mini](/mini-cardinal-directions).
 - [Learn Mini through quizzes](/mini-lessons).
 - [Landforms in Mini](/mini-landforms).
