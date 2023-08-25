@@ -2,7 +2,7 @@
 title: "Resources for the Mini language"
 permalink: /mini-resources
 custom_date: "230205"
-updated_date: "230729"
+updated_date: "230824"
 ---
 
 # Resources for the Mini language
@@ -36,6 +36,7 @@ Mini is a language that is designed to be easy to learn and easy to use. It's so
 - Useful phrases at Omniglot [https://www.omniglot.com/language/phrases/mini.htm](https://www.omniglot.com/language/phrases/mini.htm).
 - Wordle in Mini [https://main--name-supose.netlify.app](https://main--name-supose.netlify.app).
 - Flag, assets, and imagery [https://jprogr.github.io/mini-images](/mini-images).
+- Mini in my pocket: print it, fold it and you are ready [PDF](/assets/bin/mini_pocket.pdf) (thanks to heywink on Discord for this resource).
 - Main page by the creator of the language with more resources [https://minilanguage.com](https://minilanguage.com/).
 
 ## Notes
