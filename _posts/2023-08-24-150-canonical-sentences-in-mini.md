@@ -1,0 +1,166 @@
+---
+title: "150 Canonical sentences in Mini"
+permalink: /150-canonical-sentences-in-mini
+custom_date: "230824"
+---
+
+# 150 Canonical sentences in Mini
+
+This list contains the sentences described in "150 Canonical Sentences For Identifying Semantic Primes And The Core Lexicogrammar Of Any Language" by Cliff Goddard, Anna Wierzbicka but translated to Mini. They use, basically, the whole grammar of the language and they are good practice for any learners.
+
+- ke man i de make a si? - Who did it?
+- some man i de toma a si. mi i no savi a ke man. - Someone took it. I don’t know who.
+- ke i de pasa? - What happened?
+- mi i de make a some-kosa e mala. - I did something bad.
+- di a ke? - What is this?
+- di kosa e mega. - This thing is big.
+- si-ale a bon man. - They are good people.
+- mui man i no savi a di. - Many people don’t know this.
+- some-tempo, mala kosa i pasa go bon man. - Sometimes bad things happen to good people.
+- bodi de viro e no sama bodi de feme. - The body of a man is not like the body of a woman.
+- beli a peso de bodi de man, si e en bodi. - The stomach is part of people’s bodies, it is inside the body.
+- di kosa i ave a duo peso. - This thing has two parts.
+- bodi de man i ave a mui peso. - People’s bodies have many parts.
+- a mui tipo de tori. - There are many kinds of birds.
+- si i apara sama sama tipo de pisi. pero si e no sama. si a ota tipo. - It looks like the same kind of fish. But it’s not. It’s another kind.
+- a solo uno tipo de pisi en di lago. - There is one kind of fish in this lake.
+- di e mala. - This is bad.
+- di a mini puko. - This is a small knife.
+- mi i de mira a di duo man; ale di man. - I saw these two people; all these people.
+- mi i de mira a sama man, sige dia. - I saw the same person the day after.
+- si i de pasa e en sama tempo, no e en ota tempo. - It happened at the same time, not at another time.
+- si-feme i de dire a sama kosa. - She said the same thing.
+- ota man i de make a si. - Someone else did it.
+- si-feme i ave a ke mui kinde? - How many children does she have?
+- si-feme i ave a uno kinde. - She has one child.
+- a ke mui vasa e en da fonte? - How much water is there in that well?
+- a mui mini vasa e di. - There is very little water here.
+- mui man i viva e di. - Many people live here.
+- i de a mui man e da. afa da, duo i de eki. - There were many people there. After that, two of them left.
+- some de di limon e bon, some e fungi-veni. - Some of these lemons are good, some are rotten.
+- en some loke, a mui pisi. - In some places there are lots of fish.
+- a vasa e di. - There is water here.
+- mui some man i viva e da, nun. - Very few people live there now.
+- mui i de go e ese, some i de go e vese. - Many of them went to the east, some went to the west.
+- ale de si-viro fili e mari, nun. - All his sons are now married.
+- fogo i de fogo a ale en domo. - The fire burnt everything in the house.
+- bon man i no make a kosa sama di. - Good people don’t do things like this.
+- di i de e mala go mi. - This was bad for me.
+- e mala se some-si-uno i make a some-kosa sama di. - It is bad if someone does something like this.
+- mi i savi a di loke e bon. - I know this place well.
+- some man i kan make a di e bon, some man i no kan. - Some people can do this well, some people can’t.
+- tu i en pensa a ke? - What are you thinking about?
+- mi i de pensa a si go longo tempo. - I thought about it for a long time.
+- di man i pensa a mala some-kosa de mi. - This person thinks something bad about me.
+- mi i de pensa sama di. - I thought like this.
+- ante tu i make a si, i pensa o dipa a si, uno-ranko. - Before you do it, think well about it first.
+- si-viro e ke loke, nun? mi i no savi. mebi, Mary i savi. - Where is he now? I don’t know. Maybe Mary knows.
+- si-viro i savi e mui de kosa sama di. - He knows much about things like this.
+- si-feme i de eki e pasa-dia. mi i savi. - She left yesterday. I know.
+- mi i vole ke tu i make a si. - I want you to do it.
+- mi i no vole ke di i pasa. - I don’t want this to happen.
+- ven tu i mira a najima e en eve, tu i senti a ke? - When you look at the stars at night, what do you feel?
+- ven mi i gule a some-kosa, mi i senti e mui mala en mi gule. - When I swallow something, I feel something very bad in my throat.
+- en da tempo, mi i no senti a kosa. - At that time, I didn’t feel anything.
+- mi i no senti a mala kosa go si-viro, nun. - I don’t feel anything bad towards him anymore.
+- mi i de mira a some-kosa e da. - I saw something there.
+- afa da, mi i de mira a ota kosa. - After that, I saw something else.
+- si-feme i de en kanti. mi i de ia. - She was singing. I heard it.
+- mi i ia a some-kosa, da, en jari. - I hear something, over there in the bushes.
+- mi i de no kan ia a si. - I couldn’t hear it.
+- "di e bon", mi i de dire. - "This is good", I said.
+- si-viro i de dire a ke? - What did he say?
+- si-viro i de dire a some-kosa go si-feme, pero si-feme i de no ia a si. - He said something to her, but she didn’t hear it.
+- se mi i make a di, man i kan dire a mala kosa de mi. - If I do this, people can say bad things about me.
+- si-feme i de dire a sama kosa, pero kon ota name. - She said the same thing, but in other words.
+- en linga X, name go 'bon' a 'palya'. - In language X, the word for ‘good’ is palya.
+- se tu i dire a uno ma name… - If you say one more word…
+- si e no vere. - That’s not true.
+- tu i de make a ke, den? - What did you do then?
+- da man i de make a some-kosa e bon go mi. - Those people did something good for me.
+- man i make a ke kon kosa sama di? - What do people do with things like this?
+- man i make a di kon puko. - People do this with a knife.
+- bon kosa i de pasa go di man. - Something good happened to this person.
+- en da momen, some-kosa i de pasa e en si-viro. - At that moment, something happened inside him.
+- mala kosa i de pasa e en da loke. - Something bad happened in that place.
+- i mira!, some-kosa i en move e en da loke. - Look!, something is moving over there.
+- i no move! - Don’t move!
+- mi i de e mui fobo. mi i de no kan move. - I was very scared. I couldn’t move.
+- some-kosa i de en senti a mi mano. - Something was touching my hand.
+- i no senti! si e fogo. - Don’t touch it! It’s hot.
+- a some man e en gaden. - There is someone in the garden.
+- a no arana e di. - There are no spiders here.
+- a no fantome. - There are no ghosts.
+- a mui tipo de nuki. - There are many kinds of nuts.
+- si e mi. - It’s mine.
+- si e no tu. si e mi. - It’s not yours. It’s mine.
+- mi i savi ke si e no mi. mi i vole ke si e mi. - I know it’s not mine. I want it to be mine.
+- ke e en mesa? mi i no kan mira a si. - What is on the table? I can’t see it.
+- mi i vole esi kon mi feme-paren. - I want to be with my mother.
+- si i de pasa ante mui tempo. mi viro-paren i de a kinde en da tempo. - It was a long time ago. My father was a child at that time.
+- mi i no savi a ke a di. - I don’t know what this is.
+- mi i no savi a ke man a di. - I don’t know who this is.
+- di man i de viva go mui tempo. - These people lived for a long time.
+- toti i viva go mui tempo. - Turtles live for a long time.
+- en da tempo, si-feme i de en viva kon si-feme feme-paren. - At that time she was living with her mother.
+- pisi i viva en mare. - Fish live in the sea.
+- ale man i mori. - All people die.
+- di man i de mori ante mui tempo. - These people died a long time ago.
+- tu i de make a si en ke tempo? mi i de make a si ven ale-man i resi. - When did you do it? I did it when everyone was asleep.
+- mi i no savi en ke tempo si i de pasa. - I don’t know when it happened.
+- en sama tempo, some-kosa i de pasa go mi. - At the same time, something happened to me.
+- some-tempo, mi i bibe a kafe en maten, some-tempo mi i bibe a tea. - Sometimes I drink coffee in the morning, sometimes I drink tea.
+- di dogi i tose o tuju e en eve. - This dog always barks at night.
+- si-ale i viva e en X, nun. si-ale i de viva e en Y, ante. - They live in X now. They lived in Y before.
+- si i de pasa e afa. - It happened afterwards.
+- John i de e nati ante Harry. - John was born before Harry.
+- di i de pasa ante mui tempo. - This happened a long time ago.
+- si-viro i de e da go lakoni tempo, pero si-feme i de e da go longo tempo. - He was only there for a short time, but she was there for a long time.
+- si-feme i de pensa a si go some tempo. - She thought about it for some time.
+- si i de pasa ante some tempo. - It happened some time ago.
+- si i de pasa e en uno momen. - It happened in one moment.
+- si-viro e ke loke, nun? - Where is he now?
+- si i de no pasa e di. si i de pasa e en ota loke. - It didn’t happen here. It happened somewhere else.
+- si e fara de di? - Is it far from here?
+- Fred i de en ereki nea John? - Was Fred standing near John?
+- domo e nea riva. - The house is near the river.
+- si e fara an supa base. - It is far above the ground.
+- kapo e supa ota peso de bodi. - The head is above other parts of the body.
+- pedi e unda ota peso de bodi. - The feet are below other parts of the body.
+- nun, John i en sede e en di lado. - John is now sitting on this side.
+- Mary i de en sede e en mi reka lado, Sally i de e en mi levi lado. - Mary was sitting on my right-hand side, Sally was on my left-hand side.
+- si-ale i viva e en ota lado de riva. - They live on the other side of the river.
+- i de a man en-i ereki en duo lado de jalan. - There were people standing on both sides of the road.
+- a inseto e en di poma. - There is an insect inside this apple.
+- i no open a si. tu i no savi a ke e en. - Don’t open it. You don’t know what is inside.
+- some man i de e en fore de domo, ota man i de e en. - Some people were in front of the house, others were inside.
+- a mui sono. ka di, mi i de kan resi. - There was a lot of noise. Because of this, I couldn’t sleep.
+- tu i en lagima e ke rason? ka si-viro i de jeti a mi. - Why are you crying? Because he hit me.
+- se some-si-uno i make a di, mui mala kosa i kan pasa go man en di. - If someone does this, something very bad can happen to people here.
+- mebi, si-viro i go veni e sige-dia, mebi si-viro i go no veni. - Maybe he will come tomorrow, maybe he won’t.
+- mi i no kan make e nun, mebi mi viro-sibi i kan. - I can’t do it now, maybe my brother can.
+- mi i no kan make e nun, pero mi i kan make a si e en ota tempo. - I can’t do it now, but I can do it later.
+- mi i no kan no make a si. - I can’t not do it.
+- mi i no kan move a mi diji, nun. - I can’t move my fingers now.
+- si e mui mini. - It is very small.
+- di loke e mui fara. - This place is very far from here.
+- najima e mui mui fara. - The stars are very very far.
+- ven si i de pasa go si-viro, si-viro i de senti a mui mui mala kosa. - When it happened to him, he felt something very very bad.
+- mi i vole make a si e mui mui. - I very much want to do this.
+- ma! - More!
+- mi i no savi e mui de si. mi i vole savi e ma. - I don’t know much about it. I want to know more.
+- mi i vole mira e ma. - I want to see more.
+- si-feme i no viva e di. - She doesn’t live here anymore.
+- mi i vole a uno e ma. - I want one more.
+- di kinde e no sama ota kinde. - This child is not like other children.
+- di e sama lila-fiore, pero si a no lila-fiore. - This is like lilac, but it is not lilac.
+- en tempo sama di; en loke sama di. - At a time like this; in a place like this.
+- si-viro i de make a si sama di… - He did it like this…
+- si i de pasa sama di… - It happened like this…
+- si-feme i de kanti sama di… - She sang like this…
+
+## Notes
+
+- Google sheet with more sentences [https://docs.google.com/spreadsheets/d/1Uais6lcfFMH8g7_D5p73NxbXR1StJq1brJNnCzsswmY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Uais6lcfFMH8g7_D5p73NxbXR1StJq1brJNnCzsswmY/edit?usp=sharing).
+- [Mini translations](/mini-translations).
+- [Mini resources](/mini-resources).

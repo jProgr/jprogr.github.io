@@ -2,13 +2,14 @@
 title: "Mini translations"
 permalink: /mini-translations
 custom_date: "230102"
-updated_date: "230624"
+updated_date: "230824"
 ---
 
 # Mini translations
 
 This a list of material translated by me to Mini.
 
+- [150 Canonical sentences in Mini](/150-canonical-sentences-in-mini).
 - [1988 australian newspaper ad about gun laws](/i-pensa-a-si-nun).
 - [Article: 15-minute city](/15-minute-siti).
 - [Article: Formication](/muravi-senti).
