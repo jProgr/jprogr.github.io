@@ -2,7 +2,7 @@
 title: "Mini course: Grammar"
 permalink: /mini-course-grammar
 custom_date: "230627"
-updated_date: "230715"
+updated_date: "231026"
 ---
 
 # Mini course: Grammar
@@ -114,7 +114,7 @@ Here "manja" does double work thanks to the particles "i", "a". The first one is
 - si a viro - He is a man.
 - si e viro - He is manly.
 - di a kosina - This is a kitchen.
-- tu i kosina e bon - You cook well.
+- si-feme vila e en kolina - Her villa sits on the hill.
 - a man - There is a person.
 - e kula - It's cool.
 - tu make a manja e mala - You make the food bad.
