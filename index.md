@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, dra
 
 ## Content
 
+- [Mini: Go and its many uses](/mini-go).
 - [150 Canonical sentences in Mini](/150-canonical-sentences-in-mini).
 - [Mini flag and imagery](/mini-images).
 - [Cardinal directions in Mini](/mini-cardinal-directions).

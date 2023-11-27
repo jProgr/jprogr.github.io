@@ -2,7 +2,7 @@
 title: "Resources for the Mini language"
 permalink: /mini-resources
 custom_date: "230205"
-updated_date: "230824"
+updated_date: "231127"
 ---
 
 # Resources for the Mini language
@@ -21,13 +21,14 @@ Mini is a language that is designed to be easy to learn and easy to use. It's so
 - Learn Mini in 20 minutes [https://minilanguage.medium.com/learn-mini-in-20-minutes-8c4fa8093f8f](https://minilanguage.medium.com/learn-mini-in-20-minutes-8c4fa8093f8f).
 - Advanced Mini [https://minilanguage.medium.com/learn-mini-ii-advanced-mini-2c537da2678a](https://minilanguage.medium.com/learn-mini-ii-advanced-mini-2c537da2678a).
 - Flashcards as Anki deck with audio and ordered as per the Natural semantic metalanguage theory: [web](https://ankiweb.net/shared/info/2034803154), [file](/assets/bin/mini_with_audio_nsm.apkg).
-- Flashcards as Memrise course [https://app.memrise.com/course/6350771/mini-language-1000-words](https://app.memrise.com/course/6350771/mini-language-1000-words).
-- Introductory course on Memrise with basic words and phrases [https://app.memrise.com/course/6454426/simply-mini-the-minimal-language](https://app.memrise.com/course/6454426/simply-mini-the-minimal-language).
+- Flashcards as Memrise course [https://app.memrise.com/community/course/6350771/mini-language-1000-words/](https://app.memrise.com/community/course/6350771/mini-language-1000-words/).
+- Introductory course on Memrise with basic words and phrases [https://app.memrise.com/community/course/6454426/simply-mini-the-minimal-language/](https://app.memrise.com/community/course/6454426/simply-mini-the-minimal-language/).
 
 ## Texts, community and other resources
 
 - Translated texts [https://jprogr.github.io/mini-translations](/mini-translations).
 - Spelling and letter names [https://jprogr.github.io/mini-letter-names](/mini-letter-names).
+- Go and its many uses [https://jprogr.github.io/mini-go](/mini-go).
 - The human body [https://jprogr.github.io/mini-body-parts](/mini-body-parts).
 - Landforms [https://jprogr.github.io/mini-landforms](/mini-landforms).
 - Cardinal directions [https://jprogr.github.io/mini-cardinal-directions](/mini-cardinal-directions).
