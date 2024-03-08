@@ -4,10 +4,11 @@ title: "jProgr personal site"
 
 # jProgr personal site
 
-I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, drawing, chess, go, LEGO, languages: mini, español, english, bahasa indonesia, nederlands, русский язык, esperanto.
+I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, chess, LEGO, puzzles, anime, art, beads sprites, cross stitching, languages: mini, español, english, bahasa indonesia.
 
 ## Content
 
+- [Go performance recipes](/go-performance-recipes).
 - [Mini: Go and its many uses](/mini-go).
 - [150 Canonical sentences in Mini](/150-canonical-sentences-in-mini).
 - [Mini flag and imagery](/mini-images).
