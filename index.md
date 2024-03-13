@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [The Tono language](/tono-language).
 - [Go performance recipes](/go-performance-recipes).
 - [Mini: Go and its many uses](/mini-go).
 - [150 Canonical sentences in Mini](/150-canonical-sentences-in-mini).
