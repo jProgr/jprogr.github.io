@@ -2,28 +2,34 @@
 title: "The Tono language"
 permalink: /tono-language
 custom_date: "240312"
+updated_date: "240318"
 ---
 
 # The Tono language
 
 Tono is a constructed language.
 
-Version: 0.  
-Stability: Unstable. WIP.  
+Version: 1.  
+Stability: Unstable.  
 
 Contents:
 - [Letters](#letters).
 - [Pronunciation](#pronunciation).
 - [Sentences](#sentences).
-- [Context and mood](#context-and-mood).
-    - [Verbs](#verbs).
+- [Context and modifiers](#context-and-modifiers).
+    - [Modifying nouns](#modifying-nouns).
+    - [Modifiers as adverbs of verbs and sentences](#modifiers-as-adverbs-of-verbs-and-sentences).
+    - [Modifiers as tense, aspect, mood of verbs](#modifiers-as-tense-aspect-mood-of-verbs).
         - [Simple tenses](#simple-tenses).
         - [More complex tenses](#more-complex-tenses).
+    - [Modifiers as prepositions](#modifiers-as-prepositions).
     - [Context](#context).
     - [Mood](#mood).
+- [Set words](#set-words).
 - [Punctuation](#punctuation).
 - [Elision](#elision).
     - [Recommended](#recommended).
+- [Numbers](#numbers).
 - [Other languages and Tono](#other-languages-and-tono).
     - [Using foreign words](#using-foreign-words).
     - [IPA to Tono letters map](#ipa-to-tono-letters-map).
@@ -73,7 +79,7 @@ The names of the vowels are the same as the pronunciation. For the consonants ad
 
 ## Pronunciation
 
-The pronunciation is as following, precise pronunciation is not needed:
+The pronunciation is as follows, precise pronunciation is not needed:
 
 - "a" as in map. IPA: a, ɐ.
 - "d" as in dome. IPA: d.
@@ -104,116 +110,144 @@ The order is subject, verb, object (SVO). Let's see a simple example:
 
 Every word works as any type, the type is determined by the position in the sentence and a suffix. Verbs are marked by the suffix "n"; "kuhan" means to eat. Before the verb we have a subject which is a noun or something that works like one; in this case the name Leno. "kuha" after the verb is the object, which is a noun or something that works like a noun: "kuha" means food.
 
-## Context and mood
+## Context and modifiers
 
-The word "leka" introduces context and mood. This is the Tono way to add more info to a sentence:
+In Tono, the verb and noun are central. Everything else is treated as a modifier. Depending on what is being modified—a whole sentence, a noun, a verb, another modifier—they are marked differently.
 
-- leka nuyu, Tom kuha - Tom eats quickly.
+### Modifying nouns
 
-The word leka followed by another word sets the mood of the following sentences. This can be at the start or end of the sentence, but it should always be split from the main sentence with a comma (,).
+To describe nouns, use any word before a noun or something that works like one:
+
+- giyi leno - Big Leno - Leno is big.
+- giyi kiku - This is big.
+
+You can also use more than one modifier by just chaining them:
+
+- fame giyi kiku - This is big and blue.
+
+### Modifiers as adverbs of verbs and sentences
+
+The word "wa" followed by another word sets the mood of the following sentences. This can be at the start or end of the sentence, but it should always be split from the main sentence with a comma (,):
+
+- wa nuyu, Tom kuha - Tom eats quickly.
 
 In the specific case of adverbs that modify the verb, they can be before the verb:
 
-- Tom, leka nuyu, kuha - Tom eats quickly.
+- Tom, wa nuyu, kuha - Tom eats quickly.
 
-Do prefer using leka at the start of the sentence.
+Do prefer using "wa" at the start of the sentence.
 
-### Verbs
+### Modifiers as tense, aspect, mood of verbs
 
-Verbs are denoted by the "n" suffix. Tense and aspect is set by using "leka" and one or more words. If the tense has been set in a previous sentence, it does not need to be set in a future sentence if it matches. For example:
+Verbs are denoted by the "n" suffix. Tense and aspect is set by using "wa" and one or more words. If the tense has been set in a previous sentence, it does not need to be set in a future sentence if it matches. For example:
 
-- leka devo, leno kuha. leno kuha talu - Leno ate. Leno ate fruit.
+- wa devo, leno kuha. leno kuha talu - Leno ate. Leno ate fruit.
 
-The second sentence is also in the past with just one usage of "leka" in the first sentence. Optionally, for emphasis you may set the tense in every sentence.
+The second sentence is also in the past with just one usage of "wa" in the first sentence. Optionally, for emphasis you may set the tense in every sentence.
 
 #### Simple tenses
 
 Do feel free to simplify tenses if coming from another language.
 
 Simple present:
-- leka yole, leno kuhan talu - Leno eats fruit.
+- wa yole, leno kuhan talu - Leno eats fruit.
 
 Present progressive:
-- leka duyo, leno kuhan talu - Leno is eating fruit. 
+- wa duyo, leno kuhan talu - Leno is eating fruit. 
 
 Simple past:
-- leka devo, leno kuhan talu - Leno ate fruit.
+- wa devo, leno kuhan talu - Leno ate fruit.
 
 Future:
-- leka vano, leno kuhan talu - Leno will eat fruit.
+- wa vano, leno kuhan talu - Leno will eat fruit.
 
 Imperative:
-- leka pufe, leno kuhan talu - Leno, eat fruit.
+- wa pufe, leno kuhan talu - Leno, eat fruit.
 
 #### More complex tenses
 
 In general, prefer using simple tenses. But if needed, you may use the more complex versions.
 
 Past progressive:
-- leka devo duyo, leno kuhan talu - Leno was eating fruit.
+- wa devo duyo, leno kuhan talu - Leno was eating fruit.
 
 Present perfect simple:
-- leka yole dopo, leno kuhan talu - Leno has eaten fruit.
+- wa yole dopo, leno kuhan talu - Leno has eaten fruit.
 
 Present perfect progressive:
-- leka yole duyo, leno kuhan talu - Leno has been eating fruit.
+- wa yole duyo, leno kuhan talu - Leno has been eating fruit.
 
 Past perfect simple:
-- leka devo dopo, leno kuhan talu - Leno had eaten fruit.
+- wa devo dopo, leno kuhan talu - Leno had eaten fruit.
 
 Past perfect progressive:
-- leka devo dopo duyo, leno kuhan talu - Leno had been eating fruit.
+- wa devo dopo duyo, leno kuhan talu - Leno had been eating fruit.
 
 Future progressive:
-- leka vano duyo, leno kuhan talu - Leno will be eating fruit.
+- wa vano duyo, leno kuhan talu - Leno will be eating fruit.
 
 Future perfect simple:
-- leka vano dopo, leno kuhan talu - Leno will have eaten fruit.
+- wa vano dopo, leno kuhan talu - Leno will have eaten fruit.
 
 Future perfect progressive:
-- leka vano dopo duyo, leno kuhan talu - Leno will have been eating fruit.
+- wa vano dopo duyo, leno kuhan talu - Leno will have been eating fruit.
 
 Others:
-- leka wuko, leno kuhan talu - If Leno eats fruit, then Leno is happy.
+- wa wuko, leno kuhan talu, wa hake, leno nokin dasi - If Leno eats fruit, then Leno is happy.
+
+### Modifiers as prepositions
+
+As usual, "wa" marks a modifier as a preposition. In this case, it can be used before or after the sentence, or even before or after the word being modified.
+
+- wa nisi, leno nokin - leno, wa nisi, nokin - leno nokin, wa nisi - Leno is inside.
 
 ### Context
 
-The word leka can be used to establish any type of context for the sentences that follow:
+The word "wa" can be used to establish any type of context for the sentences that follow:
 
-- leka sete.nowa, Tom kuha talu - In the morning Tom ate fruit - Tom ate fruit this morning.
+- wa sete.nowa, Tom kuha talu - In the morning Tom ate fruit - Tom ate fruit this morning.
 
 You may establish long and complex contexts with full sentences. You may also establish multiple contexts for one sentence.
 
 ### Mood
 
-When using words that denote a sentiment, leka sets the mood for the following sentences. One can see them as emoji
+When using words that denote a sentiment, "wa" sets the mood for the following sentences. One can see them as emoji:
 
-- leka dasi, Tom kuha - Tom eats happily - Tom eats and is happy about it.
-- leka nuso.dasi - I am sad - Something is sad - This has caused me sadness - Sad.
+- wa dasi, Tom kuha - Tom eats happily - Tom eats and is happy about it.
+- wa nuso.dasi - I am sad - Something is sad - This has caused me sadness - Sad.
 
 You can mix and match for more complex emotions:
 
-- leka giyi.wawe dasi - Very sad - Sad!
+- wa giyi.wawe dasi - Very sad - Sad!
+
+## Set words
+
+Tono allows to set words and meanings in the middle of speech. This is useful when working with uncommon, foreign, technical words. Any pronunciable (and writable) word (or more than one) may be set. Let's see an example:
+
+- wa toti, yutu: YouTube. leno famin yutu - Leno watches YouTube.
+
+In a sentence like this, you are saying that "yutu" means wathever is after the colon (:). You can use any word in any language after the colon (:). You may also use full and complex descriptions in Tono. You may see it as a mini dictionary that is valid during the duration of that conversation (or text). You may set as many words you like and you may even redefine Tono words. You may also use words in any language before the colon. Useful for foreign names that use letters that are not in Tono.
 
 ## Punctuation
 
 Tono uses a few symbols for punctuation:
 
-- . (dot): Composes new words. Separates sentences.
-- , (comma): Separates context and mood from the main sentence. Separates elements in a list.
+- . (dot): Composes new words. Separates sentences. Pronounced as a pause in speech. Silent on compounds.
+- , (comma): Separates context and mood from the main sentence. Separates elements in a list. Pronounced as a short pause in speech.
+- : (colon): Denotes the start of the meaning of set words. Pronounced as a short pause in speech.
 
 ## Elision
 
 ### Recommended
 
-Tono may have parts of sentences elided if it is clear from context.
+Tono may have parts of sentences elided if it is clear from context, a shorter version is required, the author or speaker may want to be ambiguous or any other reason.
 
-- leka duyo, leno kuhan - duyo, leno kuhan - Leno ate.
-- leno, leka nuyu, kuhan - leno, nuyu, kuhan - Tom eats quickly.
+- wa duyo, leno kuhan - duyo, leno kuhan - Leno ate.
+- leno, wa nuyu, kuhan - leno, nuyu, kuhan - Tom eats quickly.
 
-You may remove the word "leka". This includes any usage of leka.
+You may remove the marker "wa". This includes any usage of "wa".
 
-- leka duyo, leno kuhan - leno kuhan - Leno ate.
+- wa duyo, leno kuhan - leno kuhan - Leno ate.
 
 You may not need to specify the tense if it has been set before or it is clear in which tense you are talking about.
 
@@ -221,15 +255,44 @@ You may not need to specify the tense if it has been set before or it is clear i
 
 If the subject is clear, you may elide it.
 
-- leka vefi, talu. leka duyo, leno kuhan talu - vefi, talu. duyo, leno kuhan - The fruit? Leno ate the fruit.
+- wa vefi, talu. wa duyo, leno kuhan talu - vefi, talu. duyo, leno kuhan - The fruit? Leno ate the fruit.
 
 If the object is clear, you may also elide it.
 
-- leka vefi, talu. leka devo, leno kuhan talu - vefi, talu. kuhan - The fruit? Leno ate the fruit.
+- wa vefi, talu. wa devo, leno kuhan talu - vefi, talu. kuhan - The fruit? Leno ate the fruit.
 
 If a noun is clear, you may elide it and just use modifiers in the sentence.
 
 Feel free to mix and match.
+
+## Numbers
+
+These are the numbers:
+
+- demo - 0.
+- mahi - 1.
+- mage - 2.
+- weyi - 3.
+- tavi - 4.
+- maka - 5.
+- pesi - 6.
+- howe - 7.
+- weke - 8.
+- gema - 9.
+
+They work like any other word in Tono; just modify a noun to establish the amount:
+
+- leno suvon tavi sali - Leno has four knives.
+
+Bigger numbers are read digit by digit:
+
+- mage demo - 20.
+- gema mage maka - 925.
+- pesi weyi demo gema weke - 63098.
+
+You can also use scientific notation for numbers with too many zeroes:
+
+- mahi demo soden pesi - 10^6 - 1 000 000.
 
 ## Other languages and Tono
 
