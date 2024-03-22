@@ -2,15 +2,15 @@
 title: "The Tono language"
 permalink: /tono-language
 custom_date: "240312"
-updated_date: "240318"
+updated_date: "2403121"
 ---
 
 # The Tono language
 
 Tono is a constructed language.
 
-Version: 1.  
-Stability: Unstable.  
+Version: 2.  
+Stability: Approaching stability.  
 
 Contents:
 - [Letters](#letters).
@@ -26,15 +26,19 @@ Contents:
     - [Context](#context).
     - [Mood](#mood).
 - [Set words](#set-words).
+- [Conjunctions and listing things](#conjunctions-and-listing-things).
+    - [Coordinating conjuctions](#coordinating-conjuctions).
+- [Questions](#questions).
+- [Numbers](#numbers).
 - [Punctuation](#punctuation).
 - [Elision](#elision).
     - [Recommended](#recommended).
-- [Numbers](#numbers).
 - [Other languages and Tono](#other-languages-and-tono).
     - [Using foreign words](#using-foreign-words).
     - [IPA to Tono letters map](#ipa-to-tono-letters-map).
 - [Other](#other).
     - [Pronouns](#pronouns).
+    - [Abbreviations](#abbreviations).
 
 ## Letters
 
@@ -228,6 +232,73 @@ Tono allows to set words and meanings in the middle of speech. This is useful wh
 
 In a sentence like this, you are saying that "yutu" means wathever is after the colon (:). You can use any word in any language after the colon (:). You may also use full and complex descriptions in Tono. You may see it as a mini dictionary that is valid during the duration of that conversation (or text). You may set as many words you like and you may even redefine Tono words. You may also use words in any language before the colon. Useful for foreign names that use letters that are not in Tono.
 
+## Conjunctions and listing things
+
+When listing things, if the relation is obvious, not really important or left ambiguous for some reason, you may just not use a conjuction:
+
+- leno suvon sali, tuka.sali - Leno has a knife and a sword.
+
+Notice there is no "and" nor any type of context marking the relation between the two object that are owned by Leno. This rule is followed by anything that would use conjuctions in other languages: sentences, nouns, adjectives, adverbs.
+
+### Coordinating conjuctions
+
+Like many things in Tono, conjuctions are just like any other word, for joining things they are used as context and follow the same rules:
+
+- leno suvon, wa nani, sali, tuka.sali - Leno has a knife and a sword.
+- leno tamun, wa nane, sali, tuka.sali - Leno wants a knife or a sword (either one, not both).
+- leno tamun, wa nano, sali, tuka.sali - Leno wants a knife or a sword (one, the other, or both).
+
+## Questions
+
+To ask a simple yes or no question, just set the question context with "wa vefi":
+
+- wa vefi, leno tamun kuha - Leno wants food?
+
+Notice that in Tono no question mark is needed. Some languages change the intonation or pitch when saying a question, in Tono it is not needed, but also it is not forbidden.
+
+For open questions, "vefi" modifies other words:
+
+- kiku nokin vefi fene - This is what entity? - What is this?
+- leno tamun vefi fene - Leno wants what thing? - What does Leno want?
+- leno loman vefi sali - Leno uses which knife? - Which knife does Leno use?
+- leno tosen vefi wato - Leno leaves when? - When does Leno leave?
+- leno nokin vefi guma - Leno is where? - Where is Leno?
+- wa devo, wa vefi guma, leno diyon sali - In the past, where, Leno bought a knife? - Where did Leno buy a knife?
+- wa devo, vefi huva dopon - Which human did it? - Who did it?
+- wa vefi hafe, leno dopon - Which way, Leno does it? - How does Leno do it?
+- wa vefi peyi, leno tamun fene - Why, Leno wants that? - Why does Leno want that?
+
+You can always use the context version for questions. They even follow the same rules so you can add "wa vefi…" at the end of the sentence or in the middle.
+
+## Numbers
+
+These are the numbers:
+
+- demo - 0.
+- mahi - 1.
+- mage - 2.
+- weyi - 3.
+- tavi - 4.
+- maka - 5.
+- pesi - 6.
+- howe - 7.
+- weke - 8.
+- gema - 9.
+
+They work like any other word in Tono; just modify a noun to establish the amount:
+
+- leno suvon tavi sali - Leno has four knives.
+
+Bigger numbers are read digit by digit:
+
+- mage demo - 20.
+- gema mage maka - 925.
+- pesi weyi demo gema weke - 63098.
+
+You can also use scientific notation for numbers with too many zeroes:
+
+- mahi demo soden pesi - 10^6 - 1 000 000.
+
 ## Punctuation
 
 Tono uses a few symbols for punctuation:
@@ -264,35 +335,6 @@ If the object is clear, you may also elide it.
 If a noun is clear, you may elide it and just use modifiers in the sentence.
 
 Feel free to mix and match.
-
-## Numbers
-
-These are the numbers:
-
-- demo - 0.
-- mahi - 1.
-- mage - 2.
-- weyi - 3.
-- tavi - 4.
-- maka - 5.
-- pesi - 6.
-- howe - 7.
-- weke - 8.
-- gema - 9.
-
-They work like any other word in Tono; just modify a noun to establish the amount:
-
-- leno suvon tavi sali - Leno has four knives.
-
-Bigger numbers are read digit by digit:
-
-- mage demo - 20.
-- gema mage maka - 925.
-- pesi weyi demo gema weke - 63098.
-
-You can also use scientific notation for numbers with too many zeroes:
-
-- mahi demo soden pesi - 10^6 - 1 000 000.
 
 ## Other languages and Tono
 
@@ -352,4 +394,15 @@ Some examples:
 
 ### Pronouns
 
-Tono does not have pronouns. Instead, you always use the name of the thing you are talking about. If you don't have enough information to form a sentence, you can use a "fene" as a placeholder.
+Tono does not have pronouns. Instead, you always use the name of the thing you are talking about. If you don't have enough information to form a sentence, you can use "fene" as a placeholder.
+
+### Abbreviations
+
+Abbreviations in Tono are written in either all lowercase or the original case of the source language:
+
+- If the abbreviation is in a foreign language, do respect the writting and pronunciation. For example, UN (United Nations) would be written in all caps and read like it is in english. Alternativaly, you may read each letter using Tono, if possible: u, nana.
+- If the abbreviation is in Tono, write it in all lowercase and read each letter if it does not follow the consonant-vowel rule. Otherwise just read it like a normal word.
+
+Feel free to set any abbreviations.
+
+Lastly, there are no rules for building abbreviations in Tono. Feel free to build them however you like but do prefer ones that follow the consonant-vowel rule so they are easy to say.
