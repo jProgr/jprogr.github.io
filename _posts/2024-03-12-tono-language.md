@@ -2,10 +2,12 @@
 title: "The Tono language"
 permalink: /tono-language
 custom_date: "240312"
-updated_date: "2403121"
+updated_date: "240322"
 ---
 
 # The Tono language
+
+![](/assets/images/tono_flag.png)
 
 Tono is a constructed language.
 
@@ -27,7 +29,7 @@ Contents:
     - [Mood](#mood).
 - [Set words](#set-words).
 - [Conjunctions and listing things](#conjunctions-and-listing-things).
-    - [Coordinating conjuctions](#coordinating-conjuctions).
+    - [Coordinating conjunctions](#coordinating-conjunctions).
 - [Questions](#questions).
 - [Numbers](#numbers).
 - [Punctuation](#punctuation).
@@ -226,23 +228,23 @@ You can mix and match for more complex emotions:
 
 ## Set words
 
-Tono allows to set words and meanings in the middle of speech. This is useful when working with uncommon, foreign, technical words. Any pronunciable (and writable) word (or more than one) may be set. Let's see an example:
+Tono allows setting words and meanings in the middle of speech. This is useful when working with uncommon, foreign, technical words. Any pronounceable (and writable) word (or more than one) may be set. Let's see an example:
 
 - wa toti, yutu: YouTube. leno famin yutu - Leno watches YouTube.
 
-In a sentence like this, you are saying that "yutu" means wathever is after the colon (:). You can use any word in any language after the colon (:). You may also use full and complex descriptions in Tono. You may see it as a mini dictionary that is valid during the duration of that conversation (or text). You may set as many words you like and you may even redefine Tono words. You may also use words in any language before the colon. Useful for foreign names that use letters that are not in Tono.
+In a sentence like this, you are saying that "yutu" means whatever is after the colon (:). You can use any word in any language after the colon (:). You may also use full and complex descriptions in Tono. You may see it as a mini dictionary that is valid during the duration of that conversation (or text). You may set as many words you like and you may even redefine Tono words. You may also use words in any language before the colon. Useful for foreign names that use letters that are not in Tono.
 
 ## Conjunctions and listing things
 
-When listing things, if the relation is obvious, not really important or left ambiguous for some reason, you may just not use a conjuction:
+When listing things, if the relation is obvious, not really important or left ambiguous for some reason, you may just not use a conjunction:
 
 - leno suvon sali, tuka.sali - Leno has a knife and a sword.
 
-Notice there is no "and" nor any type of context marking the relation between the two object that are owned by Leno. This rule is followed by anything that would use conjuctions in other languages: sentences, nouns, adjectives, adverbs.
+Notice there is no "and" nor any type of context marking the relation between the two object that are owned by Leno. This rule is followed by anything that would use conjunctions in other languages: sentences, nouns, adjectives, adverbs.
 
-### Coordinating conjuctions
+### Coordinating conjunctions
 
-Like many things in Tono, conjuctions are just like any other word, for joining things they are used as context and follow the same rules:
+Like many things in Tono, conjunctions are just like any other word, for joining things they are used as context and follow the same rules:
 
 - leno suvon, wa nani, sali, tuka.sali - Leno has a knife and a sword.
 - leno tamun, wa nane, sali, tuka.sali - Leno wants a knife or a sword (either one, not both).
@@ -344,7 +346,7 @@ Tono can be mixed with other languages. You may use Tono words and grammar featu
 
 Feel free to use words from other languages in Tono. For this you have two options:
 
-1. Use it as is in the original language. This is very common for names, you may write it with the original script or you may choose to use a romanization version. For example: 日本 nokin tiwo - Nihon nokin tiwo - Japan is a country. To avoid confusion, you may set the word.
+1. Use it as is in the original language. This is very common for names, you may write it with the original script or you may choose to use a romanized version. For example: 日本 nokin tiwo - Nihon nokin tiwo - Japan is a country. To avoid confusion, you may set the word.
 2. Transform the foreign word into Tono.
 
 To transform a foreign word into Tono follow these rules:
@@ -400,8 +402,8 @@ Tono does not have pronouns. Instead, you always use the name of the thing you a
 
 Abbreviations in Tono are written in either all lowercase or the original case of the source language:
 
-- If the abbreviation is in a foreign language, do respect the writting and pronunciation. For example, UN (United Nations) would be written in all caps and read like it is in english. Alternativaly, you may read each letter using Tono, if possible: u, nana.
-- If the abbreviation is in Tono, write it in all lowercase and read each letter if it does not follow the consonant-vowel rule. Otherwise just read it like a normal word.
+- If the abbreviation is in a foreign language, do respect the writing and pronunciation. For example, UN (United Nations) would be written in all caps and read like it is in English. Alternatively, you may read each letter using Tono, if possible: u, nana.
+- If the abbreviation is in Tono, write it in all lowercase and read each letter if it does not follow the consonant-vowel rule. Otherwise, just read it like a normal word.
 
 Feel free to set any abbreviations.
 
