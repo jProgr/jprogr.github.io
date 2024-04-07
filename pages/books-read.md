@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "230319"
+updated_date: "240406"
 ---
 
 # Books read
@@ -34,6 +34,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Toki Pona: The language of good. The simple way of life - B. J. Knight.
 - Me talk pretty one day - David Sedaris.
 - I could pee on this - Francesco Marciuliano.
+- How to beat your dad at chess - Murray Chandler.
 - A Dog's heart - Mikhail Bulgakov.
 - The 100-year-old man who climbed out the window and disappeared - Jonas Jonasson.
 - The manga guide to Relativity - Hideo Nitta, Masafumi Yamamoto, Keita Takatsu.
