@@ -4,7 +4,7 @@ title: "jProgr personal site"
 
 # jProgr personal site
 
-I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, chess, LEGO, puzzles, anime, art, beads sprites, cross stitching, languages: mini, español, english, bahasa indonesia.
+I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, chess, LEGO, puzzles, anime, art, beads sprites, cross stitching, languages: tono, español, english, bahasa indonesia, mini.
 
 ## Content
 
