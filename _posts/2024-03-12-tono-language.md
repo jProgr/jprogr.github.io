@@ -2,7 +2,7 @@
 title: "The Tono language"
 permalink: /tono-language
 custom_date: "240312"
-updated_date: "240324"
+updated_date: "240522"
 ---
 
 # The Tono language
@@ -39,6 +39,7 @@ Contents:
     - [Pronouns](#pronouns).
     - [Abbreviations](#abbreviations).
     - [Verb transitivity](#verb-transitivity).
+- [Notes](#notes).
 
 ## Letters
 
@@ -438,3 +439,7 @@ Remember that due to elision, a verb may be missing its object. In that case, it
 For multiple transitivity use context:
 
 - leno vefin maliwa, wa mahi vefi - Leno asks Maria one question.
+
+## Notes
+
+I would like to thank the awesome [Mini language](/mini-course-grammar) and its creator S.C. Gruget for inspiring me to work on Tono.
