@@ -2,7 +2,7 @@
 title: "Mini translations"
 permalink: /mini-translations
 custom_date: "230102"
-updated_date: "230824"
+updated_date: "240524"
 ---
 
 # Mini translations
@@ -33,6 +33,7 @@ Aesop fables:
 - [The ass and its shadow](/tupe-kavalo-an-si-osura).
 - [The ass and the grasshoppers](/tupe-kavalo-an-kirikiti).
 - [The ass and the lap dog](/tupe-kavalo-an-topi-noga-dogi).
+- [The father and his sons](/viro-paren-an-si-fili).
 - [The tortoise and the hare](/toti-an-kuneli).
 
 Pepper and Carrot comic:

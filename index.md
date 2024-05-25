@@ -4,10 +4,11 @@ title: "jProgr personal site"
 
 # jProgr personal site
 
-I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, chess, LEGO, puzzles, anime, art, beads sprites, cross stitching, languages: tono, español, english, bahasa indonesia, mini.
+I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, chess, LEGO, puzzles, anime, art, bead art, cross stitching, languages: tono, español, english, bahasa indonesia, mini.
 
 ## Content
 
+- [A translation of The father and his sons by Aesop to Mini](/viro-paren-an-si-fili).
 - [The Tono language](/tono-language).
 - [Go performance recipes](/go-performance-recipes).
 - [Mini: Go and its many uses](/mini-go).
