@@ -2,6 +2,7 @@
 title: "A translation of The father and his sons by Aesop to Mini"
 permalink: /viro-paren-an-si-fili
 custom_date: "240524"
+updated_date: "240525"
 ---
 
 # A translation of The father and his sons by Aesop to Mini
@@ -20,6 +21,6 @@ Union is strength.
 
 ## Notes
 
-- English version from [https://americanliterature.com/author/aesop/short-story/mercury-and-the-woodman](https://americanliterature.com/author/aesop/short-story/mercury-and-the-woodman).
+- English version from [https://americanliterature.com/author/aesop/short-story/the-father-and-his-sons/](https://americanliterature.com/author/aesop/short-story/the-father-and-his-sons/).
 - [Mini translations](/mini-translations).
 - [Mini resources](/mini-resources).
