@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "240502"
+updated_date: "240604"
 ---
 
 # Books read
@@ -56,6 +56,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Domain-Driven Design - Eric Evans.
 - Grammar of Lingua Franca Nova - George Boeree, Simon Davies.
 - Essential Dutch Grammar - Henry R. Stern.
+- Designing data-intensive applications - Martin Kleppmann.
 - The ultimate book of everyday knots - Geoffrey Budworth.
 - Meditations on first philosophy - René Descartes.
 - Discourse on the method for conducting one's reason well and for seeking truth in the sciences - René Descartes.
