@@ -2,7 +2,7 @@
 title: "The Tono language"
 permalink: /tono-language
 custom_date: "240312"
-updated_date: "240522"
+updated_date: "240716"
 ---
 
 # The Tono language
@@ -11,7 +11,7 @@ updated_date: "240522"
 
 Tono is a constructed language.
 
-Version: 3.  
+Version: 4.  
 Stability: Approaching stability.  
 
 Contents:
@@ -106,6 +106,14 @@ The pronunciation is as follows, precise pronunciation is not needed:
 - "y" as in jet. IPA: j, ʎ, ʝ, ɟ.
 
 Every word is stressed on the second to last syllable. Compounds are stressed on the last syllable.
+
+For any reason, you may choose to elide the pronunciation of "w", "u", once per word (compounds are one word). You may not elide "u" if it is preceded by "w". Some examples:
+
+- tuwo - tu'o. Elides "w".
+- tuwo - t'wo. Elides "u".
+- wuko - 'uko. Elides "w".
+- tuwo - t'o. Incorrect, you may not elide more than once per word.
+- wuko - w'ko. Incorrect, you may not elide "u" if preceded by "w".
 
 ## Sentences
 
@@ -361,6 +369,7 @@ To transform a foreign word into Tono follow these rules:
     - Any long sound becomes short.
     - Simplify sounds.
     - Ignore tone.
+    - Any letter that is barely said may be elided.
     - Follow the IPA to Tono letters map.
 2. Follow the consonant-vowel rule.
 3. Any sole vowel may be prepended with w.
