@@ -1,0 +1,5 @@
+# nick = jProgr
+# url = https://jprogr.github.io/twtxt.txt
+
+2025-01-05T12:41:09-06:00	"Nevermind who I am. I know who I am. Do you know who you are?".
+2025-01-05T12:42:48-06:00	Now using twtxt, more info https://twtxt.readthedocs.io/en/stable/index.html
