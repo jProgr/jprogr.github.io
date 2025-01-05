@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "240608"
+updated_date: "250105"
 ---
 
 # Books read
@@ -29,6 +29,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Concerning the spiritual in art - Wassily Kandinsky.
 - Essays on work and culture - Hamilton Wright Mabie.
 - On the nature of totalitarianism - Hannah Arendt.
+- The theory of everything else - Dan Schreiber.
 - Toki Pona - Sonja Lang.
 - Toki Pona: The Simplest Language in the World - Robert Warnke.
 - Toki Pona: The language of good. The simple way of life - B. J. Knight.
@@ -43,6 +44,8 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - 100 Go mistakes and how to avoid them - Teiva Harsanyi.
 - Lolita - Vladimir Nabokov.
 - Invitation to a Beheading - Vladimir Nabokov.
+- The big fat high school algebra 1 workbook - Robert Vigneri.
+- Math trigonometry practice workbook - Brain Hunter Prep.
 - Beginning iPhone Development with Swift 5 - Wallace Wang.
 - An Introduction to Philosophy - Daniel J. Sullivan.
 - Emperor Mollusk versus The Sinister Brain - Lee Martinez.
