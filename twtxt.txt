@@ -6,3 +6,4 @@
 2025-01-06T16:52:42-06:00	7zip codebase and a vulnerabality https://youtu.be/i5L9xEk_adw\?si\=_Safyfq_UjCyCh9z
 2025-01-06T16:59:19-06:00	Bash: command column formats input data into table format https://man7.org/linux/man-pages/man1/column.1.html
 2025-01-09T14:53:23-06:00	if got, want: A Simple Way to Write Better Go Tests https://mtlynch.io/if-got-want-improve-go-tests/
+2025-01-11T15:06:35-06:00	"Bulletproof diapers".
