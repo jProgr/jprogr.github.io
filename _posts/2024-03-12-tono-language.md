@@ -2,7 +2,7 @@
 title: "The Tono language"
 permalink: /tono-language
 custom_date: "240312"
-updated_date: "240716"
+updated_date: "250117"
 ---
 
 # The Tono language
@@ -11,7 +11,7 @@ updated_date: "240716"
 
 Tono is a constructed language.
 
-Version: 4.  
+Version: 5.  
 Stability: Approaching stability.  
 
 Contents:
@@ -142,7 +142,7 @@ You can also use more than one modifier by just chaining them:
 
 The word "wa" can be used to establish any type of context for the sentences that follow:
 
-- wa sete.nowa, Tom kuhan talu - In the morning Tom ate fruit - Tom ate fruit this morning.
+- wa setenowa, Tom kuhan talu - In the morning Tom ate fruit - Tom ate fruit this morning.
 
 You may establish long and complex contexts with full sentences. You may also establish multiple contexts for one sentence.
 
@@ -226,28 +226,28 @@ As usual, "wa" marks a modifier as a preposition. In this case, it can be used b
 
 When listing things, if the relation is obvious, not really important or left ambiguous for some reason, you may just not use a conjunction:
 
-- leno suvon sali, tuka.sali - Leno has a knife and a sword.
+- leno suvon sali, tukasali - Leno has a knife and a sword.
 
-Notice there is no "and" nor any type of context marking the relation between the two object that are owned by Leno. This rule is followed by anything that would use conjunctions in other languages: sentences, nouns, adjectives, adverbs.
+Notice there is no "and" nor any type of context marking the relation between the two objects that are owned by Leno. This rule is followed by anything that would use conjunctions in other languages: sentences, nouns, adjectives, adverbs.
 
 #### Coordinating conjunctions
 
 Like many things in Tono, conjunctions are just like any other word, for joining things they are used as context and follow the same rules:
 
-- leno suvon, wa nani, sali, tuka.sali - Leno has a knife and a sword.
-- leno tamun, wa nane, sali, tuka.sali - Leno wants a knife or a sword (either one, not both).
-- leno tamun, wa nano, sali, tuka.sali - Leno wants a knife or a sword (one, the other, or both).
+- leno suvon, wa nani, sali, tukasali - Leno has a knife and a sword.
+- leno tamun, wa nane, sali, tukasali - Leno wants a knife or a sword (either one, not both).
+- leno tamun, wa nano, sali, tukasali - Leno wants a knife or a sword (one, the other, or both).
 
 ### Mood
 
 When using words that denote a sentiment, "wa" sets the mood for the following sentences. One can see them as emoji:
 
 - wa dasi, Tom kuhan - Tom eats happily - Tom eats and is happy about it.
-- wa nuso.dasi - I am sad - Something is sad - This has caused me sadness - Sad.
+- wa nusodasi - I am sad - Something is sad - This has caused me sadness - Sad.
 
 You can mix and match for more complex emotions:
 
-- wa giyi.wawe nuso.dasi - Very sad - Sad!
+- wa giyiwawe nusodasi - Very sad - Sad!
 
 ## Set words
 
@@ -312,7 +312,7 @@ You can also use scientific notation for numbers with too many zeroes:
 
 Tono uses a few symbols for punctuation:
 
-- . (dot): Composes new words. Separates sentences. Pronounced as a pause in speech. Silent on compounds.
+- . (dot): Separates sentences. Pronounced as a pause in speech.
 - , (comma): Separates context and mood from the main sentence. Separates elements in a list. Pronounced as a short pause in speech.
 - : (colon): Denotes the start of the meaning of set words. Pronounced as a short pause in speech.
 
@@ -345,10 +345,10 @@ Feel free to mix and match.
 
 ## Compounds
 
-Compound words are a way for anyone to create new words using base words from the dictionary. Compounds behave like any other word in Tono. To make a new compound: Take the main concept and put it at the end of the new word. Prepend modifying words using a dot (.). The new word is stressed on the last syllable. Let's see some examples:
+Compound words are a way for anyone to create new words using base words from the dictionary. Compounds behave like any other word in Tono. To make a new compound: Take the main concept and put it at the end of the new word then prepend modifying words. The new word is stressed on the last syllable. Let's see some examples:
 
-- dasi: Happiness. nuso: Opposite. nuso.dasi: Sadness.
-- sali: Knife. tuka: Long. tuka.sali: Sword.
+- dasi: Happiness. nuso: Opposite. nusodasi: Sadness.
+- sali: Knife. tuka: Long. tukasali: Sword.
 
 There are some concepts that work with either order on the words. In that case just choose one. When making compounds, if you feel like the concept is not fully clear, you may set it. Finally, do prefer compounds already in the dictionary over making new ones.
 
@@ -421,7 +421,7 @@ Tono does not have pronouns. Instead, you always use the name of the thing you a
 
 If you have some information on what could be you are talking about, for example a person, you may use a noun that describes it:
 
-- huva tamun fene - Someone wants that (I don't who).
+- huva tamun fene - Someone wants that (I don't know who).
 
 ### Abbreviations
 
@@ -448,6 +448,10 @@ Remember that due to elision, a verb may be missing its object. In that case, it
 For multiple transitivity use context:
 
 - leno vefin maliwa, wa mahi vefi - Leno asks Maria one question.
+
+### Compounds clashes
+
+When building compound words, abbreviations, or transforming foreign words into Tono, they may end up looking the same. That's ok, words have more than one meaning. Do remember that compounds are stressed on the last syllable, pronounceable abbreviations and foreign words are stressed like any other word.
 
 ## Notes
 
