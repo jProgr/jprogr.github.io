@@ -39,6 +39,7 @@ Contents:
     - [Pronouns](#pronouns).
     - [Abbreviations](#abbreviations).
     - [Verb transitivity](#verb-transitivity).
+    - [Compounds clashes](#compounds-clashes).
 - [Notes](#notes).
 
 ## Letters
