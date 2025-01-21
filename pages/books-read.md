@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "250105"
+updated_date: "250121"
 ---
 
 # Books read
@@ -85,6 +85,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Crónicas marcianas - Ray Bradbury.
 - Fahrenheit 451 - Ray Bradbury.
 - Zen en el arte de escribir - Ray Bradbury.
+- Crónica de una sociedad intoxicada - Joan-Ramon Laporte.
 - Los fantasmas ausentes - Eva Ibbotson.
 - Las de endenantes - Bruno Newman.
 - Leonardo Da Vinci: Anatomía de la vida - Luis Raúl Lépori, Walter Köhler.
