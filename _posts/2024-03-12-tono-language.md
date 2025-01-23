@@ -2,7 +2,7 @@
 title: "The Tono language"
 permalink: /tono-language
 custom_date: "240312"
-updated_date: "250117"
+updated_date: "250122"
 ---
 
 # The Tono language
@@ -11,7 +11,7 @@ updated_date: "250117"
 
 Tono is a constructed language.
 
-Version: 5.  
+Version: 6.  
 Stability: Approaching stability.  
 
 Contents:
@@ -222,6 +222,12 @@ Others:
 As usual, "wa" marks a modifier as a preposition. In this case, it can be used before or after the sentence, or even before or after the word being modified.
 
 - wa nisi, leno fenen - leno, wa nisi, fenen - leno fenen, wa nisi - Leno is inside.
+
+There are no strict possessives in Tono. To mark possession one uses the verb "suvon":
+
+- leno, wa suvon, hamutalu - Leno's orange.
+
+In the same vein, many relations marked by the word "of" in English are marked by "wa [verb]".
 
 ### Modifiers as conjunctions
 
