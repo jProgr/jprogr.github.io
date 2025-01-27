@@ -8,3 +8,4 @@
 2025-01-09T14:53:23-06:00	if got, want: A Simple Way to Write Better Go Tests https://mtlynch.io/if-got-want-improve-go-tests/
 2025-01-11T15:06:35-06:00	"Bulletproof diapers".
 2025-01-24T14:38:38-06:00	Be aware of the Makefile effect https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect
+2025-01-27T11:44:58-06:00	Shunpo: A minimalist bash tool that makes directory navigation just a little bit faster https://github.com/egurapha/Shunpo
