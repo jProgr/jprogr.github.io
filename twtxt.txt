@@ -9,3 +9,4 @@
 2025-01-11T15:06:35-06:00	"Bulletproof diapers".
 2025-01-24T14:38:38-06:00	Be aware of the Makefile effect https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect
 2025-01-27T11:44:58-06:00	Shunpo: A minimalist bash tool that makes directory navigation just a little bit faster https://github.com/egurapha/Shunpo
+2025-01-28T17:50:23-06:00	Fear of dark https://youtu.be/BcQ-8R2fiZg\?si\=uDpLu_fdpJpCdf_r
