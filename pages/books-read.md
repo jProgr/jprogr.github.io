@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "250121"
+updated_date: "250202"
 ---
 
 # Books read
@@ -87,6 +87,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Zen en el arte de escribir - Ray Bradbury.
 - Crónica de una sociedad intoxicada - Joan-Ramon Laporte.
 - Los fantasmas ausentes - Eva Ibbotson.
+- 100 lugares que ver después de morir - Ken Jennings.
 - Las de endenantes - Bruno Newman.
 - Leonardo Da Vinci: Anatomía de la vida - Luis Raúl Lépori, Walter Köhler.
 - La máquina humana - Luis Lépori, Walter Köhler.
