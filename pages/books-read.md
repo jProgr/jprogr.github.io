@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "250202"
+updated_date: "250210"
 ---
 
 # Books read
@@ -178,6 +178,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - El poder del cerebro izquierdo - Allen Bragdon, David Gamon.
 - El hombre light - Enrique Rojas.
 - Historia de las matemáticas - Ian Stewart.
+- Sin conciencia - Robert D. Hare.
 - Teorías de la Personalidad - George Boeree, Rafael Gautier Roques.
 - Un mundo feliz - Aldous Huxley.
 - Delicioso suicidio en grupo - Arto Paasilinna.
