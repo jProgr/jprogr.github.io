@@ -11,3 +11,4 @@
 2025-01-27T11:44:58-06:00	Shunpo: A minimalist bash tool that makes directory navigation just a little bit faster https://github.com/egurapha/Shunpo
 2025-01-28T17:50:23-06:00	Fear of dark https://youtu.be/BcQ-8R2fiZg\?si\=uDpLu_fdpJpCdf_r
 2025-02-08T21:08:34-06:00	We’re Amusing Ourselves to Death https://youtu.be/5yBdrRdhk0I\?si\=V1qVe3vcA4RKkMX2
+2025-02-17T10:10:07-06:00	Demystifying OTPs: the logic behind the offline generation of tokens https://itnext.io/demystifying-otps-the-logic-behind-the-offline-generation-of-tokens-baefca7aa0d0
