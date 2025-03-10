@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "250210"
+updated_date: "250309"
 ---
 
 # Books read
@@ -134,6 +134,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Baila, baila, baila - Haruki Murakami.
 - Crónica del pájaro que da cuerda al mundo - Haruki Murakami.
 - After Dark - Haruki Murakami.
+- Gran guía visual del cosmos - Toshifumi Futamase, Toshihiro Nakamaru, Yu Tokumaru.
 - Los años de peregrinación del chico sin color - Haruki Murakami.
 - Cómo empezar a escribir historias - Alberto Chimal.
 - Que todo sea como nunca fue - Joachim Meyerhoff.
