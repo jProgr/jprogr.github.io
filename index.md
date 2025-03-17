@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like programming, reading, maths, philosophy, che
 
 ## Content
 
+- [A translation of The wolf and the lion by Aesop to Mini](/lupo-an-leon).
 - [Hugging creature](/hugging-creature).
 - [A translation of The father and his sons by Aesop to Mini](/viro-paren-an-si-fili).
 - [The Tono language](/tono-language).

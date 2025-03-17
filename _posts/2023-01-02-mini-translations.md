@@ -2,7 +2,7 @@
 title: "Mini translations"
 permalink: /mini-translations
 custom_date: "230102"
-updated_date: "240524"
+updated_date: "250317"
 ---
 
 # Mini translations
@@ -35,6 +35,7 @@ Aesop fables:
 - [The ass and the lap dog](/tupe-kavalo-an-topi-noga-dogi).
 - [The father and his sons](/viro-paren-an-si-fili).
 - [The tortoise and the hare](/toti-an-kuneli).
+- [The wolf and the lion](/lupo-an-leon).
 
 Pepper and Carrot comic:
 
