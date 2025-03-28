@@ -2,7 +2,7 @@
 title: "Example Mini sentences"
 permalink: /mini-sentences
 custom_date: "230217"
-updated_date: "230327"
+updated_date: "250327"
 ---
 
 # Example Mini sentences
@@ -10,19 +10,19 @@ updated_date: "230327"
 This is a list of translated sentences to Mini to see words used in context. The sentences come from multiple sources, mainly tatoeba.org but are not directly translated there because currently the language cannot be added to the site (maybe in the future). The work is being done in a [Google sheet](https://docs.google.com/spreadsheets/d/1Uais6lcfFMH8g7_D5p73NxbXR1StJq1brJNnCzsswmY/edit?usp=sharing), if you would like to contribute feel free to contact me.
 
 - mi i vole savi a ke i pasa go Tom. - I want to know what happened to Tom.
-- via penta ano de duka o kansera terapi, si-viro i de fini-make kipa a dereka fase. - Throughout the five years of painful cancer treatments, he managed to keep a stiff upper lip.
+- via penta ano de duka o sela-develo-maladi terapi, si-viro i de fini-make kipa a dereka fase. - Throughout the five years of painful cancer treatments, he managed to keep a stiff upper lip.
 - di a mentira diamante. - This is a fake diamond.
 - Mary i de mentira-make no savi ke Tom i de tenta dire a si-feme. - Mary pretended not to understand what Tom was trying to tell her.
 - si-viro viro-paren i de aseta a mi ajenda anti si-viro vole. - His father consented to my plan against his will.
 - Tom de-i no resi-figura. - Tom wasn't lying down.
 - da viro-kinde e mui lasi! - How lazy those boys are!
-- rio El Harrach i labora sama open tubo-laji. - The El Harrach River functions like an open sewer.
+- riva El Harrach i labora sama open tubo-laji. - The El Harrach River functions like an open sewer.
 - Tom i de aseta o solo a semi liabili. - Tom only accepted partial responsibility.
 - si-ale i dire ke i de vole make o ni a da. - They say they never wanted to do that.
 - Tom i dire o rapi. - Tom talks fast.
 - mi e fule en-savi de tu nulo-vina. - I'm clearly convinced of your innocence.
 - mi i de no invite a tu. - I didn't ask you out.
-- adio! ven tu i ave a ma tempo, i veni an ludi! - Goodbye! When you have more time, come back and play!
+- salu! ven tu i ave a ma tempo, i veni an ludi! - Goodbye! When you have more time, come back and play!
 - mi-ale i no vole a nulo-kipa-tenden-neso en Aljeri. - We don't want instability in Algeria.
 - Tom i go lida-make a da. - Tom is going to take care of that for us.
 - mi i pensa ke tu i no keredo o an a Tom. - I take it you don't believe Tom either.
@@ -43,7 +43,7 @@ This is a list of translated sentences to Mini to see words used in context. The
 - si-viro i de baka-go a Danmak. - He went back to Denmark.
 - Tom i ave a vile-tempo de dipa-melankoli de-i sige de lin de dipa-enejia ato. - Tom has periods of debilitating depression followed by bursts of manic activity.
 - mi i go mira a fobo kino. - I'm going to see a horror film.
-- an si-viro i de dona-mala-name a Abimelech ka fonte, ke si-viro dulo de-i ave robare o poten. - And he reproved Abimelech for a well of water, which his servants had taken away by force.
+- an si-viro i de dona-mala-name a Abimelech ka fonte, ke si-viro dulo i de ave robare o poten. - And he reproved Abimelech for a well of water, which his servants had taken away by force.
 - Tom i de baka-dona a si note-pape en si teta poke. - Tom put his pad back into his breast pocket.
 - Tom an Mary e bon. - Tom and Mary are good.
 - en-i etudi a Barbari de-i ave e vere joli go mi. - Studying Berber has been a real joy for me.
@@ -93,14 +93,14 @@ This is a list of translated sentences to Mini to see words used in context. The
 - mi-ale i go enkonte e sige-dia? - Are we meeting tomorrow?
 - kada uno i leje a uno sentense. - Read one sentence each.
 - mi i no savi a ale ke tu i make. - I don't know everything you do.
-- Sami e de dereka an nulo-sori de si-viro keredo. - Sami was direct and unapologetic about his opinions.
+- Sami i de e dereka an nulo-sori de si-viro keredo. - Sami was direct and unapologetic about his opinions.
 - Yanni i de voka o momen a polisa. - Yanni called the police immediately.
 - de begin de lati-maladi, mi-ale i ave make a deside de-i base en siensa, info an dalili de guru de sano. - Since the onset of the pandemic, we have made decisions based on science, data and evidence from health experts.
 - en-i open o mui lenta o ade a ventana, si-ale i de arapan-kipa tila kali nube i de ave osura o semi a eve, an den uno de uno i de kamina go mini gaden. - Opening the window very slowly and carefully, they waited until a dark cloud had somewhat obscured the night, and then one by one passed through into the little garden.
 - tu i ave voka o deja a sano-karo? - Have you already called an ambulance?
 - Tom de-i dona a da labora. - Tom was assigned that task.
 - mi i de make a some-kosa seketa. - I did something mysterious.
-- Sumatra e ila. - Sumatra is an island.
+- Sumatra a ila. - Sumatra is an island.
 - mi i viva en Nipon. - I live in Japan.
 - mi e duka. - I am hurt.
 - i mori, inseto! - Die, insect!
@@ -120,17 +120,17 @@ This is a list of translated sentences to Mini to see words used in context. The
 - mi name a… - My name is…
 - tu i veni e de ke? - Where are you from?
 - mi i veni de… - I'm from…
-- mi e joli ke mi i de enkonte a  tu - Pleased to meet you
+- mi e joli ke mi i de enkonte a tu. - Pleased to meet you.
 - bon maten - Good morning (Morning greeting)
-- bon afa-semi-dia - Good afternoon (Afternoon greeting)
+- bon afa-semi-dia. - Good afternoon (Afternoon greeting).
 - bon eve - Good evening (Evening greeting)
 - bon eve - Good night
-- adio - Goodbye (Parting phrases)
+- salu. - Goodbye (Parting phrases)
 - bon luki! - Good luck!
 - bon! - Cheers! Good Health! (Toasts used when drinking)
 - i ave a bon dia - Have a nice day
 - i joli a manja - Bon appetit / Have a nice meal
-- adio - Bon voyage / Have a good journey
+- salu. - Bon voyage / Have a good journey
 - ja - Yes
 - no - No
 - mebi - Maybe
@@ -154,7 +154,7 @@ This is a list of translated sentences to Mini to see words used in context. The
 - danke - Thank you
 - sama-sama - Reply to thank you
 - toilete e en ke? - Where's the toilet / bathroom?
-- di viro i go paga a ale - This gentleman will pay for everything
+- di viro i go paga a ale. - This gentleman will pay for everything.
 - di feme i go paga a ale - This lady will pay for everything
 - tu i vole dansa kon mi? - Would you like to dance with me?
 - tu i veni o mui e di? - Do you come here often?
@@ -185,14 +185,14 @@ This is a list of translated sentences to Mini to see words used in context. The
 - mi i ave supose ke solo moda mi i kan make a di e ke Tom i ade a mi. - I've figured out that the only way I can do this is to get Tom to help me.
 - sole-luse i make ke mala-eleki-peso en sela i move an enejia e make. - The sunlight makes the electrons in the cells move and energy is produced.
 - da jaketa i de debe kote a rama an noga go tu. - That jacket must've cost you an arm and a leg.
-- Tom an mi e de no solo man ke i de via-viva. - Tom and I weren't the only ones who survived.
+- Tom an mi i de e no solo man ke i de via-viva. - Tom and I weren't the only ones who survived.
 - e no nese go-i dire ke si-feme e besonde piano-man. - It is not necessary to say that she is an excellent pianist.
-- Tom e de mui o ma rapi sama Mary en en-i make a da. - Tom was much quicker at doing that than Mary was.
+- Tom i de e mui o ma rapi sama Mary en en-i make a da. - Tom was much quicker at doing that than Mary was.
 - i dire a si-feme ke man-ale e di. - Tell her that everyone is here.
 - Tom e bon kon si. - Tom is OK with it.
 - go-i ia ke tu i dire a da i make ke mi i senti e ma bon. - It makes me feel better to hear you say that.
 - Tom i da veni e bon go di labora. - Tom would be perfect for this job.
-- da ke veta i de go make e de no apara. - It wasn't obvious what the weather was going to do.
+- da ke veta i de go make i de e no apara. - It wasn't obvious what the weather was going to do.
 - si-uno i no nese dire ke vere-fule-neso e da ma bon ajenda. - It goes without saying that honesty is the best policy.
 - eki i en veni e mui kalori. - It's really getting warm outside.
 - tu i kite a Boston? - Are you leaving Boston?
@@ -237,7 +237,7 @@ This is a list of translated sentences to Mini to see words used in context. The
 - si-viro i de tenta no pensa o no ma a si-feme. - He made an effort not to think about her any more.
 - mi e mui vori de di tema. - I'm very concerned about these matters.
 - Tom e no impotan. - Tom isn't indispensable.
-- Tom an Mary i dire ke si-ale i da veni e di. - Tom and Mary said they would be here.
+- Tom an Mary i de dire ke si-ale i da e di. - Tom and Mary said they would be here.
 - si-feme e sufi bela. - She's beautiful enough.
 - tu i da favo amo-enkonte e some tempo? - Would you like to go out sometime?
 - mi i pensa ke si-feme i favo a si-viro. - I think she likes him.
@@ -252,7 +252,7 @@ This is a list of translated sentences to Mini to see words used in context. The
 - mi-ale i go pale kon Tom. - We'll have to have a talk with Tom.
 - Tom i de kipa e silen vile da-ma-impotan-manja. - Tom remained silent during dinner.
 - Mary i de dire ke si-feme i da no make o mebi a da. - Mary said she probably wouldn't do that.
-- si e de apara ke si-viro i de vole beso a mi. - It was obvious that he wanted to kiss me.
+- si i de e apara ke si-viro i de vole beso a mi. - It was obvious that he wanted to kiss me.
 - tu i keredo en UFO? - Do you believe in UFOs?
 - Tom i dire ke si-viro i ave dire o ni a mentira. - Tom claims that he's never told a lie.
 - Großer Tiergarten u Tiergarten e mega komun gaden de-i loke en semi de Belin. - The Großer Tiergarten or Tiergarten is a large public park located in the middle of Berlin.
@@ -265,7 +265,7 @@ This is a list of translated sentences to Mini to see words used in context. The
 - Julius i punjo o furi a sadi viro-kinde. - Julius angrily beats the rude boy.
 - mi e no furi go tu, no ma. - I'm not mad at you anymore.
 - en da ma meno, i mentira-make ke tu e joli ke tu e di. - At least pretend you're happy to be here.
-- Mennad i de lagima ka si-viro e de dire-abuso. - Mennad was crying because he was embarrassed.
+- Mennad i de lagima ka si-viro i de e dire-abuso. - Mennad was crying because he was embarrassed.
 - Tom i de bibe a si kafe. - Tom sipped his coffee.
 - mi i no pensa ke Tom i savi a rason ke Mary e fobo. - I don't think Tom knows why Mary is afraid.
 - mi i arapan ke tu i go ave a bon afa-semi-dia. - I hope you have a good afternoon.
@@ -287,11 +287,11 @@ This is a list of translated sentences to Mini to see words used in context. The
 - mi i no favo a feme sama da. - I don't like women like that.
 - tu i de pone a si-feme imaje e en ke? - Where did you put her picture?
 - Mary i de muta o fini a si-feme menta. - Mary eventually changed her mind.
-- en tempo de McCarthy, "juda-relijon-man" de-i de mira o lati sama sama-sinifi de "sosia-regula-gove-man", an "kristo-relijon-man" sama-sinifi de "mone-regula". - In the McCarthy era, "Jewish" was widely considered synonymous with "socialist," and "Christian" with "capitalist."
+- en tempo de McCarthy, "juda-relijon-man" i de e de-i mira o lati sama sama-sinifi de "sosia-regula-gove-man", an "kristo-relijon-man" sama-sinifi de "mone-regula". - In the McCarthy era, "Jewish" was widely considered synonymous with "socialist," and "Christian" with "capitalist."
 - si i en pasa. - It's happening.
 - Tom e su antika ke si i no kan make a da. - Tom is already too old to do that.
 - mi i go veni e di sige-dia, mi i pensa. - I'll be here tomorrow, I think.
-- Tom i de kan viva a ma u meno media viva afa medika-metodo. - Tom was able to live a more or less normal life after the operation.
+- Tom i de kan viva a ma u meno medi viva afa medika-metodo. - Tom was able to live a more or less normal life after the operation.
 - mi i ave duka sama mui sama tu. - I've suffered as much as you have.
 - Mary i de no savi a rason ke Tom i de odi a si-feme. - Mary didn't know why Tom hated her.
 - junta i de ave begin ludi o jusa ven regen i de begin. - The teams had just started to play when it began to rain.
@@ -309,6 +309,784 @@ This is a list of translated sentences to Mini to see words used in context. The
 - i lase kopen a uno go Tom. - Let's buy Tom one.
 - tu i pensa a ke ke Tom i go gana? - What makes you think Tom will win?
 - si e no ke ke si-viro i de dire, pero moda ke si-viro i de dire. - It's not what he said, but the way he said it.
+- si i go an i kopen a kavalo. - He goes to buy a horse.
+- si i go kipa. - To be continued.
+- di a mi kamera. - This is my room.
+- i de a vasa. - There was water.
+- Tom i de abuso a Mary. - Tom abused Mary.
+- i supa-go a ade-kolun! - Climb the mast!
+- di vela navi i ave a san ade-kolun. - This sailing ship has three masts.
+- mi i amo a tu. - I love you.
+- Bob i pale mui. - Bob talks a lot.
+- tu i no manja a ale pan. - You didn't eat all the bread.
+- tu kaja. - Your box.
+- ale mi kosa. - All my things.
+- mui kore o animale. - Very dear animal.
+- animale de mui kore. - Animal of many hearts.
+- mi i toma a kosa go tu. - I take the thing to you.
+- bisinesa-man i en-pota a 200 kilo-gama de vino-beri. - The businessman imports 200 kilograms of grapes.
+- gen-viva de no-mori bete i de kon-pasa kon ruina de si tumba. - The revival of the undead beast coincided with the destruction of his tomb.
+- siensa-man i pensa ke raja-topi-viru i mebi ave veni de kave de vola-muso. - The scientist thinks the coronavirus might have come from a bat cave.
+- mi e sama mega sama tu. - I am as big as you.
+- da e ma bon. - That is better.
+- mi e ma bon sama tu. - I am better than you.
+- di feruta e meno ruja sama da. - This fruit is less red than that one.
+- da pan e da ma bon. - That bread is the best.
+- mi vole a keki ke e bon. - I want the cake that is good.
+- man, ke ave a mui mone, no vole labora. - A person that has a lot of money does not want to work.
+- afa, mi-ale go. - Afterward, we go.
+- mi-ale debe kipa di, tamen. - We should stay here, however.
+- vaku-man i kan mira a najima ka si ventana i en punto eki de Tera. - The spaceman can see the star because his window is pointing away from Earth.
+- ka mi odi tu, mi senti sama en-i open a aero-loka. - Because I hate you, I feel like opening the airlock.
+- se tu open a mun, mi-ale i go e de-i suko en vaku. - If you open the door, we will be sucked into space.
+- tamen si i go mori, si deside open a loka. - Although s/he will die, s/he decides to open the lock.
+- vile tu open a loka, mi toma a mi fini nafasa. - While you open the lock, I take my last breath.
+- tamen de mala manja, si i kipa go tamen a retorante. - Despite the bad food, he nevertheless keeps going to the restaurant.
+- vile de evento, mi no bibe a ani kosa. - During the event, I didn't drink anything.
+- mega viro i de manja. - The big man ate.
+- mega viro i manja. - The big man eats.
+- mega viro i go manja. - The big man will eat.
+- mega viro i de a mini viro. - The big man was a small man.
+- mini viro i go veni a mega viro. - The small man will be a big man.
+- mega viro i go veni e bon. - The big man will be good.
+- animale i ave manja. - The animal has eaten.
+- animale i en manja. - The animal is eating.
+- mi go ave en manja. - I will have been eating.
+- mi pasa savi a feme. - I used to know the woman.
+- mi da make a da, pero mi no kan. - I would do that, but I can't.
+- si debe resi. - She should rest.
+- si mebi kan go. - He might be able to go.
+- mi kipa vole fini pale kon si. - I keep wanting to stop talking with him.
+- mi debe mebi ave begin etudi a Mini. - I should perhaps have started studying Mini.
+- si kipa pale rapi. - She keeps talking quickly.
+- si kipa no pale. - She keeps not talking.
+- si no kipa pale. - She does not keep talking.
+- mi i begin rapi a karo. - I start to speed the car.
+- mi i begin o rapi a karo. - I start the car quickly.
+- mi name a feme-kinde a Alisa. - I name the girl Alice.
+- mi i an a si a mi seri. - I add it to my list.
+- a vasa. - There is water.
+- e vasa. - It’s wet.
+- a man. - There is a person.
+- e kula. - It's cool.
+- mi senti e bon. - I feel good.
+- mi labora i veni e su duro. - My work becomes too hard.
+- si-ale i ave a raro aroma. - They have a weird smell.
+- si-feme i ave a bon mira. - She has a good appearance.
+- tu make a manja e mala. - You make the food bad.
+- i veni a viro. - Be a man!
+- i veni e bon. - Be good!
+- go-i mori a baka-pale-tori. - To kill a mockingbird.
+- go-i go o poten a ke no man i ave go ante. - To boldly go where no man has gone before.
+- go-i ero, e man. go-i padon, e deo. - To err is human, to forgive divine.
+- go-a bon man, e su duro. - To be a good person is too hard.
+- en-i no vasa a veji, a mala kosa. - Not watering the plants is a bad thing.
+- feme en-i manja a pan i kite. - The woman eating the bread leaves.
+- animale, en-e mega su, i unda. - The animal, being too large, falls.
+- Mini a pale de-i make. - Mini is a constructed language.
+- de-i kosina sama di, veji i ave a bon aroma. - Cooked like this, the vegetables have a nice aroma.
+- di buku e de-i note de mi. - This book is written by me.
+- mi i manja. - I eat.
+- Bob i manja a veji. - Bob eats veggies.
+- man i bibe a vasa. - A person drinks water.
+- Bob i make a manja. - Bob makes food.
+- mi i vasa a veji. - I water the plants.
+- Bob a man. - Bob is a person.
+- veji a manja. - Vegetables are food.
+- kosa e bon. - The thing is good.
+- Bob e vasa. - Bob is wet.
+- manja e Bob. - The food is Bob's.
+- mega loke. - Big place.
+- no mui kolo. - Not much colour.
+- dika feo bebe. - Fat ugly baby.
+- Bob i manja rapi. - Bob eats fast.
+- Bob i no manja mui rapi. - Bob does not eat very fast.
+- nu demo e lati-maladi de poten dipa-bore. - The new show is plagued by an aggressive ennui.
+- Bob e kon Alisa. - Bob is with Alice.
+- Bob e de Amerika. - Bob is from America.
+- Alisa i viva en London. - Alice lives in London.
+- da e go tu. - That’s for you.
+- mi e sama tu. - I am like you.
+- Alisa i go a retorante. - Alice goes to the restaurant.
+- Alisa i kon a Bob. - Alice includes Bob.
+- mi i kipa en. - I stay in.
+- Alisa an Bob i pale mui. - Alice and Bob talk a lot.
+- tu i vole a kafe u tea? - Do you want coffee or tea?
+- mi i kamina en foreta, pero si i kipa en. - I walk in the forest, but he stays inside.
+- mi i vole go an. - I want to go too.
+- si a pero kinde. - He is but a child.
+- tu i no kan go a u jalan. - You can’t go either way.
+- si i vole resi? - Does he want to sleep?
+- si i vole go, u ke? - Does he want to go or what?
+- no, si i no vole go. - No, he does not want to go.
+- tu i ke? - You what?
+- tu a ke man? - Who are you?
+- tu e ke? - How are you?
+- tu i go en ke tempo? - When do you go?
+- tu i kipa go ke rason? - Why do you stay?
+- tu i manja a ke mui? - How much do you eat?
+- tu i vole uti a ke kosa? - Which thing do you want to use?
+- mi i senti ke si i make. - I feel that it works.
+- mi i ave a ke si i ave. - I have what she has.
+- i go! - Go!
+- i manja a tu veji! - Eat your veggies!
+- i no pale! - Don’t talk!
+- man i ave a uno nase, duo oko, an penta diji en kada mano. - A person has one nose, two eyes, and five fingers on each hand.
+- si ade-man i de sinti a si sapato. - His assistant polished his shoes.
+- mi i koleki a adere-imaje. - I collect stickers.
+- i uti a adere baton. - Use a glue stick.
+- Sami e de Aegiptos. - Sami originates from Egypt.
+- i dona a da aeji go mi. - Give me that shield.
+- Jo i favo a sento-ano-ovo. - Jo likes century eggs.
+- i mori a mi an den i gen-begin a mi kore. - Kill me and then restart my heart.
+- Sami i odi a aero-kula. - Sami hates air conditioners.
+- some vakansa-navi i radi sama mui aero-mini-peso sama uno mega karo. - Some cruise ships emit as much particulate matter as one million cars.
+- vakansa-navi en-i dive. - The cruise ship is sinking.
+- aero-pota e en ke? - Where's the airport?
+- Italia i de milita-move a Aetiopia en 1935. - Italy invaded Ethiopia in 1935.
+- Afganistan a lan-ruguma paisa. - Afghanistan is a landlocked country.
+- viro-kinde i de fuji o naro a afoga. - The boy narrowly escaped drowning.
+- riva-kavalo i viva en Afrika. - Hippopotamuses live in Africa.
+- agila i ave a benda biko. - Eagles have curved beaks.
+- Aisopo i de a elas saga-man. - Aesop was a Greek fabulist.
+- mi en-i aje. - I am aging.
+- den, ake i de lubi an vola de si-viro mano go pisina. - Thus it happened that the axe slipped and flew out of his hands into the pool.
+- i open a akonto. - Open an account.
+- polisa i de akuse a si. - The police accused him.
+- vasa-retili i ave a akuta denta. - Crocodiles have sharp teeth.
+- Alarbia e duro! - Arabic is difficult!
+- mega info en-i tenta go ale-en-i-savi. - Big Data is striving for omniscience.
+- i ale-litera a di seri. - Alphabetize this list.
+- name "ale-sesi" i ave veni o jusa a popula ota go "duo-sesi". - The term "pansexual" has recently become a popular alternative to "bisexual".
+- alien e vere. - Aliens are real.
+- mi i pensa ke mi i de uti a su alio. - I think I used too much garlic.
+- su bibe i kan duka a amidala. - Binge drinking can damage the amygdala.
+- man-ale i nese a amigo. - Everyone needs friends.
+- amo-man, favo, i memo. - Darling, please remember.
+- mi i misi a tu amo-senti. - I miss your caresses.
+- si i de e amuse? - Was it fun?
+- 2, 4, 6, an-ma, a duo-numa. - 2, 4, 6, etc., are even numbers.
+- Anak a man en ebru Kristo-buku. - Anak is a figure in the Hebrew Bible.
+- Andalusia e en sude de Espania. - Andalusia is located in the south of Spain.
+- si i de e nati en Sina pero si i viva en Angola. - He was born in China but lives in Angola.
+- en-i etudi a Angugo e duro. - Learning Korean is difficult.
+- en-i etudi a Josunmau e duro. - Learning Korean is difficult.
+- anima i esi? - Do souls exist?
+- mi i ave a animale-fobo. - I have zoophobia.
+- Santiago i de apara en animale-medika-kasa. - Santiago showed up at the veterinary clinic.
+- Australia a lan-runguma paisa? - Is Australia a landlocked country?
+- riva-kavalo i favo a vasa. - Hippopotamuses love water.
+- tu a mui bon saga-man. - You're a very good storyteller.
+- akonto-man i favo a suma-foli. - Accountants love spreadsheets.
+- Tom i labora en akonto-siensa. - Tom works in accounting.
+- vasa-retili i kan mori a man. - Crocodiles can kill people.
+- ten duo a duo-numa. - Twelve is an even number.
+- si a no-duo-numa. - It's an odd number.
+- tu i pale a Ebru? - Do you speak Hebrew?
+- ke man i de note a Kristo-buku? - Who wrote the Bible?
+- mi a lase animale-medika-man. - I am a licensed veterinarian.
+- Tom i ave a animale-medika base. - Tom has a veterinary background.
+- bovi i de begin kuri en animale-sela. - The cows started running in the corral.
+- i dansa kon anjo. - Dance with angels.
+- lense ansio-fiba en oko i lase ke tu i mira. - The optic nerve in the eye allows you to see.
+- Annie i de manja o ansio. - Annie ate nervously.
+- ise-tori e orijen de Antartika. - Penguins are endemic to Antarctica.
+- da a ise-tori? - Is that a penguin?
+- sivi-neso a ante-nese go vote. - Citizenship is a prerequisite for voting.
+- labora de erase-sesi-viro, an, de-i akonto en ante-nun-aje tempo. - An occupation of eunuchs also recorded in premodern times.
+- Tom i ave a duo sivi-neso. - Tom has dual citizenship.
+- no o viva bodi-peso i de e duka. - No vital organs were damaged.
+- kemi erase-sesi i kan orijen a sela-develo-maladi. - Chemical castration could cause cancer.
+- erase-sesi-viro a erase-sesi viro dulo. - Eunuchs are castrated male slaves.
+- tu i tensa a di elika-poten-pin e ke? ora-uti-direto u anti-ora-uti-direto? - How do you tighten this screw? Clockwise or counterclockwise?
+- medi, anti-sinifi de bon a mala. - The usual antonym of good is bad.
+- Tom i de sede o anti-tempo-tolera. - Tom sat impatiently.
+- mi i favo a antika-gadi kon nata de fava-nuki. - I like celery with peanut butter.
+- di e no apojo-kan. - This isn't sustainable.
+- no man i de apojo a si-feme. - Nobody supported her.
+- a rason go mi ara-fobo. - There is a reason for my apiphobia.
+- ara i make a madu. - Bees make honey.
+- Aragon a ego-ereki komun en Espania. - Aragon is an autonomous community in Spain.
+- arana i kan ave a arana-fobo. - Spiders can have arachnophobia.
+- mi i odi a arana. - I abhor spiders.
+- no-man i de apojo a si-feme. - Nobody supported her.
+- i karo-para en ani-loke. - Just park anywhere.
+- ke i orijen a tera-vibe? - What causes earthquakes?
+- si-viro i vende a radi-uti. - He sells radios.
+- i dona a ma poten-pin go mi. - Give me another nail.
+- i tensa a di elika-poten-pin. - Tighten this screw.
+- da a nata de fava-nuki? - Is that peanut butter?
+- karo-para i de e fule. - Parking was full.
+- di a no fume area. - This is a no smoking zone.
+- mi-ale i de en-pota a niku de Argentina. - We imported meat from Argentina.
+- Armenia a monte paisa. - Armenia is a mountainous country.
+- mi aro e en ke? - Where are my arrows?
+- Tai e en Asia. - Thailand is in Asia.
+- asido i dona-duka a metali. - Acid attacks metal.
+- si-viro i de no kan deteki a asilu. - He couldn't find any refuge.
+- Asturias e loke en monte area kon mui an develo veji. - Asturias is situated in a mountainous setting with vast greenery and lush vegetation.
+- anti i atira. - Opposites attract.
+- si-ale i de go via Atlas-mare. - They crossed the Atlantic Ocean.
+- i ato-begin a radi-uti. - Turn on the radio.
+- i ato-fini a tivi. - Turn off the TV.
+- tu i kan name-muta a di ato-name? - Can you conjugate this verb?
+- i ato e ma rapi! - Act faster!
+- vasa i ave a atomo-1 an atomo-8. - Water contains hydrogen and oxygen.
+- atomo-2 a aero. - Helium is a gas.
+- tu leva de atomo-3 i de e bajo. - Your lithium levels were low.
+- Patrick Etchart, pale-man de Ofisi de Enejia, i dire ke peso i de e make de atomo-94, atomo-92, atomo-4 an no aero-veni fero, en-i uti a vari o danja kami en metodo. - Patrick Etchart, spokesman for the Department of Energy, says the components were made from plutonium, uranium, beryllium and stainless steel, utilizing various dangerous chemicals in the process.
+- induseri uti de atomo-5 a ke? - What are the industrial applications of boron?
+- an atomo-6 tarifa? - What about the carbon tax?
+- kaka de natura polo e tingi en atomo-7. - Organic chicken manure is high in nitrogen.
+- atomo-9 a ten-san-ranko da ma medi atomo en pele de Tera. - Fluorine is the thirteenth most common element in Earth's crust.
+- atomo-10 a nulo-enejia aero. - Neon is a noble gas.
+- atomo-26 i reaki kon atomo-11? - Does iron react with sodium?
+- niku-en-feruta i ave a atomo-12. - Figs contain magnesium.
+- atomo-13 tin e gen-rondo. - Aluminum cans are recycled.
+- a viva de-i base en atomo-14? - Is there silicon-based life?
+- fekun i ave a atomo-15? - Do fertilizers contain phosphorus?
+- atomo-16 i aroma sama fungi-veni ovo. - Sulfur smells like rotten eggs.
+- atomo-17 i make ke vasa i aroma e raro. - The chlorine makes the water taste strange.
+- atomo-18 a nulo-enejia aero. - Argon is a noble gas.
+- banana e tingi en atomo-19. - Bananas are high in potassium.
+- atomo-20 e misi de si-viro manja-moda. - Calcium is absent from his diet.
+- kemi sino de atomo-21 a Sc. - The chemical symbol of scandium is Sc.
+- atomo-68 i de ave deteki en besonde o atomo-22 mina-roka. - Erbium has been found in certain titanium minerals.
+- kemi sino de atomo-23 a V. - The chemical symbol of vanadium is V.
+- mini-sujo ke i dona a si ruja kolo go ruja-roka a atomo-24. - The dopant that gives rubies their red color is chromium.
+- kemi sino de atomo-25 a Mn. - The chemical symbol of manganese is Mn.
+- Popula-regula-gove republika de kongo i eki-pota a atomo-27. - The DRC exports cobalt.
+- di duro-mone e make de atomo-28. - This coin is made of nickel.
+- si-viro i fusi a atomo-29. - He melts copper.
+- di metali de-i name a atomo-30. - This metal is called zinc.
+- kemi sino de atomo-31 a Ga. - The chemical symbol of gallium is Ga.
+- kemi sino de atomo-32 a Ge. - The chemical symbol of germanium is Ge.
+- atomo-33 a venemo. - Arsenic is a poison.
+- atomo-1, atomo-6, atomo-7, atomo-15, otomo-8, atomo-16 and atomo-34 a no-metali. - Hydrogen, carbon, nitrogen, phosphorus, oxygen, sulfur and selenium are nonmetals.
+- venemo aero de atomo-35 i kan duka a man lunge. - Toxic fumes of bromine can damage one's lungs.
+- kemi sino de atomo-36 a Kr. - The chemical symbol of krypton is Kr.
+- makina de-i make de nube de atomo-37 atomo. - The device consists of a cloud of rubidium atoms.
+- Davy, britan kemi-man, i de divi a pura atomo atomo-56, atomo-5, atomo-20, atomo-12, atomo-19, atomo-11 an atomo-38. - Davy, a British chemist, isolated the pure elements barium, boron, calcium, magnesium, potassium, sodium and strontium.
+- fo kemi atomo, atomo-39, atomo-68, atomo-65 an atomo-70, e name en onore go vila Ytterby en Sbaria. - Four chemical elements, yttrium, erbium, terbium, and ytterbium, are named after the village of Ytterby in Sweden.
+- Some man i pensa ke ringo e no ankora vere, an si e make de kubo atomo-40, meno kote moda go diamante. - Some think that the ring isn't even real, and it is instead made up of cubic zirconium, a cheaper alternative to diamond.
+- kemi sino de atomo-41 a Nb. - The chemical symbol of niobium is Nb.
+- si-feme i de e esita de atomo-42 dipa-etudi de mina-roka kata. - She was elated by the molybdenum assay of the ore sample.
+- atomo-43 de-i deteki o raro en natura. - Technetium is rarely found in nature.
+- kemi sino de atomo-44 a Ru. - The chemical symbol of ruthenium is Ru.
+- atomo-45 a da ma raro metali. - Rhodium is the rarest metal.
+- Paul i de nese a atomo-46 go si-viro inventi. - Paul needed the palladium for his invention.
+- di e no atomo-47. - This isn't silver.
+- atomo-48 venemo a mui medi rason de mori en sude. - Cadmium poisoning is a very common cause of death in the south.
+- atomo atomo-49 e mui suave go metali. - Elemental Indium is very soft for a metal.
+- atomo-50 a suave metali. - Tin is a soft metal.
+- mina-roka vare i kon a atomo-47, atomo-79, atomo-92, atomo-51, atomo-74 an kabon. - Mineral resources include silver, gold, uranium, antimony, tungsten, and coal.
+- man i uti a atomo-52 go ke? - What is tellurium used for?
+- man i uti a atomo-53 go-i pura a vasa. - Iodine is used to purify water.
+- kemi sino de atomo-54 a Xe. - The chemical symbol of xenon is Xe.
+- en Nipon, man i de deteki a atomo-radi atomo-55 en bebe moloko. - In Japan, radioactive cesium was detected in baby formula.
+- kemi sino de atomo-57 a La. - The chemical symbol of lanthanum is La.
+- u atomo-58, ke si a impotan materi en rapi-kemi-reaki muta-uti. - Or cerium, which is an important material in catalytic converters.
+- kemi sino de atomo-59 a Pr. - The chemical symbol of praseodymium is Pr.
+- atomo-60 mageneti a mui poten mageneti. - Neodymium magnets are very strong magnets.
+- kemi sino de atomo-61 a Pm. - The chemical symbol of promethium is Pm.
+- uno-ranko raro-tera-atomo mageneti de-i develo i de e base en raro-tera-atomo atomo-62. - The first rare earth magnet to have been developed was based on the rare earth samarium.
+- raro-tera-atomo a junta de 17 metali atomo, sama atomo-60, atomo-63 an atomo-66. - Rare earth elements are a set of 17 metallic elements, such as neodymium, europium, and dysprosium.
+- kemi sino de atomo-64 a Gd. - The chemical symbol of gadolinium is Gd.
+- mi atomo-67 pianeta i ave a ale ke si i nese. - My holmium planet has everything it needs.
+- da ma raro raro-tera-atomo e atomo-69. - The rarest rare earth is thulium.
+- kemi sino de atomo-71 a Lu. - The chemical symbol of lutetium is Lu.
+- bisinesa i dire ke via-vari-eleki-uti en si sige aje de eleki-metodo-uti i go e make kon atomo-72. - The company says the transistors in its next generation of processors will be made using hafnium.
+- pero an mina ke i de make a atomo-73 u atomo-46 en tu via-vari-eleki-uti? - But what about the mines that produced the tantalum or palladium in your transistors?
+- atomo-75 i kan e inventi kon si liga. - Rhenium can be creative with its bonds.
+- atomo-78 a peso de sita atomo-78 junta metali (PGM), en-i kon a atomo-46, atomo-77, atomo-45, atomo-44 an atomo-76. - Platinum is part of the six platinum-group metals (PGM), including palladium, iridium, rhodium, ruthenium, and osmium.
+- atomo-80 e kelabu. - Mercury is gray.
+- atomo-81 a venemo. - Thallium is a poison.
+- atomo-82 i benda o fasile. - Lead bends easily.
+- kemi sino de atomo-83 a Bi. - The chemical symbol of bismuth is Bi.
+- man i kan uti a atomo-84 sama mui poten venemo. - Polonium can be used as a very potent poison.
+- atomo-85 e mui raro. - Astatine is very rare.
+- a atomo-86 a ke mui? - How much radon is there?
+- en ani momen, a, mebi, ba atomo-87 atomo en ale de Tera. - At any given moment, there are perhaps eight francium atoms in the whole of the earth.
+- ke man i de deteki a atomo-88? - Who discovered radium?
+- atomo-89 a atomo-radi atomo. - Actinium is a radioactive element.
+- kemi sino de atomo-90 a Th. - The chemical symbol of thorium is Th.
+- atomo-91 e atomo-radi. - Protactinium is radioactive.
+- atomo-93 e kemi sama atomo-92. - Neptunium is chemically similar to uranium.
+- kemi sino de atomo-95 a Am. - The chemical symbol of americium is Am.
+- atomo ke mi i pale a atomo-96. - The element I'm referring to is curium.
+- atomo-97 e name en onore go siti de Berkeley, Kalifornia. - Berkelium is named after the city of Berkeley, California.
+- kemi sino de atomo-98 a Cf. - The chemical symbol of californium is Cf.
+- tu e make de atomo-7, atomo-8, atomo-83, atomo-43, atomo-1 an atomo-99? - Are you made of nitrogen, oxygen, bismuth, technetium, hydrogen and einsteinium?
+- atomo-100 e name en onore de Enrico Fermi. - Fermium is named after Enrico Fermi.
+- kemi sino de atomo-101 a Md. - The chemical symbol of mendelevium is Md.
+- atomo-102 e name en onore de Alfred Nobel. - Nobelium is named after Alfred Nobel.
+- atomo-103 e name en onore de Ernest Lawrence. - Lawrencium is named after Ernest Lawrence.
+- kemi sino de atomo-104 a Rf. - The chemical symbol of rutherfordium is Rf.
+- kemi sino de atomo-105 a Db. - The chemical symbol of dubnium is Db.
+- atomo-106 e name en onore de Glenn T. Seaborg. - Seaborgium is named after Glenn T. Seaborg.
+- mi i de manja a atomo-107 an si i de e bon. - I ate bohrium and it was good.
+- atomo-108 a ke? - What is hassium?
+- kemi sino de atomo-109 a Mt. - The chemical symbol of meitnerium is Mt.
+- kemi sino de atomo-110 a Ds. - The chemical symbol of darmstadtium is Ds.
+- atomo-111 i de o uno-ranko e make en 1994. - Roentgenium was first created in 1994.
+- atomo-112 e name en onore de Nicolaus Copernicus. - Copernicium is named after Nicolaus Copernicus.
+- kon atomo numa 113, 115, 117 an 118, fo nu atomo de-i name atomo-113 (Nh), atomo-115 (Mc), atomo-117 (Ts) an atomo-118 (Og). - Given the atomic numbers 113, 115, 117 and 118, the four new elements have been named Nihonium (Nh), Moscovium (Mc), Tennessine (Ts) and Oganesson (Og).
+- kemi sino de atomo-114 a Fl. - The chemical symbol of flerovium is Fl.
+- kemi sino de atomo-116 a Lv. - The chemical symbol of livermorium is Lv.
+- pale-man e ujana. - The speaker is young.
+- i memo go-i gen-rondo. - Remember to recycle.
+- i muta a tu manja-moda. - Change your diet.
+- Aljeri i ave a mina-roka vare. - Algeria has mineral resources.
+- tu i favo a ke, ruja-roka u midori-roka? - Which do you prefer, ruby or emerald?
+- si-feme a kemi-man. - She is a chemist.
+- inventi de via-vari-eleki-uti i de begin a nu aje. - The invention of the transistor introduced a new era.
+- di komputa i ave a Pentium eleki-metodo-uti. - This computer has a Pentium processor.
+- an-sino i sinifi a "an". - The ampersand means "and".
+- Instagram i de ruina a numa-sino. - Instagram ruined hashtags.
+- nami-sino e an uti en Espaniol. - The tilde is also used in Spanish.
+- tu i vole a some pile kon tu whiskey? - You want some pills with your whiskey?
+- mi i saliva en tu! - I spit on thee!
+- si-ale i limi a si-ale-ego go solo litera, numa, unda-meno an punto go ke rason? - Why limit themselves to only letters, numbers, underscore and punctum?
+- jin i no aero-veni. - Gold doesn't rust.
+- mi i nese a ma jin. - I need more gold.
+- i pone a name en kaja-sino. - Put the word in parentheses.
+- Mary i de make a kopa-keki. - Mary made cupcakes.
+- tu i enkonte a tu lida-paren a ke mui? - How often do you see your godparents?
+- Tom a mi lida-viro-paren. - Tom is my godfather.
+- tu lida-feme-paren a ke man? - Who is your godmother?
+- Peter Jackman i de erase a si denta en 2000 go-i fasile a fara raro-fase. - Peter Jackman had his teeth removed in 2000 to facilitate extreme gurning.
+- mi-ale i kan e sama aje. - We must be the same age.
+- si-feme i de a no-paren ke i de lose a si paren en kolidi de avion. - She was an orphan who lost her parents in a plane crash.
+- tu e no vasa. - You are not wet.
+- Tom i de e en-relate. - Tom was adopted.
+- mi-mui i de en-relate a si-ale. - We adopted them.
+- si-feme i de eki-kapa o obe-jura a si-ego de si-viro. - She legally emancipated herself from him.
+- Tom i de eki-kapa a uno de si-viro dulo. - Tom emancipated one of his slaves.
+- mi i senti a vakili-umile. - I feel proxyshame.
+- sesi-ego e medi? - Is masturbation normal?
+- ale de di saga e sama sera-fobo fobo-sonjo. - This whole story is like a claustrophobic nightmare.
+- tu lida i en longo-ruse a tu. - Your boss is gaslighting you.
+- tu vakili-name a ke? - What are your pronouns?
+- Mario i de kan ave go a ani tingi-tingi-sekola ke si-viro i de vole, pero si-viro i de eleti UConn ka si viro-paren i de go a da. - Mario could have gone to any college he wanted, but he chose UConn because that’s where his dad went.
+- mi i kan gana a Sikago karera se mi i uben e sufi duro. - I could win the Chicago Marathon if I train hard enough.
+- tu i kan voka a some-si-uno go-i pota a mi sako go supa? - Could you have someone carry my bag upstairs?
+- mi i pensa ke mi-ale i kan kuri e ma rapi sama da lupo. - I think we could outrun those wolves.
+- mi i kan open a da mun go tu. - I can open that door for you.
+- tu i kan duka a moto de tu karo se tu i karo kon bajo ole. - You can damage your car’s engine if you drive around with low motor oil.
+- mi-ale i kan eleti a retorante go amo-enkonte eve? - Can we pick a new restaurant for date night?
+- tu i kan eleti a ani retorante ke tu i favo. - You can pick whatever restaurant you like.
+- i no e supa-ato. - Don't be condescending.
+- da a ave-a ato-name. - That's a transitive verb.
+- Tom i no savi a ota inta ave-a an no-ave-a ato-name. - Tom doesn't understand the difference between transitive and intransitive verbs.
+- via via-relate kalite, tu i de pipi en si-viro boka. - By the transitive property you peed in his mouth.
+- Layla i de en tuerk a si pigu. - Layla was twerking her ass.
+- Mary a regula-feme. - Mary is a dominatrix.
+- apara, en-i anti a ake-filoso e ake-filoso. - Apparently, opposing fascism is fascist.
+- salu! - Hi!
+- mi a Tom - I'm Tom.
+- mi a man - I'm a person.
+- mi a viro - I'm a man.
+- mi e bon, mebi - I'm good, maybe.
+- di a Ana - This is Ana.
+- salu, mi a Ana - Hello, I'm Ana.
+- mi a feme - I'm a woman.
+- mi e di - I'm here.
+- mi e bon - I'm good.
+- mi a bon? no. mi e bon - I'm the good? No. I'm good.
+- di a Tom - This is Tom.
+- salu, gen - Hello, again.
+- mi i manja - I'm eating.
+- mi i manja a poma - I eat an apple.
+- poma a manja - The apple is food.
+- poma e manja - The apple is edible.
+- poma a suga? no. poma e suga - The apple is sugar? No. The apple is sweet.
+- poma e ruja - The apple is red.
+- mi i manja a uno poma - I eat one apple.
+- Ana i manja a duo poma - Ana eats two apples.
+- mi-mui i manja a manja - We are eating food.
+- mi-mui i manja a poma - We eat apples.
+- tu i manja a poma? - Are you eating an apple?
+- no. tu i no manja a poma - No. You are not eating an apple?
+- tu i manja a manja? - Do you eat food?
+- ja! tu i manja a manja - Yes! You eat food.
+- mi-ale i manja a manja - We eat food.
+- mi-ale i no manja a poma, pero mi-mui i manja a poma - We are not eating apples, but we are eating apples.
+- tu i no manja a poma. Ana i manja a poma. mi i manja a poma - You are not eating an apple. Ana is eating apples. I'm eating an apple.
+- den, mi-mui i manja a poma. Ana an mi. no tu - Then, we are eating apples. Ana and me. Not you.
+- Ana, mi an tu i no manja a poma. mi-ale i no manja a poma - Ana, me and you are not eating apples. We are not eating apples.
+- mi-ale a Ana, Tom an tu - We are Ana, Tom and you.
+- mi-mui a Ana an Tom - We are Ana and Tom.
+- mi-ale a san man - We are three persons.
+- mi-mui a duo man - We are two persons.
+- tu a uno man - You are one person.
+- mi i arapan… - I hope…
+- mi i ave a bodi - I have a body.
+- mi bodi i ave a mui peso - My body has many parts.
+- tu bodi i ave a mui peso? ja! - Does your body have many parts? Yes!
+- Ana i ave a bodi? ja! mi i arapan… - Does Ana have a body? Yes! I hope…
+- i mira a Ana bodi - Look at Ana's bodi.
+- di a bodi de Ana - This is the body of Ana.
+- Ana bodi. bodi de Ana - Ana's body. The body of Ana.
+- bodi de Ana i ave sange - The body of Ana has blood.
+- an, mi bodi i ave sange - Also, my body has blood.
+- tu bodi i ave a koda? - Does your body have a tail?
+- mebi? - Maybe?
+- mi i kan ia - I can hear.
+- tu i kan pensa? - You can think?
+- mi i arapan… - I hope…
+- tu i pensa kon tu serebe - You think with your brain.
+- Ana i pale kon si-feme boka - Ana speaks with her mouth.
+- su… - Too much…
+- mi a Ana an mi i favo pale - I'm Ana and I like to speak.
+- u mi a no Ana? ja, mi a Ana! - Or I'm not Ana? Yes, I'm Ana.
+- tamen, mi i no favo a poma - However, I don't like apples.
+- mi i favo a oranje - I like oranges.
+- i memo, oranje e oranje - Remember, oranges are orange.
+- a mesa - There is a table.
+- an a sede - And there are chairs.
+- a uno sede? a duo sede? a san sede? - Is there one chair? Are there two chairs? Are there three chairs?
+- no. a fo sede - No. There is four chairs.
+- mi-ale i kan sede en sede - We can sit in the chairs.
+- mi-mui a duo man, tu a uno man an a fo sede. Den, mi-ale i kan sede - We are two persons, you are one person an there are four chairs. Then, we can sit.
+- nun, mi-ale i sede - Now, we sit.
+- Tom, tu a sede? - Tom, are you a chair?
+- no, pero mi e sede. mi i sede - No, but I'm sitted. I'm sitting.
+- i memo, mi e bon, mi a no bon - Remember, I'm good, I'm not the good.
+- mi i de ereki - I was standing up.
+- mi i go ereki? mebi - Will I stand up? Maybe.
+- Ana i de manja a duo poma - Ana ate two apples.
+- pero Ana i de dire: "mi i favo a oranje" - But Ana said: "I like oranges".
+- mebi Ana i go manja a oranje - Maybe Ana will eat an orange.
+- mi i no go manja a oranje - I will not eat oranges.
+- ka mi i no favo a si - Because I don't like them.
+- oranje i favo a mi? mi i no savi - Oranges like me? I don't know.
+- mi i ave a fili - I have a daughter.
+- si-feme e bela - She is beautiful.
+- tamen, si e mini dika - However, she is a little fat.
+- Ana, tu i pensa ke mi bela fili e dika? - Ana, do you think that mi beautiful daughter is fat?
+- no, si-feme e mui bela - No, she is very beautiful.
+- tu i pensa ke si i de e dika? - Do you think that she was fat?
+- no. some-man i de dire a tu ke tu fili i de e dika? - No. Did someone tell you that your daughter was fat?
+- no. si a some-kosa ke mi i pensa - No. It is something that I think,
+- tu i pensa ke mi fili i go e dika? - Do you think that my daughter will be fat?
+- ja, no, mebi. ale a mebi - Yes, no, maybe. Everything is a possibility.
+- tu i favo a kino? - Do you like movies?
+- ja, tu o da ma favo kino a ke? - What is your favourite movie?
+- mi o da ma favo kino a Die Hard - My favourite movie is Die Hard.
+- Die Hard? tu i litera a da e ke? - Die Hard? How do you spell that?
+- mi i savi, nun - I understand now.
+- ja, si a mui antika kino - Yes, it is a very old movie.
+- man i de pubili a si en ke tempo? - When was it published?
+- man i de pubili a si en 1988 - It was published in 1988.
+- 1988? - 1988?
+- ja. uno, nin, ba, ba. u kilo nin sento ba ten ba - Yes. One, nine, eight, eight. Or nineteen eighty eight.
+- tu i favo a si go ke rason? - Why do you like it?
+- mi i favo a ato de Bruce Willis - I like the performance of Bruce Willis.
+- Bruce Willis? tu i litera a si e ke? - Bruce Willis? How do you spell it?
+- Bruce Willis a ke man? - Who is Bruce Willis?
+- si-viro a najima de kino - He is the star of the movie.
+- mi i pasa favo a kino pero mi i favo o nun a lakoni video - I used to like movies but currently I like short videos.
+- lakoni video a ke? - What is a short video?
+- si a video en inta-neto - They are videos on the internet.
+- tu i uti a inta-neto e mui? - You use the internet a lot?
+- ja. mi i pensa ke mi i uti a si ma sama kada memba de mi fami - Yes. I think that I use it more than each member of my family.
+- tu i favo a inta-neto? - Do you like the internet?
+- inta-neto e da ma bon! - Internet is the best!
+- tu fami i pensa sama tu? - Your family thinks like you?
+- no, mi fami i pensa ke inta-neto e da meno bon - No, my family thinks that the internet is the worst.
+- ke man en tu fami i pensa a da? - Who in your family thinks that?
+- ale! mi viro-paren, mi feme-paren an mi sibi - Everyone! My father, my mother and my brother.
+- da e melankoli - That is sad.
+- de-i mira sama da, mi i pensa ke si e melankoli. - Seen like that, I think it is sad.
+- mi i go ade a tu ego-mori. - I shall assist your suicide.
+- dona-mala-name-man i go dire ke ale de di a vina-moda. - The critics will say this is all whataboutism.
+- ale man a dona-mala-name-man. - Everybody's a critic.
+- i pura a si. - Clean it.
+- ale man i amo a madu. - Everyone loves honey.
+- Alberto i de e mui bata an nulo-sori. - Alberto was very combative and unapologetic.
+- i numa go ten. - Count to ten.
+- Tom i ave a naga-fobo. - Tom suffers from ophidiophobia.
+- gota i de gota. - Drops dripped.
+- Higanbana a nipon-linga name go Mori-ruja-fiore. - Higanbana is the Japanese word for the red spider lily.
+- bon-veni go Sina! - Welcome to China!
+- mi kova-oko i senti e kalori. - My eyelid feels hot.
+- se tu a no amigo, tu i ave a figura de amigo e ke rason? - If you are not a friend, why are you friend shaped?
+- Tom i koleki a konka. - Tom collects shells.
+- i veni e ubuntu. - Be kind.
+- da a da ma ubuntu puni go ofensa-man, no? - Isn't that the most humane punishment for criminals?
+- atomo e en ale. - Atoms are in everything.
+- dogi i tose. - Dogs bark.
+- mi gule i senti e seko. - My throat feels dry.
+- mi-ale i ave a sama gene. - We have the same genes.
+- amo i nese a dare. - Love needs courage.
+- si-feme i de kopen a polo. - She bought chicken.
+- sesi i vende. - Sex sells.
+- an, a vende-man ke i apojo a Linux. - There are also vendors who support Linux.
+- bon lida e raro. - Good leaders are rare.
+- i dona a mesura go mi. - Give me the coordinates.
+- ke man i de direto a kino? - Who directed that film?
+- banka i de renta a 500 dolar go si. - The bank loaned him 500 dollars.
+- tu e bebe-pota? - Are you pregnant?
+- Mini i uti a litera a, b, d, e, f, g, i, j, k, l, m, n, o, p, r, s, t, u, v. - Mini uses the letters a, b, d, e, f, g, i, j, k, l, m, n, o, p, r, s, t, u, v.
+- mi i de deteki a kopen-man. - I found a buyer.
+- popula i de no aseta a jura-junta. - The people rejected the constitution.
+- si-viro i de veni en senta-eve. - He arrived at midnight.
+- mesaje de-i risiti. - Message received.
+- enejia-kaja de-i no kon. - Batteries not included.
+- a no ruja fiba. - There's no red thread.
+- ke man i de sumete? - Who surrendered?
+- tu e joli-arapan? - Are you satisfied?
+- mi-mui i viva en Serbia. - We live in Serbia.
+- si-feme dereko-filoso e elasi. - Her ethics are flexible.
+- edu-evento i de e ke moda? - How was the seminar?
+- tu i kan an a note-sino. - You can add tags.
+- nun, i go e fore. - Now go forward.
+- di i go mori a basilo. - This will kill the bacteria.
+- atomo-enejia e sekura. - Nuclear power is safe.
+- mone-apojo i ave develo. - Funding has increased.
+- inveti mone-apojo-junta i inveti o solo en morale bisinesa. - This investment fund only invests in ethical companies.
+- Tom i de bibe a san sake. - Tom drank three cocktails.
+- Sami i de kamina go siti-senta. - Sami walked downtown.
+- solo o labora-man memba. - Staff members only.
+- riva e lati. - The river is wide.
+- man e mui mala kon en-i savi a mebi-siensa. - People are very bad at understanding probability.
+- muta-numa i apara sama 1.0.1. - A version number looks like 1.0.1.
+- kanali e baraje. - The canal is clogged.
+- navi i vela e rondo lan-tumo. - The ship sailed around the cape.
+- Italia a semi-ila. - Italy is a peninsula.
+- Panama kanali i kata e via Panama naro-lan. - The Panama Canal cuts across the Isthmus of Panama.
+- ota paso, an tu i go unda e en subita-lan. - Another step, and you will fall down the precipice.
+- Nipon a mega ila-junta. - Japan is an enormous archipelago.
+- mi-ale i de kamina e en farina-monte. - We walked on the dune.
+- lenta-unda fogo en-i veni e de tingi-foli-lan. - Parachute fire coming over the mesa.
+- vento i no enkonte a natura baraje en mega-tingi-foli-lan. - The wind encounters no natural obstacles on the plateau.
+- mare-lago e mui dipa. - The lagoon is very deep.
+- mega-ise-lan i move o lenta. - The glacier moves slowly.
+- navi i de kolidi a ise-lan. - The ship hit an iceberg.
+- mi i odi a kula-foreta. - I hate the tundra.
+- safari-man i de en ereki e en rondo de kalori-fonte, en-i superise-gape. - Tourists were standing round the geyser, gawping.
+- i mira a da unda-go-vasa! - Look at that waterfall!
+- a san kula kula-vali en Eire. - There are three glacial fjords in Ireland.
+- Pluton i ave a ise foli-lan. - Pluto has ice plains.
+- mi i kan repare a si. - I can fix him.
+- mi i no ave a idea de ke tu i en tenta dire. - I have no idea of what you are trying to say.
+- i vaku a lago. - Drain the lake.
+- i vaku a fen. - Drain the swamp.
+- ke man i de deteki a ila? - Who discovered the island?
+- e saara. - It's deserted.
+- Tera a mi-ale saara-lago. - Earth is our oasis.
+- Taiuan naro-vasa i ave a 130 kilo-mita de lati. - The Taiwan Strait is 130 kilometers wide.
+- mi i favo a litora. - I like the beach.
+- si-ale i de go e en a vasa-foreta. - They entered the jungle.
+- tu i da mori a bebe Hitler? - Would you kill baby Hitler?
+- si i aroma sama mala-feme en di. - It smells like bitch in here.
+- i lase ke mi i aroma a tu pedi. - Let me smell your feet.
+- se da alien i de a mi feme-fili den mi i da vole sesi a si-feme. - If that alien was my daughter I would wanna fuck her. 
+- a mala kosa kon mini de viro bebe-pota? - What's wrong with a little male pregnancy?
+- vere, mi i kan make a ale, pero uno-ranko, mi i go lagima. - Of course I can do everything, but first I'm going to cry.
+- kali i de kova o ankora a vali. - Darkness still covered the valley.
+- mi i de mira a kolina. - I saw the hill.
+- mare i animale-sono. - The sea roars.
+- mi i supa-go a monte. - I climb mountains.
+- fogo-monte i de kabuma. - The volcano erupted.
+- mui lan-figura en Mars i apara sama de-i figura de en-i reo vasa. - Many landforms on Mars appear to have been shaped by flowing water.
+- Sami i viva en Panama. - Sami lives in Panama.
+- Tom i de lenta-unda o sekura. - Tom parachuted to safety.
+- ke man i de make a si? - Who did it?
+- some man i de toma a si. mi i no savi a ke man. - Someone took it. I don’t know who.
+- ke i de pasa? - What happened?
+- mi i de make a some-kosa e mala. - I did something bad.
+- di a ke? - What is this?
+- di kosa e mega. - This thing is big.
+- si-ale a bon man. - They are good people.
+- mui man i no savi a di. - Many people don’t know this.
+- some-tempo, mala kosa i pasa go bon man. - Sometimes bad things happen to good people.
+- bodi de viro e no sama bodi de feme. - The body of a man is not like the body of a woman.
+- beli a peso de bodi de man, si e en bodi. - The stomach is part of people’s bodies, it is inside the body.
+- di kosa i ave a duo peso. - This thing has two parts.
+- bodi de man i ave a mui peso. - People’s bodies have many parts.
+- a mui tipo de tori. - There are many kinds of birds.
+- si i apara sama sama tipo de pisi. pero si e no sama. si a ota tipo. - It looks like the same kind of fish. But it’s not. It’s another kind.
+- a solo uno tipo de pisi en di lago. - There is one kind of fish in this lake.
+- di e mala. - This is bad.
+- di a mini puko. - This is a small knife.
+- mi i de mira a di duo man; ale di man. - I saw these two people; all these people.
+- mi i de mira a sama man, sige dia. - I saw the same person the day after.
+- si i de pasa e en sama tempo, no e en ota tempo. - It happened at the same time, not at another time.
+- si-feme i de dire a sama kosa. - She said the same thing.
+- ota man i de make a si. - Someone else did it.
+- si-feme i ave a ke mui kinde? - How many children does she have?
+- si-feme i ave a uno kinde. - She has one child.
+- a ke mui vasa e en da fonte? - How much water is there in that well?
+- a mui mini vasa e di. - There is very little water here.
+- mui man i viva e di. - Many people live here.
+- i de a mui man e da. afa da, duo i de eki. - There were many people there. After that, two of them left.
+- some de di limon e bon, some e fungi-veni. - Some of these lemons are good, some are rotten.
+- en some loke, a mui pisi. - In some places there are lots of fish.
+- a vasa e di. - There is water here.
+- mui some man i viva e da, nun. - Very few people live there now.
+- mui i de go e ese, some i de go e vese. - Many of them went to the east, some went to the west.
+- ale de si-viro fili e mari, nun. - All his sons are now married.
+- fogo i de fogo a ale en domo. - The fire burnt everything in the house.
+- bon man i no make a kosa sama di. - Good people don’t do things like this.
+- di i de e mala go mi. - This was bad for me.
+- e mala se some-si-uno i make a some-kosa sama di. - It is bad if someone does something like this.
+- mi i savi a di loke e bon. - I know this place well.
+- some man i kan make a di e bon, some man i no kan. - Some people can do this well, some people can’t.
+- tu i en pensa a ke? - What are you thinking about?
+- mi i de pensa a si go longo tempo. - I thought about it for a long time.
+- di man i pensa a mala some-kosa de mi. - This person thinks something bad about me.
+- mi i de pensa sama di. - I thought like this.
+- ante tu i make a si, i pensa o dipa a si, uno-ranko. - Before you do it, think well about it first.
+- si-viro e ke loke, nun? mi i no savi. mebi, Mary i savi. - Where is he now? I don’t know. Maybe Mary knows.
+- si-viro i savi e mui de kosa sama di. - He knows much about things like this.
+- si-feme i de eki e pasa-dia. mi i savi. - She left yesterday. I know.
+- mi i vole ke tu i make a si. - I want you to do it.
+- mi i no vole ke di i pasa. - I don’t want this to happen.
+- ven tu i mira a najima e en eve, tu i senti a ke? - When you look at the stars at night, what do you feel?
+- ven mi i gule a some-kosa, mi i senti e mui mala en mi gule. - When I swallow something, I feel something very bad in my throat.
+- en da tempo, mi i no senti a kosa. - At that time, I didn’t feel anything.
+- mi i no senti a mala kosa go si-viro, nun. - I don’t feel anything bad towards him anymore.
+- mi i de mira a some-kosa e da. - I saw something there.
+- afa da, mi i de mira a ota kosa. - After that, I saw something else.
+- si-feme i de en kanti. mi i de ia. - She was singing. I heard it.
+- mi i ia a some-kosa, da, en jari. - I hear something, over there in the bushes.
+- mi i de no kan ia a si. - I couldn’t hear it.
+- "di e bon", mi i de dire. - "This is good", I said.
+- si-viro i de dire a ke? - What did he say?
+- si-viro i de dire a some-kosa go si-feme, pero si-feme i de no ia a si. - He said something to her, but she didn’t hear it.
+- se mi i make a di, man i kan dire a mala kosa de mi. - If I do this, people can say bad things about me.
+- si-feme i de dire a sama kosa, pero kon ota name. - She said the same thing, but in other words.
+- en linga X, name go 'bon' a 'palya'. - In language X, the word for ‘good’ is palya.
+- se tu i dire a uno ma name… - If you say one more word…
+- si e no vere. - That’s not true.
+- tu i de make a ke, den? - What did you do then?
+- da man i de make a some-kosa e bon go mi. - Those people did something good for me.
+- man i make a ke kon kosa sama di? - What do people do with things like this?
+- man i make a di kon puko. - People do this with a knife.
+- bon kosa i de pasa go di man. - Something good happened to this person.
+- en da momen, some-kosa i de pasa e en si-viro. - At that moment, something happened inside him.
+- mala kosa i de pasa e en da loke. - Something bad happened in that place.
+- i mira!, some-kosa i en move e en da loke. - Look!, something is moving over there.
+- i no move! - Don’t move!
+- mi i de e mui fobo. mi i de no kan move. - I was very scared. I couldn’t move.
+- some-kosa i de en senti a mi mano. - Something was touching my hand.
+- i no senti! si e fogo. - Don’t touch it! It’s hot.
+- a some man e en gaden. - There is someone in the garden.
+- a no arana e di. - There are no spiders here.
+- a no fantome. - There are no ghosts.
+- a mui tipo de nuki. - There are many kinds of nuts.
+- si e mi. - It’s mine.
+- si e no tu. si e mi. - It’s not yours. It’s mine.
+- mi i savi ke si e no mi. mi i vole ke si e mi. - I know it’s not mine. I want it to be mine.
+- ke e en mesa? mi i no kan mira a si. - What is on the table? I can’t see it.
+- mi i vole esi kon mi feme-paren. - I want to be with my mother.
+- si i de pasa ante mui tempo. mi viro-paren i de a kinde en da tempo. - It was a long time ago. My father was a child at that time.
+- mi i no savi a ke a di. - I don’t know what this is.
+- mi i no savi a ke man a di. - I don’t know who this is.
+- di man i de viva go mui tempo. - These people lived for a long time.
+- toti i viva go mui tempo. - Turtles live for a long time.
+- en da tempo, si-feme i de en viva kon si-feme feme-paren. - At that time she was living with her mother.
+- pisi i viva en mare. - Fish live in the sea.
+- ale man i mori. - All people die.
+- di man i de mori ante mui tempo. - These people died a long time ago.
+- tu i de make a si en ke tempo? mi i de make a si ven ale-man i resi. - When did you do it? I did it when everyone was asleep.
+- mi i no savi en ke tempo si i de pasa. - I don’t know when it happened.
+- en sama tempo, some-kosa i de pasa go mi. - At the same time, something happened to me.
+- some-tempo, mi i bibe a kafe en maten, some-tempo mi i bibe a tea. - Sometimes I drink coffee in the morning, sometimes I drink tea.
+- di dogi i tose o tuju e en eve. - This dog always barks at night.
+- si-ale i viva e en X, nun. si-ale i de viva e en Y, ante. - They live in X now. They lived in Y before.
+- si i de pasa e afa. - It happened afterwards.
+- John i de e nati ante Harry. - John was born before Harry.
+- di i de pasa ante mui tempo. - This happened a long time ago.
+- si-viro i de e da go lakoni tempo, pero si-feme i de e da go longo tempo. - He was only there for a short time, but she was there for a long time.
+- si-feme i de pensa a si go some tempo. - She thought about it for some time.
+- si i de pasa ante some tempo. - It happened some time ago.
+- si i de pasa e en uno momen. - It happened in one moment.
+- si-viro e ke loke, nun? - Where is he now?
+- si i de no pasa e di. si i de pasa e en ota loke. - It didn’t happen here. It happened somewhere else.
+- si e fara de di? - Is it far from here?
+- Fred i de en ereki nea John? - Was Fred standing near John?
+- domo e nea riva. - The house is near the river.
+- si e fara an supa base. - It is far above the ground.
+- kapo e supa ota peso de bodi. - The head is above other parts of the body.
+- pedi e unda ota peso de bodi. - The feet are below other parts of the body.
+- nun, John i en sede e en di lado. - John is now sitting on this side.
+- Mary i de en sede e en mi reka lado, Sally i de e en mi levi lado. - Mary was sitting on my right-hand side, Sally was on my left-hand side.
+- si-ale i viva e en ota lado de riva. - They live on the other side of the river.
+- i de a man en-i ereki en duo lado de jalan. - There were people standing on both sides of the road.
+- a inseto e en di poma. - There is an insect inside this apple.
+- i no open a si. tu i no savi a ke e en. - Don’t open it. You don’t know what is inside.
+- some man i de e en fore de domo, ota man i de e en. - Some people were in front of the house, others were inside.
+- a mui sono. ka di, mi i de kan resi. - There was a lot of noise. Because of this, I couldn’t sleep.
+- tu i en lagima e ke rason? ka si-viro i de jeti a mi. - Why are you crying? Because he hit me.
+- se some-si-uno i make a di, mui mala kosa i kan pasa go man en di. - If someone does this, something very bad can happen to people here.
+- mebi, si-viro i go veni e sige-dia, mebi si-viro i go no veni. - Maybe he will come tomorrow, maybe he won’t.
+- mi i no kan make e nun, mebi mi viro-sibi i kan. - I can’t do it now, maybe my brother can.
+- mi i no kan make e nun, pero mi i kan make a si e en ota tempo. - I can’t do it now, but I can do it later.
+- mi i no kan no make a si. - I can’t not do it.
+- mi i no kan move a mi diji, nun. - I can’t move my fingers now.
+- si e mui mini. - It is very small.
+- di loke e mui fara. - This place is very far from here.
+- najima e mui mui fara. - The stars are very very far.
+- ven si i de pasa go si-viro, si-viro i de senti a mui mui mala kosa. - When it happened to him, he felt something very very bad.
+- mi i vole make a si e mui mui. - I very much want to do this.
+- ma! - More!
+- mi i no savi e mui de si. mi i vole savi e ma. - I don’t know much about it. I want to know more.
+- mi i vole mira e ma. - I want to see more.
+- si-feme i no viva e di. - She doesn’t live here anymore.
+- mi i vole a uno e ma. - I want one more.
+- di kinde e no sama ota kinde. - This child is not like other children.
+- di e sama lila-fiore, pero si a no lila-fiore. - This is like lilac, but it is not lilac.
+- en tempo sama di; en loke sama di. - At a time like this; in a place like this.
+- si-viro i de make a si sama di… - He did it like this…
+- si i de pasa sama di… - It happened like this…
+- si-feme i de kanti sama di… - She sang like this…
+- si i dona a san. - They give three.
+- tu e sige. - You are next.
+- mi e afa tu. - I am after you.
+- mi i kipa vole a mi en-i manja de oranje. - I continue to want my consumption of oranges.
+- mi i de name a mi feme-fili. - I named my daughter.
+- mi i de name a mi feme-fili a Alice. - I named my daughter Alice.
+- ota etudi-man i de name a April e inteli. - The other students called April smart.
+- Josephine i de pinta a si-feme elefante kon rosa. - Josephine painted her elephant pink.
+- mi-ale i de eleti a Obama sama topi-gove-man. - We elected Obama president.
+- gato i de keredo a seko manja sama venemo. - The cats considered the dry food poison.
+- dalili-man i de name a ale, ke si-viro i de mira, a fule konfuse-konditi. - The witness called everything he saw a complete mess.
+- e neve. - It snows.
+- e kula. - It's cold.
+- mi i penelo a foli. - I rake leaves.
+- en-i unda a foli. - Falling leaves.
+- mi i sereale-koleki. - I harvest.
+- mi fami. - My family.
+- mi a etudi-man. - I am a student.
+- tu a etudi-man. - You are a student.
+- si a etudi-man. - He is a student.
+- mi-ale a etudi-man. - We are students.
+- si-ale a etudi-man. - They are students.
+- mi e fatiga. - I am tired.
+- tu e fatiga. - You are tired.
+- si e fatiga. - She is tired.
+- mi-mui e fatiga. - We are tired.
+- tu-ale e fatiga. - You all are tired.
+- si-ale e fatiga. - They are tired.
+- mi i ave a pele-seni. - I have a tattoo.
+- tu i ave a pele-seni. - You have a tattoo.
+- si i ave a pele-seni. - She has a tattoo.
+- mi-ale i ave a pele-seni. - We have tattoos.
+- tu-ale i ave a pele-seni. - You all have tattoos.
+- si-ale i ave a pele-seni. - They have tattoos.
+- mi i make a mi sekola-make. - I do my homework.
+- tu i make a tu sekola-make. - You do your homework.
+- si i make a si sekola-make. - He does his homework.
+- mi-ale i make a mi-ale sekola-make. - We do our homework.
+- tu-ale i make a tu-ale sekola-make. - You all do your homework.
+- si-ale i make a si-ale sekola-make. - They do their homework.
+- mi i go a domo. - I go home.
+- tu i go a domo. - You go home.
+- si i go a domo. - He goes home.
+- mi-ale i go a domo. - We go home.
+- tu-ale i go a domo. - You all go home.
 
 ## Notes
 
