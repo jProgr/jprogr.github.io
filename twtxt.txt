@@ -29,3 +29,5 @@
 2025-03-23T21:49:06-06:00	Use Long Options in Scripts https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html
 2025-03-25T11:06:34-06:00	The Glimmer | 25 Years of Foil Magic Cards https://youtu.be/50b5x1GM-jQ\?si\=zT0sc2bgA8Rc-SGM
 2025-03-26T21:39:33-06:00	suato: tonto https://dle.rae.es/\?w\=suato
+2025-03-28T16:22:14-06:00	Building Statically Linked Go Executables with CGO and Zig https://calabro.io/zig-cgo
+2025-03-31T22:36:54-06:00	Hidden Grotto https://scryfall.com/card/blb/254/hidden-grotto
