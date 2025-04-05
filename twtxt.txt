@@ -36,3 +36,5 @@
 2025-04-02T19:59:05-06:00	Syr Elenora, the Discerning https://scryfall.com/card/j25/64/syr-elenora-the-discerning
 2025-04-03T12:14:49-06:00	Scholar of Combustion https://scryfall.com/card/j25/19/scholar-of-combustion
 2025-04-03T12:15:43-06:00	Trusty Retriever https://scryfall.com/card/j25/274/trusty-retriever
+2025-04-04T19:44:43-06:00	Stargaze https://scryfall.com/card/blb/114/stargaze
+2025-04-04T19:45:37-06:00	Kastral, the Windcrested https://scryfall.com/card/blb/335/kastral-the-windcrested
