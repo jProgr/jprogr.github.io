@@ -38,3 +38,5 @@
 2025-04-03T12:15:43-06:00	Trusty Retriever https://scryfall.com/card/j25/274/trusty-retriever
 2025-04-04T19:44:43-06:00	Stargaze https://scryfall.com/card/blb/114/stargaze
 2025-04-04T19:45:37-06:00	Kastral, the Windcrested https://scryfall.com/card/blb/335/kastral-the-windcrested
+2025-04-06T21:25:35-06:00	Mirrorwing Dragon https://scryfall.com/card/j25/579/mirrorwing-dragon
+2025-04-06T21:26:21-06:00	Mesa Unicorn https://scryfall.com/card/j25/224/mesa-unicorn
