@@ -40,3 +40,6 @@
 2025-04-04T19:45:37-06:00	Kastral, the Windcrested https://scryfall.com/card/blb/335/kastral-the-windcrested
 2025-04-06T21:25:35-06:00	Mirrorwing Dragon https://scryfall.com/card/j25/579/mirrorwing-dragon
 2025-04-06T21:26:21-06:00	Mesa Unicorn https://scryfall.com/card/j25/224/mesa-unicorn
+2025-04-09T09:10:27-06:00	Deep vs Shallow Go interfaces https://tpaschalis.me/shallow-vs-deep-interfaces/
+2025-04-09T09:11:23-06:00	Nocturnal Hunger https://scryfall.com/card/blb/102/nocturnal-hunger
+2025-04-09T09:12:19-06:00	Valley Rotcaller https://scryfall.com/card/blb/313/valley-rotcaller
