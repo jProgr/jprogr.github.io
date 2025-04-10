@@ -45,3 +45,5 @@
 2025-04-09T09:12:19-06:00	Valley Rotcaller https://scryfall.com/card/blb/313/valley-rotcaller
 2025-04-09T19:34:39-06:00	Festival of Embers https://scryfall.com/card/blb/134/festival-of-embers
 2025-04-09T19:35:25-06:00	Ledger Shredder https://scryfall.com/card/spg/55/ledger-shredder
+2025-04-10T13:27:27-06:00	Psychic Whorl https://scryfall.com/card/blb/105/psychic-whorl
+2025-04-10T13:28:02-06:00	Fell https://scryfall.com/card/blb/95/fell
