@@ -51,3 +51,5 @@
 2025-04-12T10:43:54-06:00	Clawing Torment https://scryfall.com/card/neo/91/clawing-torment
 2025-04-15T21:39:54-06:00	Mowu, Loyal Companion https://scryfall.com/card/j25/79/mowu-loyal-companion
 2025-04-15T21:41:10-06:00	Pitiless Carnage https://scryfall.com/card/potj/98p/pitiless-carnage
+2025-04-16T09:22:50-06:00	Ozox, the Clattering King https://scryfall.com/card/j25/44/ozox-the-clattering-king
+2025-04-16T09:24:00-06:00	Uncomfortable Chill https://scryfall.com/card/j25/111/uncomfortable-chill
