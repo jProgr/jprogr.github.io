@@ -49,3 +49,5 @@
 2025-04-10T13:28:02-06:00	Fell https://scryfall.com/card/blb/95/fell
 2025-04-12T10:43:45-06:00	Oathsworn Vampire https://scryfall.com/card/j22/70/oathsworn-vampire
 2025-04-12T10:43:54-06:00	Clawing Torment https://scryfall.com/card/neo/91/clawing-torment
+2025-04-15T21:39:54-06:00	Mowu, Loyal Companion https://scryfall.com/card/j25/79/mowu-loyal-companion
+2025-04-15T21:41:10-06:00	Pitiless Carnage https://scryfall.com/card/potj/98p/pitiless-carnage
