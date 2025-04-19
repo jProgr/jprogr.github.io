@@ -53,3 +53,6 @@
 2025-04-15T21:41:10-06:00	Pitiless Carnage https://scryfall.com/card/potj/98p/pitiless-carnage
 2025-04-16T09:22:50-06:00	Ozox, the Clattering King https://scryfall.com/card/j25/44/ozox-the-clattering-king
 2025-04-16T09:24:00-06:00	Uncomfortable Chill https://scryfall.com/card/j25/111/uncomfortable-chill
+2025-04-18T11:59:43-06:00	Minecraft's Super Fast Travel Method: The Wind Elytra Tunnel https://youtu.be/iEj6XtFJwyk?si=rJ9EIr_zKk1yNUO2
+2025-04-18T20:57:18-06:00	Gadwick's First Duel https://scryfall.com/card/woe/51/gadwicks-first-duel
+2025-04-18T20:57:59-06:00	Brigone, Soldier of Meletis https://scryfall.com/card/j25/30/brigone-soldier-of-meletis
