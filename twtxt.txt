@@ -60,3 +60,5 @@
 2025-04-19T20:48:39-06:00	Cynette, Jelly Drover https://scryfall.com/card/j25/35/cynette-jelly-drover
 2025-04-19T20:49:04-06:00	Aphelia, Viper Whisperer https://scryfall.com/card/j25/40/aphelia-viper-whisperer
 2025-04-19T20:50:15-06:00	per angusta ad augusta: through difficulties to honors https://www.merriam-webster.com/dictionary/per%20angusta%20ad%20augusta
+2025-04-19T22:12:13-06:00	Fire-Flyer distributed filesystem (3FS) and Chain Replication with Apportioned Queries protocol (CRAQ) https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/
+2025-04-19T22:12:24-06:00	Hatching Plans https://scryfall.com/card/wot/20/hatching-plans
