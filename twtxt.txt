@@ -57,3 +57,6 @@
 2025-04-18T20:57:18-06:00	Gadwick's First Duel https://scryfall.com/card/woe/51/gadwicks-first-duel
 2025-04-18T20:57:59-06:00	Brigone, Soldier of Meletis https://scryfall.com/card/j25/30/brigone-soldier-of-meletis
 2025-04-18T21:32:13-06:00	How to Sync Anything https://neighbourhood.ie/blog/2025/04/06/how-to-sync-anything
+2025-04-19T20:48:39-06:00	Cynette, Jelly Drover https://scryfall.com/card/j25/35/cynette-jelly-drover
+2025-04-19T20:49:04-06:00	Aphelia, Viper Whisperer https://scryfall.com/card/j25/40/aphelia-viper-whisperer
+2025-04-19T20:50:15-06:00	per angusta ad augusta: through difficulties to honors https://www.merriam-webster.com/dictionary/per%20angusta%20ad%20augusta
