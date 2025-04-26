@@ -65,3 +65,4 @@
 2025-04-25T19:54:27-06:00	Strange counters (Residue Number Systems) https://youtu.be/NpAJLWEnSmM\?si\=3l-m1QQByJNFuZap
 2025-04-25T20:01:16-06:00	Who Is Satan in Islam? | Iblis Explained https://youtu.be/6y8mFSQO6cI\?si\=ApYKOpzerjhpEi8R
 2025-04-25T20:07:13-06:00	Judaeo-Spanish, Judeo-Spanish, Judezmo, Ladino https://en.wikipedia.org/wiki/Judaeo-Spanish
+2025-04-25T23:29:30-06:00	Differential Coverage for Debugging https://research.swtch.com/diffcover
