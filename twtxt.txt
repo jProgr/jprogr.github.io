@@ -62,3 +62,6 @@
 2025-04-19T20:50:15-06:00	per angusta ad augusta: through difficulties to honors https://www.merriam-webster.com/dictionary/per%20angusta%20ad%20augusta
 2025-04-19T22:12:13-06:00	Fire-Flyer distributed filesystem (3FS) and Chain Replication with Apportioned Queries protocol (CRAQ) https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/
 2025-04-19T22:12:24-06:00	Hatching Plans https://scryfall.com/card/wot/20/hatching-plans
+2025-04-25T19:54:27-06:00	Strange counters (Residue Number Systems) https://youtu.be/NpAJLWEnSmM\?si\=3l-m1QQByJNFuZap
+2025-04-25T20:01:16-06:00	Who Is Satan in Islam? | Iblis Explained https://youtu.be/6y8mFSQO6cI\?si\=ApYKOpzerjhpEi8R
+2025-04-25T20:07:13-06:00	Judaeo-Spanish, Judeo-Spanish, Judezmo, Ladino https://en.wikipedia.org/wiki/Judaeo-Spanish
