@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "250309"
+updated_date: "250515"
 ---
 
 # Books read
@@ -59,6 +59,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Domain-Driven Design - Eric Evans.
 - Grammar of Lingua Franca Nova - George Boeree, Simon Davies.
 - Essential Dutch Grammar - Henry R. Stern.
+- Beginner's Ladino - Alla Markova.
 - Beginning C - German Gonzalez-Morris, Ivor Horton.
 - Designing data-intensive applications - Martin Kleppmann.
 - The ultimate book of everyday knots - Geoffrey Budworth.
@@ -85,6 +86,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Crónicas marcianas - Ray Bradbury.
 - Fahrenheit 451 - Ray Bradbury.
 - Zen en el arte de escribir - Ray Bradbury.
+- Es lo mesmo pero no es igual - Daniel Escorza.
 - Crónica de una sociedad intoxicada - Joan-Ramon Laporte.
 - Los fantasmas ausentes - Eva Ibbotson.
 - 100 lugares que ver después de morir - Ken Jennings.
