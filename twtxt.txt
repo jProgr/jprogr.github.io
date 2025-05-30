@@ -69,3 +69,4 @@
 2025-04-28T18:00:32-06:00	Preventing accidental struct copies in Go https://rednafi.com/go/prevent_struct_copies/
 2025-04-29T13:19:52-06:00	In Hiding for 27 Years: The North Pond Hermit https://youtu.be/rftItsbN2mo\?si\=EPRJsRT-zeIOci10
 2025-05-03T13:48:51-06:00	sojourn: a temporary stay https://www.merriam-webster.com/dictionary/sojourn
+2025-05-30T09:05:02-06:00	The C3 Programming Language https://c3-lang.org/
