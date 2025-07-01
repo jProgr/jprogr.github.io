@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "250515"
+updated_date: "250701"
 ---
 
 # Books read
@@ -44,6 +44,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - 100 Go mistakes and how to avoid them - Teiva Harsanyi.
 - Lolita - Vladimir Nabokov.
 - Invitation to a Beheading - Vladimir Nabokov.
+- Calculus made easy - Silvanus P. Thompson.
 - The big fat high school algebra 1 workbook - Robert Vigneri.
 - Math trigonometry practice workbook - Brain Hunter Prep.
 - Beginning iPhone Development with Swift 5 - Wallace Wang.
