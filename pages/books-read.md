@@ -111,6 +111,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - La inteligencia: Su crecimiento y medida - Juan Delval.
 - El principio del placer - José Emilio Pacheco.
 - La mamá de Kepler - Sergio de Régules.
+- Neuropedia - Eric Chudler.
 - El color de la magia - Terry Pratchett.
 - La luz fantástica - Terry Pratchett.
 - Ritos iguales - Terry Pratchett.
