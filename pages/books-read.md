@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "250910"
+updated_date: "250915"
 ---
 
 # Books read
@@ -194,5 +194,6 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Gramática de la fantasía - Gianni Rodari.
 - Para escribir una novela - Silvia Adela Kohan.
 - Dar vida al personaje - Silvia Adela Kohan.
+- El fraude del arte contemporáneo - Avelina Lésper.
 - Una brevísima introducción a la lógica - Graham Priest.
 - La teoría de casi todo - Robert Oerter.
