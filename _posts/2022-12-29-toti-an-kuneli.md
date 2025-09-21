@@ -2,7 +2,7 @@
 title: "A translation of The tortoise and the hare by Aesop to Mini"
 permalink: /toti-an-kuneli
 custom_date: "221229"
-updated_date: "230207"
+updated_date: "250921"
 ---
 
 # A translation of The tortoise and the hare by Aesop to Mini
@@ -23,6 +23,14 @@ Toti i de kipa go o lenta pero regula, an, afa some tempo, i de pasa a loke ve k
 
 Lenta an regula i gana a karera.
 
+### Audio
+
+<audio controls>
+    <source type="audio/mp4" src="/assets/bin/toti_an_kuneli.m4a">
+    <source type="audio/ogg" src="/assets/bin/toti_an_kuneli.oga">
+    <source type="audio/mpeg" src="/assets/bin/toti_an_kuneli.mp3">
+</audio>
+
 ## The tortoise and the hare
 
 A Hare was making fun of the Tortoise one day for being so slow.
@@ -42,5 +50,6 @@ Slow and steady wins the race.
 ## Notes
 
 - English version from [https://americanliterature.com/author/aesop/short-story/the-tortoise-and-the-hare](https://americanliterature.com/author/aesop/short-story/the-tortoise-and-the-hare).
+- Download audio as [MP3](/assets/bin/toti_an_kuneli.mp3){:download="/assets/bin/toti_an_kuneli.mp3"}, [OGA](/assets/bin/toti_an_kuneli.oga){:download="/assets/bin/toti_an_kuneli.pga"}, [M4A](/assets/bin/toti_an_kuneli.m4a){:download="/assets/bin/toti_an_kuneli.m4a"}.
 - [Mini translations](/mini-translations).
 - [Mini resources](/mini-resources).
