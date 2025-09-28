@@ -8,6 +8,8 @@ I'm Cristóbal Meléndez and I like philosophy, bead art, anime, maths, programm
 
 ## Content
 
+- [Mini: How to say hi and ask others for their name](/mini-how-to-say-hi-and-ask-others-for-their-name).
+- [How to Mini](/how-to-mini).
 - [789324](/789324).
 - [On rationalizing the denominator](/rationalize-denominator).
 - [A translation of The wolf and the lion by Aesop to Mini](/lupo-an-leon).

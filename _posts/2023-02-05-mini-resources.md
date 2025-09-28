@@ -2,7 +2,7 @@
 title: "Resources for the Mini language"
 permalink: /mini-resources
 custom_date: "230205"
-updated_date: "240406"
+updated_date: "250927"
 ---
 
 # Resources for the Mini language
@@ -16,6 +16,7 @@ Mini is a language that is designed to be easy to learn and easy to use. It's so
 - Learn Mini through quizzes [https://jprogr.github.io/mini-lessons](/mini-lessons).
 - Mini - English dictionary [https://jprogr.github.io/buku-name](/buku-name).
 - Mini course: Grammar [https://jprogr.github.io/mini-course-grammar](/mini-course-grammar).
+- How to Mini [https://jprogr.github.io/how-to-mini](/how-to-mini).
 - Learn Mini in one page: [PDF](/assets/bin/mini_one_page.pdf), [image](/assets/images/mini_one_page.png).
 - Mini Duolingo Stories [https://duostories.org/mini-en](https://duostories.org/mini-en).
 - Learn Mini in 20 minutes [https://minilanguage.medium.com/learn-mini-in-20-minutes-8c4fa8093f8f](https://minilanguage.medium.com/learn-mini-in-20-minutes-8c4fa8093f8f).
