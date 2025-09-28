@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like philosophy, bead art, anime, maths, programm
 
 ## Content
 
+- [Mini: How to talk about languages](/mini-how-to-talk-about-languages).
 - [Mini: How to say hi and ask others for their name](/mini-how-to-say-hi-and-ask-others-for-their-name).
 - [How to Mini](/how-to-mini).
 - [789324](/789324).
