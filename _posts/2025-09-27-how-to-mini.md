@@ -2,7 +2,7 @@
 title: "How to Mini"
 permalink: /how-to-mini
 custom_date: "250927"
-updated_date: "250928"
+updated_date: "251005"
 ---
 
 # How to Mini
@@ -13,6 +13,7 @@ The lessons can be read in any order. They include all the grammar you need, aud
 
 - [How to say hi and ask others for their name](/mini-how-to-say-hi-and-ask-others-for-their-name).
 - [How to talk about languages](/mini-how-to-talk-about-languages).
+- [How to talk about your place of origin](/mini-how-to-talk-about-your-place-of-origin).
 
 ## Answers to exercises
 
@@ -38,6 +39,15 @@ The lessons can be read in any order. They include all the grammar you need, aud
 20. We know English - mi-ale i savi a Engli - mi-mui i savi a Engli.
 21. Uu-linga a linga - Wu chinese is a language.
 22. si i pale a Fanse an Engli - he speaks French and English - she speaks French and English - it speaks French and English
+23. si-viro e de Kanada - He is from Canada.
+24. si-feme e de Bask-lan - She is from Basque Country.
+25. i dire: tu i veni de Argentina? - Tell me: Are you from Argentina?
+26. Where do you come from? - tu i veni e de ke loke? - tu i veni de ke?
+27. Where do you all come from? - tu-ale i veni e de ke loke? - tu-ale i veni de ke?
+28. I want to know - mi i vole savi.
+29. I live in China - mi i viva e en Sina - mi i viva en Sina.
+30. Is the following sentence correct? why? why not?: si-ale veni de Australia: It is correct. It has just omitted the one letter particles i, e. The full one would be "si-ale i veni e de Australia". The "e" is usually omitted because there is already a preposition that makes it clear we are in a prepositional phrase.
+31. Where is Mia from?: Sweden.
 
 ## Notes
 
