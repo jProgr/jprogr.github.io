@@ -2,12 +2,12 @@
 title: "Mini course: Grammar"
 permalink: /mini-course-grammar
 custom_date: "230627"
-updated_date: "231026"
+updated_date: "251018"
 ---
 
 # Mini course: Grammar
 
-Mini is a constructed language created by S.C. Gruget. Its grammar is simple and is designed to be easy to learn and easy to use. This course includes everything you need to start using the language. If at any point you feel lost, you can use the [dictionary](/buku-name) or ask around in [Discord](https://discord.gg/ajA6Z4VrkJ) or [Reddit](https://www.reddit.com/r/MiniLang/). Let's start:
+Mini is a constructed language created by S.C. Gruget. Its grammar is simple and is designed to be easy to learn and easy to use. This course includes everything you need to start using the language. If at any point you feel lost, you can use the [dictionary](/buku-name) or ask around in [Discord](https://discord.gg/ajA6Z4VrkJ). Let's start:
 
 Contents:
 - [Letters](#letters).
@@ -81,16 +81,34 @@ The names of the vowels are the same as its pronunciation and for the consonants
 
 ## Pronunciation
 
-Consonants are pronounced like in English and vowels like in Spanish. Stress is always in the second to last syllable:
+The pronunciation is a bit of a mix between Spanish and English. Precise pronunciation is not a goal of Mini.
+
+Vowels:
 
 - "a" as in map.
 - "e" as in level.
 - "i" as in meet.
 - "o" as in more.
 - "u" as in balloon.
-- "g" as gift.
 
-For examples of pronunciation, check [buku-name](/buku-name).
+Consonants:
+
+- "b" as in back.
+- "d" as in damp.
+- "f" as in fire.
+- "g" as in gift.
+- "j" as in jungle.
+- "k" as in camp.
+- "l" as in loot.
+- "m" as in march.
+- "n" as in noun.
+- "p" as in pack.
+- "r" as in rake.
+- "s" as in search.
+- "t" as in technology.
+- "v" as in violet.
+
+Stress is always in the second to last syllable. For examples of pronunciation, check [buku-name](/buku-name).
 
 ## Sentences and word flexibility
 
@@ -523,6 +541,5 @@ Mini is about simplicity. You can choose to not use tenses, particles or minify 
 - [Mini resources](/mini-resources).
 - [Hundreds of translated sentences](https://docs.google.com/spreadsheets/d/1Uais6lcfFMH8g7_D5p73NxbXR1StJq1brJNnCzsswmY/edit?usp=sharing).
 - [Discord community](https://discord.gg/ajA6Z4VrkJ).
-- [Reddit community](https://www.reddit.com/r/MiniLang/).
 - Original page by the author: [https://minilanguage.com/](https://minilanguage.com/).
 - Thanks to S.C. Gruget for creating such an awesome language.
