@@ -2,6 +2,7 @@
 title: "Mini: How to talk about your place of origin"
 permalink: /mini-how-to-talk-about-your-place-of-origin
 custom_date: "251005"
+updated_date: "251019"
 ---
 
 # Mini: How to talk about your place of origin
@@ -53,9 +54,9 @@ Let's see a conversation:
     <source type="audio/mpeg" src="/assets/bin/how_to_talk_about_your_place_of_origin.mp3">
 </audio>
 
-### Grammar
+## Grammar
 
-#### Prepositions
+### Prepositions
 
 - de - from, of, about, out of, made of.
 
@@ -65,7 +66,7 @@ A prepositional phrase follows the thing it describes. In the case of a verb bei
 - Bob e de Amerika - Bob is from America.
 - Sami e de Aegiptos - Sami originates from Egypt.
 
-#### Questions
+### Questions
 
 Simple yes or no questions are formed by adding a "?" or some form of confirmation with either "no?", "ja?", "u ke?" at the end:
 
@@ -76,7 +77,7 @@ For open questions one uses "ke" (what) and adds other words to make the other q
 - tu i manja e ke loke? - Where are you eating?
 - si-viro e ke loke, nun? - Where is he now?
 
-#### Compact sentences
+### Compact sentences
 
 If the meaning is clear from context, one can drop the one letter particles:
 
@@ -84,7 +85,7 @@ If the meaning is clear from context, one can drop the one letter particles:
 - i go! - go! - Go!
 - mi i veni e de Meksiko - mi i veni de Meksiko - mi veni de Meksiko - I'm from México.
 
-#### Foreign and non-mini words
+### Foreign and non-mini words
 
 Proper nouns and foreign words can be written and pronounced as they are in their original language:
 
@@ -102,7 +103,7 @@ Then we can write:
 
 Pronunciation is free in this case. You can say it like in its original language or follow Mini rules (stress in the second to last syllable).
 
-### Exercises
+## Exercises
 
 Translate the sentences:
 

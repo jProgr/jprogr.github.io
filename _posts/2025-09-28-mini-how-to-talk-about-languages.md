@@ -2,6 +2,7 @@
 title: "Mini: How to talk about languages"
 permalink: /mini-how-to-talk-about-languages
 custom_date: "250928"
+updated_date: "251019"
 ---
 
 # Mini: How to talk about languages
@@ -86,9 +87,9 @@ Let's see a conversation:
     <source type="audio/mpeg" src="/assets/bin/how_to_talk_about_languages.mp3">
 </audio>
 
-### Grammar
+## Grammar
 
-#### Pronouns
+### Pronouns
 
 There are only three:
 
@@ -112,14 +113,14 @@ To get the rest one adds words to these:
 - si-ota - the other one.
 - si-ego - himself, herself, itself.
 
-#### Questions
+### Questions
 
 Simple yes or no questions are formed by adding a "?" or some form of confirmation with either "no?", "ja?", "u ke?" at the end:
 
 - tu i pale a mini? - Do you speak Mini?
 - tu i manja a oranje? - Do you eat oranges?
 
-### Exercises
+## Exercises
 
 {:start="11"}
 11. How would you ask some if they speak German?
