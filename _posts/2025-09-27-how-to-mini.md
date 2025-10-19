@@ -2,7 +2,7 @@
 title: "How to Mini"
 permalink: /how-to-mini
 custom_date: "250927"
-updated_date: "251005"
+updated_date: "251019"
 ---
 
 # How to Mini
@@ -14,6 +14,7 @@ The lessons can be read in any order. They include all the grammar you need, aud
 - [How to say hi and ask others for their name](/mini-how-to-say-hi-and-ask-others-for-their-name).
 - [How to talk about languages](/mini-how-to-talk-about-languages).
 - [How to talk about your place of origin](/mini-how-to-talk-about-your-place-of-origin).
+- [How to chat about places you want to or have visited](/mini-how-to-chat-about-places-you-want-to-or-have-visited).
 
 ## Answers to exercises
 
@@ -48,6 +49,25 @@ The lessons can be read in any order. They include all the grammar you need, aud
 29. I live in China - mi i viva e en Sina - mi i viva en Sina.
 30. Is the following sentence correct? why? why not?: si-ale veni de Australia: It is correct. It has just omitted the one letter particles i, e. The full one would be "si-ale i veni e de Australia". The "e" is usually omitted because there is already a preposition that makes it clear we are in a prepositional phrase.
 31. Where is Mia from?: Sweden.
+32. What's the difference between "mi i favo a safari" and "mi i favo safari"? Are they the same?: There are two cases here. Case 1: They are not the same because "mi i favo a safari" means "I like the trip"; the person may be speaking about the current travel; and "mi i favo safari" means "I like to travel"; the person is speaking about travelling as an activity. The first sentence is using "safari" as an object and the second one is using it as a verb. Case 2: They are actually the same and both mean "I like the trip", the second sentence has just chosen to omit the particle "a".
+33. How do you say "Greece" in Mini? Elas, Gris.
+34. Leo i ave visita a Turki?: no.
+35. Leo i odi safari, ke rason?: mui rason. popula, tempo, avion…
+36. Mia loves to travel - Mia i favo safari.
+37. Leo does not like to travel - Leo i no favo safari.
+38. They have visited Africa - si-ale i ave visita a Afrika.
+39. Have you visited Berlin? - tu i ave visita a Belin.
+40. I don't hate planes - mi i no odi a avion.
+41. Bob traveled - Bob i de safari.
+42. mi-mui i ave visita a Espania an Aegiptos - We have visited Spain and Egypt.
+43. Mia i vole savi - Mia wants to know.
+44. Eat! - i manja!
+45. mi i favo a di safari.
+46. pero tu i favo safari.
+47. Bob i de viva.
+48. Leo i odi a avion.
+49. ke rason?
+50. Bob i de visita a Germania an Frans e ke rason?
 
 ## Notes
 
