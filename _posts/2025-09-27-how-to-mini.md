@@ -2,7 +2,7 @@
 title: "How to Mini"
 permalink: /how-to-mini
 custom_date: "250927"
-updated_date: "251019"
+updated_date: "251023"
 ---
 
 # How to Mini
@@ -15,6 +15,7 @@ The lessons can be read in any order. They include all the grammar you need, aud
 - [How to talk about languages](/mini-how-to-talk-about-languages).
 - [How to talk about your place of origin](/mini-how-to-talk-about-your-place-of-origin).
 - [How to chat about places you want to or have visited](/mini-how-to-chat-about-places-you-want-to-or-have-visited).
+- [How to ask about words you don't know](/mini-how-to-ask-about-words-you-dont-know).
 
 ## Answers to exercises
 
