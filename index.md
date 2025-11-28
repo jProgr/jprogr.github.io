@@ -149,3 +149,5 @@ I'm Cristóbal Meléndez and I like photography, programming, anime, maths, jour
 - [Una traducción de la canción Solo mentiras de Lupita D’Alessio al Esperanto](/solo-mentiras-de-lupita-d-alessio-al-esperanto).
 - [A translation of the song This Is How It Feels by Inspiral Carpets to Toki Pona](/this-is-how-it-feels-by-inspiral-carpets-to-toki-pona).
 - [Esos y aquellos que no hablan con sus heridas](/heridas).
+
+"Fortunately, Go doesn't have async/await". Anton Zhiyanov.
