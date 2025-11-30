@@ -2,7 +2,7 @@
 title: "How to Mini"
 permalink: /how-to-mini
 custom_date: "250927"
-updated_date: "251023"
+updated_date: "251129"
 ---
 
 # How to Mini
@@ -16,6 +16,7 @@ The lessons can be read in any order. They include all the grammar you need, aud
 - [How to talk about your place of origin](/mini-how-to-talk-about-your-place-of-origin).
 - [How to chat about places you want to or have visited](/mini-how-to-chat-about-places-you-want-to-or-have-visited).
 - [How to ask about words you don't know](/mini-how-to-ask-about-words-you-dont-know).
+- [How to point out the position of things](/mini-how-to-point-out-the-position-of-things).
 
 ## Answers to exercises
 
@@ -69,6 +70,14 @@ The lessons can be read in any order. They include all the grammar you need, aud
 48. Leo i odi a avion.
 49. ke rason?
 50. Bob i de visita a Germania an Frans e ke rason?
+51. What is under Leo's pen case? A table
+52. Mia pen e nea de ke? Mia pen e nea de Mia pen-kaja an Leo pen-kaja.
+53. Leo i ave a pen-kaja? ja.
+54. Mia pen-kaja e unda de mesa? no.
+55. Your sword is on the side of the column - tu katana e lado de kolun.
+56. oranje e en mi - The orange is in me - The orange is inside me.
+57. tu baka e baka de tu - Your back is behind you.
+58. That pen is above - da pen e supa.
 
 ## Notes
 
