@@ -2,7 +2,7 @@
 title: "How to Mini"
 permalink: /how-to-mini
 custom_date: "250927"
-updated_date: "251129"
+updated_date: "251211"
 ---
 
 # How to Mini
@@ -17,6 +17,7 @@ The lessons can be read in any order. They include all the grammar you need, aud
 - [How to chat about places you want to or have visited](/mini-how-to-chat-about-places-you-want-to-or-have-visited).
 - [How to ask about words you don't know](/mini-how-to-ask-about-words-you-dont-know).
 - [How to point out the position of things](/mini-how-to-point-out-the-position-of-things).
+- [How to order food at a restaurant](/mini-how-to-order-food-at-a-restaurant).
 
 ## Answers to exercises
 
@@ -78,6 +79,21 @@ The lessons can be read in any order. They include all the grammar you need, aud
 56. oranje e en mi - The orange is in me - The orange is inside me.
 57. tu baka e baka de tu - Your back is behind you.
 58. That pen is above - da pen e supa.
+59. mi i vole a jusi de longo-midori-melon - I want cucumber juice.
+60. si i vole bibe a kafe - He wants to drink a coffee - She wants to drink a coffee.
+61. Here is the menu - di a menu.
+62. mi i kan mira a menu? - Can I see the menu?
+63. Mia likes beer - Mia i favo a bira.
+64. Eggs with sausages - ovo kon longo-niku.
+65. tortija de patata - Potato tortilla - Tortilla with potatos.
+66. They wanna eat cheese empanada, fruit, and eggs. Also, I want a coffee - si-ale i vole manja a empanada kon keju, feruta an ovo. an, mi i vole a kafe.
+67. tu i favo a polo? - Do you like chicken?
+68. ale man i favo a pisa? - Does everybody like pizza?
+69. What does she want to drink? - si-feme i vole bible a ke?
+70. niku-sando e bon-aroma - The hamburger is tasty.
+71. This has cheese - di i ave a keju.
+72. Are they ready? - si e redi? - si-ale e redi?
+73. I wanna eat tacos - mi i vole manja a tako.
 
 ## Notes
 

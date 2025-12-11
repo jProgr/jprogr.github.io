@@ -8,6 +8,7 @@ I'm Cristóbal Meléndez and I like photography, programming, anime, maths, jour
 
 ## Content
 
+- [Mini: How to order food at a restaurant](/mini-how-to-order-food-at-a-restaurant).
 - [Mini: How to point out the position of things](/mini-how-to-point-out-the-position-of-things).
 - [cloud_1981](/cloud_1981).
 - [647843](/647843).
