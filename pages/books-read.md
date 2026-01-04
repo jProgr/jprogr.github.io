@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "250915"
+updated_date: "260104"
 ---
 
 # Books read
@@ -58,6 +58,8 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Simplicity: Essays - Joshua Fields Millburn, Ryan Nicodemus.
 - Existentialism is a humanism - Jean-Paul Sartre.
 - Domain-Driven Design - Eric Evans.
+- Mythical creatures - Lauren Bucca.
+- Georges Seurat - Delphine Duchêne.
 - Grammar of Lingua Franca Nova - George Boeree, Simon Davies.
 - Essential Dutch Grammar - Henry R. Stern.
 - Beginner's Ladino - Alla Markova.
