@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "260104"
+updated_date: "260118"
 ---
 
 # Books read
@@ -24,6 +24,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - The ABC of Relativity - Bertrand Russell.
 - The problems of philosophy - Bertrand Russell.
 - The Machine Stops - E. M. Forster.
+- Pictures of the floating world - Sarah E. Thompson.
 - Dad is fat - Jim Gaffigan.
 - Food: A love story - Jim Gaffigan.
 - Concerning the spiritual in art - Wassily Kandinsky.
