@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "260118"
+updated_date: "260213"
 ---
 
 # Books read
@@ -92,6 +92,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Zen en el arte de escribir - Ray Bradbury.
 - Es lo mesmo pero no es igual - Daniel Escorza.
 - Crónica de una sociedad intoxicada - Joan-Ramon Laporte.
+- Markéta Lazarová - Vladislav Vančura.
 - Los fantasmas ausentes - Eva Ibbotson.
 - 100 lugares que ver después de morir - Ken Jennings.
 - Las de endenantes - Bruno Newman.
