@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "260213"
+updated_date: "260214"
 ---
 
 # Books read
@@ -54,6 +54,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Chasing the moon - Lee Martinez
 - Divine misfortune - Lee Martinez.
 - Sapiens - Yuval Noah Harari.
+- All tomorrows - C. M. Kosemen.
 - The man who mistook his wife for a hat: and other clinical tales - Oliver Sacks.
 - Minimalism: Essential Essays - Ryan Nicodemus, Joshua Fields Millburn.
 - Simplicity: Essays - Joshua Fields Millburn, Ryan Nicodemus.
