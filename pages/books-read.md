@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "260214"
+updated_date: "260305"
 ---
 
 # Books read
@@ -32,6 +32,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - On the nature of totalitarianism - Hannah Arendt.
 - The theory of everything else - Dan Schreiber.
 - Toki Pona - Sonja Lang.
+- There is no antimemetics division - qntm.
 - Toki Pona: The Simplest Language in the World - Robert Warnke.
 - Toki Pona: The language of good. The simple way of life - B. J. Knight.
 - Me talk pretty one day - David Sedaris.
