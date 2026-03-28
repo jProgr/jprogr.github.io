@@ -4,7 +4,7 @@ title: "jProgr personal site"
 
 # jProgr personal site
 
-I'm Cristóbal Meléndez and I like photography, programming, anime, maths, journaling, art, chess, bead art, the lyre, manga, mtg, cross stitching, the bongos, knots, philosophy, blender, reading, languages: english, bahasa indonesia, mini, español, italiano.
+I'm Cristóbal Meléndez and I like math, bead art, programming, reading, anime, journaling, mtg, photography, art, manga, chess, cross stitching, blender, philosophy, languages: mini, english, español, italiano.
 
 ## Content
 
@@ -151,5 +151,3 @@ I'm Cristóbal Meléndez and I like photography, programming, anime, maths, jour
 - [Una traducción de la canción Solo mentiras de Lupita D’Alessio al Esperanto](/solo-mentiras-de-lupita-d-alessio-al-esperanto).
 - [A translation of the song This Is How It Feels by Inspiral Carpets to Toki Pona](/this-is-how-it-feels-by-inspiral-carpets-to-toki-pona).
 - [Esos y aquellos que no hablan con sus heridas](/heridas).
-
-"Fortunately, Go doesn't have async/await". Anton Zhiyanov.
