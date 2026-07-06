@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "260319"
+updated_date: "260705"
 ---
 
 # Books read
@@ -33,6 +33,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - On the nature of totalitarianism - Hannah Arendt.
 - The theory of everything else - Dan Schreiber.
 - Toki Pona - Sonja Lang.
+- Meditations - Marcus Aurelius.
 - There is no antimemetics division - qntm.
 - Toki Pona: The Simplest Language in the World - Robert Warnke.
 - Toki Pona: The language of good. The simple way of life - B. J. Knight.
@@ -56,6 +57,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Chasing the moon - Lee Martinez
 - Divine misfortune - Lee Martinez.
 - Sapiens - Yuval Noah Harari.
+- Reasons to stay alive - Matt Haig.
 - All tomorrows - C. M. Kosemen.
 - The man who mistook his wife for a hat: and other clinical tales - Oliver Sacks.
 - Minimalism: Essential Essays - Ryan Nicodemus, Joshua Fields Millburn.
@@ -145,6 +147,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Baila, baila, baila - Haruki Murakami.
 - Crónica del pájaro que da cuerda al mundo - Haruki Murakami.
 - After Dark - Haruki Murakami.
+- La miseria del mundo - Alain Accardo, Gabrielle Balazs, Stéphane Beaud, Emmanuel Bourdieu, Pierre Bourdieu, Philippe Bourgois, Sylvain Broccolichi, Patrick Champagne, Rosine Christin, Jean-Pierre Faguer, Sandrine García, Remi Lenoir, Françoise Œuvrard, Michel Pialoux, Louis Pinto, Denis Podalydès, Abdelmalek Sayad, Charles Soulié, Loïc J. D. Wacquant.
 - Gran guía visual del cosmos - Toshifumi Futamase, Toshihiro Nakamaru, Yu Tokumaru.
 - Los años de peregrinación del chico sin color - Haruki Murakami.
 - Cómo empezar a escribir historias - Alberto Chimal.
