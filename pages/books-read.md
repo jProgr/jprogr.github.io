@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "260705"
+updated_date: "260813"
 ---
 
 # Books read
@@ -35,6 +35,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Toki Pona - Sonja Lang.
 - Meditations - Marcus Aurelius.
 - There is no antimemetics division - qntm.
+- Life on the bridge - Kaelynn Partlow.
 - Toki Pona: The Simplest Language in the World - Robert Warnke.
 - Toki Pona: The language of good. The simple way of life - B. J. Knight.
 - Me talk pretty one day - David Sedaris.
