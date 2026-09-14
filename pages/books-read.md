@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "260813"
+updated_date: "260913"
 ---
 
 # Books read
@@ -33,6 +33,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - On the nature of totalitarianism - Hannah Arendt.
 - The theory of everything else - Dan Schreiber.
 - Toki Pona - Sonja Lang.
+- All Quiet on the Western Front - Erich Maria Remarque.
 - Meditations - Marcus Aurelius.
 - There is no antimemetics division - qntm.
 - Life on the bridge - Kaelynn Partlow.
@@ -49,6 +50,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - 100 Go mistakes and how to avoid them - Teiva Harsanyi.
 - Lolita - Vladimir Nabokov.
 - Invitation to a Beheading - Vladimir Nabokov.
+- 101 involved algebra problems with answers - Chris McMullen.
 - Calculus made easy - Silvanus P. Thompson.
 - The big fat high school algebra 1 workbook - Robert Vigneri.
 - Math trigonometry practice workbook - Brain Hunter Prep.
