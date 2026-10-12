@@ -1,7 +1,7 @@
 ---
 title: "Books read"
 permalink: "/books-read"
-updated_date: "260913"
+updated_date: "261012"
 ---
 
 # Books read
@@ -91,6 +91,7 @@ These are lists of the books that I have read and enjoyed enough to put in a lis
 - Tsugumi - Banana Yoshimoto.
 - Sueño profundo - Banana Yoshimoto.
 - Recuerdos de un callejón sin salida - Banana Yoshimoto.
+- El autoritarismo científico - Javier Peteiro Cartelle.
 - Soy un gato - Natsume Souseki.
 - Lo bello y lo triste - Yasunari Kawabata.
 - ¿Sueñan los androides con ovejas eléctricas? - Philip K. Dick.
